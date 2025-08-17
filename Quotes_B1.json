@@ -1,0 +1,1413 @@
+[
+    {
+      "id": "b1-001",
+      "quote": "True friendship grows stronger through challenges.",
+      "used": 0,
+      "translations": {
+        "German": "Wahre Freundschaft wird durch Herausforderungen stärker.",
+        "Dutch": "Echte vriendschap wordt sterker door uitdagingen.",
+        "Spanish": "La verdadera amistad se fortalece con los desafíos.",
+        "Italian": "La vera amicizia diventa più forte attraverso le sfide.",
+        "Turkish": "Gerçek dostluk, zorluklarla daha da güçlenir.",
+        "French": "La véritable amitié se renforce face aux défis.",
+        "Chinese": "真正的友谊在挑战中变得更坚固。",
+        "Japanese": "本当の友情は困難を通して強くなる。"
+      }
+    },
+    {
+      "id": "b1-002",
+      "quote": "Learning from mistakes is the path to wisdom.",
+      "used": 0,
+      "translations": {
+        "German": "Aus Fehlern zu lernen ist der Weg zur Weisheit.",
+        "Dutch": "Leren van fouten is de weg naar wijsheid.",
+        "Spanish": "Aprender de los errores es el camino hacia la sabiduría.",
+        "Italian": "Imparare dagli errori è la strada verso la saggezza.",
+        "Turkish": "Hatalardan öğrenmek, bilgelik yoludur.",
+        "French": "Apprendre de ses erreurs est le chemin vers la sagesse.",
+        "Chinese": "从错误中学习是通向智慧的道路。",
+        "Japanese": "失敗から学ぶことは知恵への道である。"
+      }
+    },
+    {
+      "id": "b1-003",
+      "quote": "A healthy mind lives in a healthy body.",
+      "used": 0,
+      "translations": {
+        "German": "Ein gesunder Geist lebt in einem gesunden Körper.",
+        "Dutch": "Een gezonde geest leeft in een gezond lichaam.",
+        "Spanish": "Una mente sana vive en un cuerpo sano.",
+        "Italian": "Una mente sana vive in un corpo sano.",
+        "Turkish": "Sağlıklı bir zihin, sağlıklı bir bedende yaşar.",
+        "French": "Un esprit sain vit dans un corps sain.",
+        "Chinese": "健康的心灵住在健康的身体里。",
+        "Japanese": "健全な精神は健全な身体に宿る。"
+      }
+    },
+    {
+      "id": "b1-004",
+      "quote": "Curiosity is the first step towards discovery.",
+      "used": 0,
+      "translations": {
+        "German": "Neugier ist der erste Schritt zur Entdeckung.",
+        "Dutch": "Nieuwsgierigheid is de eerste stap naar ontdekking.",
+        "Spanish": "La curiosidad es el primer paso hacia el descubrimiento.",
+        "Italian": "La curiosità è il primo passo verso la scoperta.",
+        "Turkish": "Merak, keşfe giden ilk adımdır.",
+        "French": "La curiosité est la première étape vers la découverte.",
+        "Chinese": "好奇是走向发现的第一步。",
+        "Japanese": "好奇心は発見への第一歩である。"
+      }
+    },
+    {
+      "id": "b1-005",
+      "quote": "Respect is earned through actions, not words.",
+      "used": 0,
+      "translations": {
+        "German": "Respekt wird durch Taten verdient, nicht durch Worte.",
+        "Dutch": "Respect verdien je door daden, niet door woorden.",
+        "Spanish": "El respeto se gana con acciones, no con palabras.",
+        "Italian": "Il rispetto si guadagna con le azioni, non con le parole.",
+        "Turkish": "Saygı sözlerle değil, eylemlerle kazanılır.",
+        "French": "Le respect se gagne par les actes, pas par les paroles.",
+        "Chinese": "尊重是通过行动赢得的，而不是言语。",
+        "Japanese": "尊敬は言葉ではなく行動で得られる。"
+      }
+    },
+    {
+      "id": "b1-006",
+      "quote": "Time and tide wait for no one.",
+      "used": 0,
+      "translations": {
+        "German": "Zeit und Gezeiten warten auf niemanden.",
+        "Dutch": "Tijd en getij wachten op niemand.",
+        "Spanish": "El tiempo y la marea no esperan a nadie.",
+        "Italian": "Il tempo e la marea non aspettano nessuno.",
+        "Turkish": "Zaman ve gelgit kimseyi beklemez.",
+        "French": "Le temps et la marée n'attendent personne.",
+        "Chinese": "岁月不等人。",
+        "Japanese": "時と潮は誰も待たない。"
+      }
+    },
+    {
+      "id": "b1-007",
+      "quote": "Imagination can create worlds beyond reality.",
+      "used": 0,
+      "translations": {
+        "German": "Die Fantasie kann Welten jenseits der Realität erschaffen.",
+        "Dutch": "Verbeelding kan werelden creëren voorbij de realiteit.",
+        "Spanish": "La imaginación puede crear mundos más allá de la realidad.",
+        "Italian": "L'immaginazione può creare mondi oltre la realtà.",
+        "Turkish": "Hayal gücü, gerçeğin ötesinde dünyalar yaratabilir.",
+        "French": "L'imagination peut créer des mondes au-delà de la réalité.",
+        "Chinese": "想象力可以创造超越现实的世界。",
+        "Japanese": "想像力は現実を超えた世界を作り出せる。"
+      }
+    },
+    {
+      "id": "b1-008",
+      "quote": "Every culture has its own unique wisdom.",
+      "used": 0,
+      "translations": {
+        "German": "Jede Kultur hat ihre eigene einzigartige Weisheit.",
+        "Dutch": "Elke cultuur heeft zijn eigen unieke wijsheid.",
+        "Spanish": "Cada cultura tiene su propia sabiduría única.",
+        "Italian": "Ogni cultura ha la sua saggezza unica.",
+        "Turkish": "Her kültürün kendine özgü bir bilgeliği vardır.",
+        "French": "Chaque culture possède sa propre sagesse unique.",
+        "Chinese": "每种文化都有自己独特的智慧。",
+        "Japanese": "すべての文化には独自の知恵がある。"
+      }
+    },
+    {
+      "id": "b1-009",
+      "quote": "Kindness is a language everyone understands.",
+      "used": 0,
+      "translations": {
+        "German": "Freundlichkeit ist eine Sprache, die jeder versteht.",
+        "Dutch": "Vriendelijkheid is een taal die iedereen begrijpt.",
+        "Spanish": "La amabilidad es un idioma que todos entienden.",
+        "Italian": "La gentilezza è una lingua che tutti comprendono.",
+        "Turkish": "Nezaket, herkesin anladığı bir dildir.",
+        "French": "La gentillesse est une langue que tout le monde comprend.",
+        "Chinese": "善良是一种人人都懂的语言。",
+        "Japanese": "優しさは誰にでも通じる言葉だ。"
+      }
+    },
+    {
+      "id": "b1-010",
+      "quote": "Change is the only constant in life.",
+      "used": 0,
+      "translations": {
+        "German": "Veränderung ist die einzige Konstante im Leben.",
+        "Dutch": "Verandering is de enige constante in het leven.",
+        "Spanish": "El cambio es la única constante en la vida.",
+        "Italian": "Il cambiamento è l'unica costante nella vita.",
+        "Turkish": "Değişim, hayattaki tek sabittir.",
+        "French": "Le changement est la seule constante dans la vie.",
+        "Chinese": "变化是生活中唯一不变的。",
+        "Japanese": "変化は人生で唯一の不変だ。"
+      }
+    },
+    {
+        "id": "b1-001",
+        "quote": "Traveling to new places opens your mind to new ideas.",
+        "used": 0,
+        "translations": {
+          "German": "Das Reisen an neue Orte öffnet den Geist für neue Ideen.",
+          "Dutch": "Reizen naar nieuwe plaatsen opent je geest voor nieuwe ideeën.",
+          "Spanish": "Viajar a nuevos lugares abre tu mente a nuevas ideas.",
+          "Italian": "Viaggiare in nuovi luoghi apre la mente a nuove idee.",
+          "Turkish": "Yeni yerlere seyahat etmek zihnini yeni fikirlere açar.",
+          "French": "Voyager dans de nouveaux endroits ouvre l'esprit à de nouvelles idées.",
+          "Chinese": "去新的地方旅行会让你的思想开放接受新的想法。",
+          "Japanese": "新しい場所への旅行は、新しい考えに心を開かせる。"
+        }
+      },
+      {
+        "id": "b1-002",
+        "quote": "Good communication can solve most problems.",
+        "used": 0,
+        "translations": {
+          "German": "Gute Kommunikation kann die meisten Probleme lösen.",
+          "Dutch": "Goede communicatie kan de meeste problemen oplossen.",
+          "Spanish": "Una buena comunicación puede resolver la mayoría de los problemas.",
+          "Italian": "Una buona comunicazione può risolvere la maggior parte dei problemi.",
+          "Turkish": "İyi iletişim çoğu sorunu çözebilir.",
+          "French": "Une bonne communication peut résoudre la plupart des problèmes.",
+          "Chinese": "良好的沟通可以解决大多数问题。",
+          "Japanese": "良いコミュニケーションはほとんどの問題を解決できる。"
+        }
+      },
+      {
+        "id": "b1-003",
+        "quote": "Learning from mistakes is the fastest way to grow.",
+        "used": 0,
+        "translations": {
+          "German": "Aus Fehlern zu lernen ist der schnellste Weg zu wachsen.",
+          "Dutch": "Leren van fouten is de snelste manier om te groeien.",
+          "Spanish": "Aprender de los errores es la forma más rápida de crecer.",
+          "Italian": "Imparare dagli errori è il modo più veloce per crescere.",
+          "Turkish": "Hatalardan öğrenmek büyümenin en hızlı yoludur.",
+          "French": "Apprendre de ses erreurs est le moyen le plus rapide de grandir.",
+          "Chinese": "从错误中学习是成长最快的方式。",
+          "Japanese": "失敗から学ぶことが成長する最速の方法だ。"
+        }
+      },
+      {
+        "id": "b1-004",
+        "quote": "A balanced diet is the key to a healthy life.",
+        "used": 0,
+        "translations": {
+          "German": "Eine ausgewogene Ernährung ist der Schlüssel zu einem gesunden Leben.",
+          "Dutch": "Een evenwichtige voeding is de sleutel tot een gezond leven.",
+          "Spanish": "Una dieta equilibrada es la clave para una vida saludable.",
+          "Italian": "Una dieta equilibrata è la chiave per una vita sana.",
+          "Turkish": "Dengeli beslenme sağlıklı bir yaşamın anahtarıdır.",
+          "French": "Une alimentation équilibrée est la clé d'une vie saine.",
+          "Chinese": "均衡饮食是健康生活的关键。",
+          "Japanese": "バランスの取れた食事は健康な生活の鍵だ。"
+        }
+      },
+      {
+        "id": "b1-005",
+        "quote": "Teamwork makes complex tasks easier to handle.",
+        "used": 0,
+        "translations": {
+          "German": "Teamarbeit macht komplexe Aufgaben leichter zu bewältigen.",
+          "Dutch": "Teamwerk maakt complexe taken makkelijker te behandelen.",
+          "Spanish": "El trabajo en equipo hace que las tareas complejas sean más fáciles de manejar.",
+          "Italian": "Il lavoro di squadra rende più facile gestire compiti complessi.",
+          "Turkish": "Takım çalışması karmaşık görevleri daha kolay hale getirir.",
+          "French": "Le travail d'équipe rend les tâches complexes plus faciles à gérer.",
+          "Chinese": "团队合作使复杂任务更容易处理。",
+          "Japanese": "チームワークは複雑な作業を扱いやすくする。"
+        }
+      },
+      {
+        "id": "b1-006",
+        "quote": "Books allow you to live many lives in one lifetime.",
+        "used": 0,
+        "translations": {
+          "German": "Bücher erlauben es dir, viele Leben in einem zu leben.",
+          "Dutch": "Boeken laten je vele levens in één leven ervaren.",
+          "Spanish": "Los libros te permiten vivir muchas vidas en una sola vida.",
+          "Italian": "I libri ti permettono di vivere molte vite in una sola.",
+          "Turkish": "Kitaplar, tek bir yaşamda birçok hayat yaşamanı sağlar.",
+          "French": "Les livres te permettent de vivre plusieurs vies en une seule.",
+          "Chinese": "书籍让你在一生中体验许多种人生。",
+          "Japanese": "本は、一生の中で多くの人生を生きることを可能にする。"
+        }
+      },
+      {
+        "id": "b1-007",
+        "quote": "Technology connects people from all around the world.",
+        "used": 0,
+        "translations": {
+          "German": "Technologie verbindet Menschen aus aller Welt.",
+          "Dutch": "Technologie verbindt mensen van over de hele wereld.",
+          "Spanish": "La tecnología conecta a personas de todo el mundo.",
+          "Italian": "La tecnologia collega persone da tutto il mondo.",
+          "Turkish": "Teknoloji, dünyanın dört bir yanındaki insanları birbirine bağlar.",
+          "French": "La technologie connecte des personnes du monde entier.",
+          "Chinese": "科技将世界各地的人们连接起来。",
+          "Japanese": "テクノロジーは世界中の人々をつなぐ。"
+        }
+      },
+      {
+        "id": "b1-008",
+        "quote": "Patience and time can solve the hardest problems.",
+        "used": 0,
+        "translations": {
+          "German": "Geduld und Zeit können die schwierigsten Probleme lösen.",
+          "Dutch": "Geduld en tijd kunnen de moeilijkste problemen oplossen.",
+          "Spanish": "La paciencia y el tiempo pueden resolver los problemas más difíciles.",
+          "Italian": "La pazienza e il tempo possono risolvere i problemi più difíciles.",
+          "Turkish": "Sabır ve zaman en zor sorunları çözebilir.",
+          "French": "La patience et le temps peuvent résoudre les problèmes les plus difficiles.",
+          "Chinese": "耐心和时间能解决最难的问题。",
+          "Japanese": "忍耐と時間は最も難しい問題を解決できる。"
+        }
+      },
+      {
+        "id": "b1-009",
+        "quote": "Helping others can bring unexpected joy to your day.",
+        "used": 0,
+        "translations": {
+          "German": "Anderen zu helfen kann unerwartete Freude in deinen Tag bringen.",
+          "Dutch": "Anderen helpen kan onverwachte vreugde in je dag brengen.",
+          "Spanish": "Ayudar a los demás puede traer una alegría inesperada a tu día.",
+          "Italian": "Aiutare gli altri può portare una gioia inaspettata alla tua giornata.",
+          "Turkish": "Başkalarına yardım etmek gününe beklenmedik bir mutluluk katabilir.",
+          "French": "Aider les autres peut apporter une joie inattendue à ta journée.",
+          "Chinese": "帮助别人可以给你的一天带来意想不到的快乐。",
+          "Japanese": "人を助けることは、一日に思いがけない喜びをもたらす。"
+        }
+      },
+      {
+        "id": "b1-010",
+        "quote": "Music has the power to change your mood instantly.",
+        "used": 0,
+        "translations": {
+          "German": "Musik hat die Kraft, deine Stimmung sofort zu ändern.",
+          "Dutch": "Muziek heeft de kracht om je humeur direct te veranderen.",
+          "Spanish": "La música tiene el poder de cambiar tu estado de ánimo al instante.",
+          "Italian": "La musica ha il potere di cambiare il tuo umore all'istante.",
+          "Turkish": "Müziğin ruh halini anında değiştirme gücü vardır.",
+          "French": "La musique a le pouvoir de changer ton humeur instantanément.",
+          "Chinese": "音乐有立刻改变你心情的力量。",
+          "Japanese": "音楽には気分を瞬時に変える力がある。"
+        }
+      },
+      {
+        "id": "b1-011",
+        "quote": "Success depends on hard work and determination.",
+        "used": 0,
+        "translations": {
+          "German": "Erfolg hängt von harter Arbeit und Entschlossenheit ab.",
+          "Dutch": "Succes hangt af van hard werken en vastberadenheid.",
+          "Spanish": "El éxito depende del trabajo duro y la determinación.",
+          "Italian": "Il successo dipende dal duro lavoro e dalla determinazione.",
+          "Turkish": "Başarı sıkı çalışma ve kararlılığa bağlıdır.",
+          "French": "Le succès dépend du travail acharné et de la détermination.",
+          "Chinese": "成功取决于努力和决心。",
+          "Japanese": "成功は努力と決意にかかっている。"
+        }
+      },
+      {
+        "id": "b1-012",
+        "quote": "Reading every day improves your vocabulary and thinking.",
+        "used": 0,
+        "translations": {
+          "German": "Tägliches Lesen verbessert deinen Wortschatz und dein Denken.",
+          "Dutch": "Dagelijks lezen verbetert je woordenschat en denken.",
+          "Spanish": "Leer todos los días mejora tu vocabulario y pensamiento.",
+          "Italian": "Leggere ogni giorno migliora il tuo vocabolario e il pensiero.",
+          "Turkish": "Her gün okumak kelime dağarcığını ve düşünmeni geliştirir.",
+          "French": "Lire tous les jours améliore ton vocabulaire et ta réflexion.",
+          "Chinese": "每天阅读能提高你的词汇量和思维能力。",
+          "Japanese": "毎日読むことは語彙と考え方を向上させる。"
+        }
+      },
+      {
+        "id": "b1-013",
+        "quote": "It is important to balance work and free time.",
+        "used": 0,
+        "translations": {
+          "German": "Es ist wichtig, Arbeit und Freizeit auszubalancieren.",
+          "Dutch": "Het is belangrijk om werk en vrije tijd in balans te houden.",
+          "Spanish": "Es importante equilibrar el trabajo y el tiempo libre.",
+          "Italian": "È importante bilanciare lavoro e tempo libero.",
+          "Turkish": "İş ve boş zaman arasında denge kurmak önemlidir.",
+          "French": "Il est important d'équilibrer travail et temps libre.",
+          "Chinese": "平衡工作和自由时间很重要。",
+          "Japanese": "仕事と自由な時間のバランスを取ることが重要だ。"
+        }
+      },
+      {
+        "id": "b1-014",
+        "quote": "Asking questions helps you understand better.",
+        "used": 0,
+        "translations": {
+          "German": "Fragen stellen hilft dir, besser zu verstehen.",
+          "Dutch": "Vragen stellen helpt je beter te begrijpen.",
+          "Spanish": "Hacer preguntas te ayuda a entender mejor.",
+          "Italian": "Fare domande ti aiuta a capire meglio.",
+          "Turkish": "Soru sormak daha iyi anlamana yardımcı olur.",
+          "French": "Poser des questions t'aide à mieux comprendre.",
+          "Chinese": "提问帮助你更好地理解。",
+          "Japanese": "質問することはより良く理解するのに役立つ。"
+        }
+      },
+      {
+        "id": "b1-015",
+        "quote": "Travel teaches you about different cultures and people.",
+        "used": 0,
+        "translations": {
+          "German": "Reisen lehrt dich über verschiedene Kulturen und Menschen.",
+          "Dutch": "Reizen leert je over verschillende culturen en mensen.",
+          "Spanish": "Viajar te enseña sobre diferentes culturas y personas.",
+          "Italian": "Viaggiare ti insegna sulle diverse culture e persone.",
+          "Turkish": "Seyahat, farklı kültürler ve insanlar hakkında öğretir.",
+          "French": "Voyager t'apprend à propos de différentes cultures et personnes.",
+          "Chinese": "旅行让你了解不同的文化和人们。",
+          "Japanese": "旅行は異なる文化や人々について教えてくれる。"
+        }
+      },
+      {
+        "id": "b1-016",
+        "quote": "Taking breaks during study improves focus and memory.",
+        "used": 0,
+        "translations": {
+          "German": "Pausen während des Lernens verbessern Fokus und Gedächtnis.",
+          "Dutch": "Pauzes nemen tijdens het studeren verbetert focus en geheugen.",
+          "Spanish": "Tomar descansos durante el estudio mejora el enfoque y la memoria.",
+          "Italian": "Fare pause durante lo studio migliora la concentrazione e la memoria.",
+          "Turkish": "Çalışma sırasında mola vermek odaklanmayı ve hafızayı geliştirir.",
+          "French": "Faire des pauses pendant l'étude améliore la concentration et la mémoire.",
+          "Chinese": "学习期间休息能提高专注力和记忆力。",
+          "Japanese": "勉強中に休憩を取ることは集中力と記憶力を向上させる。"
+        }
+      },
+      {
+        "id": "b1-017",
+        "quote": "Friendship grows stronger when you spend time together.",
+        "used": 0,
+        "translations": {
+          "German": "Freundschaft wird stärker, wenn man Zeit miteinander verbringt.",
+          "Dutch": "Vriendschap wordt sterker als je samen tijd doorbrengt.",
+          "Spanish": "La amistad crece más fuerte cuando pasan tiempo juntos.",
+          "Italian": "L'amicizia cresce più forte quando trascorrete del tempo insieme.",
+          "Turkish": "Arkadaşlık, birlikte vakit geçirince güçlenir.",
+          "French": "L'amitié devient plus forte quand on passe du temps ensemble.",
+          "Chinese": "当你们共度时光时，友谊会更坚固。",
+          "Japanese": "一緒に時間を過ごすと友情は強くなる。"
+        }
+      },
+      {
+        "id": "b1-018",
+        "quote": "Setting clear goals helps you achieve success faster.",
+        "used": 0,
+        "translations": {
+          "German": "Klare Ziele setzen hilft dir, schneller Erfolg zu haben.",
+          "Dutch": "Duidelijke doelen stellen helpt je sneller succes te behalen.",
+          "Spanish": "Establecer metas claras te ayuda a lograr el éxito más rápido.",
+          "Italian": "Stabilire obiettivi chiari ti aiuta a raggiungere il successo più velocemente.",
+          "Turkish": "Açık hedefler belirlemek başarıya daha hızlı ulaşmana yardımcı olur.",
+          "French": "Fixer des objectifs clairs t'aide à réussir plus vite.",
+          "Chinese": "设定明确的目标帮助你更快成功。",
+          "Japanese": "明確な目標を設定すると、より早く成功できる。"
+        }
+      },
+      {
+        "id": "b1-019",
+        "quote": "Healthy habits start with small daily actions.",
+        "used": 0,
+        "translations": {
+          "German": "Gesunde Gewohnheiten beginnen mit kleinen täglichen Aktionen.",
+          "Dutch": "Gezonde gewoonten beginnen met kleine dagelijkse acties.",
+          "Spanish": "Los hábitos saludables comienzan con pequeñas acciones diarias.",
+          "Italian": "Le abitudini sane iniziano con piccole azioni quotidiane.",
+          "Turkish": "Sağlıklı alışkanlıklar küçük günlük eylemlerle başlar.",
+          "French": "Les habitudes saines commencent par de petites actions quotidiennes.",
+          "Chinese": "健康的习惯始于每天的小行动。",
+          "Japanese": "健康的な習慣は小さな毎日の行動から始まる。"
+        }
+      },
+      {
+        "id": "b1-020",
+        "quote": "Learning a new language requires patience and practice.",
+        "used": 0,
+        "translations": {
+          "German": "Eine neue Sprache zu lernen erfordert Geduld und Übung.",
+          "Dutch": "Een nieuwe taal leren vereist geduld en oefening.",
+          "Spanish": "Aprender un nuevo idioma requiere paciencia y práctica.",
+          "Italian": "Imparare una nuova lingua richiede pazienza e pratica.",
+          "Turkish": "Yeni bir dil öğrenmek sabır ve pratik gerektirir.",
+          "French": "Apprendre une nouvelle langue demande de la patience et de la pratique.",
+          "Chinese": "学习一门新语言需要耐心和练习。",
+          "Japanese": "新しい言語を学ぶには忍耐と練習が必要だ。"
+        }
+      },
+      {
+        "id": "b1-021",
+        "quote": "Taking time to relax helps reduce stress and improve mood.",
+        "used": 0,
+        "translations": {
+          "German": "Sich Zeit zum Entspannen zu nehmen hilft, Stress abzubauen und die Stimmung zu verbessern.",
+          "Dutch": "Tijd nemen om te ontspannen helpt stress te verminderen en je stemming te verbeteren.",
+          "Spanish": "Tomar tiempo para relajarse ayuda a reducir el estrés y mejorar el ánimo.",
+          "Italian": "Prendersi del tempo per rilassarsi aiuta a ridurre lo stress e migliorare l'umore.",
+          "Turkish": "Rahatlamak için zaman ayırmak stresi azaltmaya ve ruh halini iyileştirmeye yardımcı olur.",
+          "French": "Prendre le temps de se détendre aide à réduire le stress et améliorer l'humeur.",
+          "Chinese": "花时间放松有助于减轻压力和改善心情。",
+          "Japanese": "リラックスする時間を取ることはストレスを減らし、気分を良くするのに役立つ。"
+        }
+      },
+      {
+        "id": "b1-022",
+        "quote": "Listening carefully improves your ability to understand others.",
+        "used": 0,
+        "translations": {
+          "German": "Aufmerksam zuzuhören verbessert deine Fähigkeit, andere zu verstehen.",
+          "Dutch": "Goed luisteren verbetert je vermogen om anderen te begrijpen.",
+          "Spanish": "Escuchar atentamente mejora tu capacidad para entender a los demás.",
+          "Italian": "Ascoltare attentamente migliora la tua capacità di capire gli altri.",
+          "Turkish": "Dikkatli dinlemek, başkalarını anlama yeteneğini geliştirir.",
+          "French": "Écouter attentivement améliore ta capacité à comprendre les autres.",
+          "Chinese": "认真听有助于提高理解别人的能力。",
+          "Japanese": "注意深く聞くことは他人を理解する能力を高める。"
+        }
+      },
+      {
+        "id": "b1-023",
+        "quote": "Making mistakes is a natural part of learning new skills.",
+        "used": 0,
+        "translations": {
+          "German": "Fehler zu machen ist ein natürlicher Teil des Lernens neuer Fähigkeiten.",
+          "Dutch": "Fouten maken is een natuurlijk onderdeel van het leren van nieuwe vaardigheden.",
+          "Spanish": "Cometer errores es una parte natural de aprender nuevas habilidades.",
+          "Italian": "Fare errori è una parte naturale dell'apprendimento di nuove abilità.",
+          "Turkish": "Hata yapmak, yeni beceriler öğrenmenin doğal bir parçasıdır.",
+          "French": "Faire des erreurs fait naturellement partie de l'apprentissage de nouvelles compétences.",
+          "Chinese": "犯错误是学习新技能的自然过程。",
+          "Japanese": "失敗することは新しいスキルを学ぶ自然な一部です。"
+        }
+      },
+      {
+        "id": "b1-024",
+        "quote": "A positive attitude helps you face difficult situations with hope.",
+        "used": 0,
+        "translations": {
+          "German": "Eine positive Einstellung hilft dir, schwierigen Situationen mit Hoffnung zu begegnen.",
+          "Dutch": "Een positieve houding helpt je moeilijke situaties met hoop te benaderen.",
+          "Spanish": "Una actitud positiva te ayuda a enfrentar situaciones difíciles con esperanza.",
+          "Italian": "Un atteggiamento positivo ti aiuta ad affrontare situazioni difficili con speranza.",
+          "Turkish": "Pozitif bir tutum, zor durumlarla umutla başa çıkmana yardımcı olur.",
+          "French": "Une attitude positive t'aide à affronter les situations difficiles avec espoir.",
+          "Chinese": "积极的态度帮助你带着希望面对困难的情况。",
+          "Japanese": "ポジティブな態度は困難な状況に希望を持って立ち向かう助けになる。"
+        }
+      },
+      {
+        "id": "b1-025",
+        "quote": "Sharing your ideas can inspire others to think differently.",
+        "used": 0,
+        "translations": {
+          "German": "Das Teilen deiner Ideen kann andere inspirieren, anders zu denken.",
+          "Dutch": "Het delen van je ideeën kan anderen inspireren om anders te denken.",
+          "Spanish": "Compartir tus ideas puede inspirar a otros a pensar de manera diferente.",
+          "Italian": "Condividere le tue idee può ispirare gli altri a pensare in modo diverso.",
+          "Turkish": "Fikirlerini paylaşmak, başkalarını farklı düşünmeye teşvik edebilir.",
+          "French": "Partager tes idées peut inspirer les autres à penser différemment.",
+          "Chinese": "分享你的想法可以激励他人用不同的方式思考。",
+          "Japanese": "自分の考えを共有することで、他の人が違った考え方をするように促せる。"
+        }
+      },
+      {
+        "id": "b1-026",
+        "quote": "Sometimes, small steps lead to big changes over time.",
+        "used": 0,
+        "translations": {
+          "German": "Manchmal führen kleine Schritte im Laufe der Zeit zu großen Veränderungen.",
+          "Dutch": "Soms leiden kleine stappen na verloop van tijd tot grote veranderingen.",
+          "Spanish": "A veces, los pequeños pasos llevan a grandes cambios con el tiempo.",
+          "Italian": "A volte, piccoli passi portano a grandi cambiamenti nel tempo.",
+          "Turkish": "Bazen küçük adımlar zamanla büyük değişimlere yol açar.",
+          "French": "Parfois, de petits pas mènent à de grands changements avec le temps.",
+          "Chinese": "有时，小步骤随着时间带来大改变。",
+          "Japanese": "時には、小さな一歩が時間とともに大きな変化をもたらす。"
+        }
+      },
+      {
+        "id": "b1-027",
+        "quote": "Planning your day helps you use your time wisely.",
+        "used": 0,
+        "translations": {
+          "German": "Den Tag zu planen hilft dir, deine Zeit klug zu nutzen.",
+          "Dutch": "Je dag plannen helpt je je tijd verstandig te gebruiken.",
+          "Spanish": "Planificar tu día te ayuda a usar tu tiempo sabiamente.",
+          "Italian": "Pianificare la tua giornata ti aiuta a usare il tempo saggiamente.",
+          "Turkish": "Gününüzü planlamak, zamanınızı akıllıca kullanmanıza yardımcı olur.",
+          "French": "Planifier ta journée t'aide à utiliser ton temps intelligemment.",
+          "Chinese": "规划你的一天有助于明智地利用时间。",
+          "Japanese": "一日を計画することで時間を賢く使える。"
+        }
+      },
+      {
+        "id": "b1-028",
+        "quote": "Good communication builds trust between people.",
+        "used": 0,
+        "translations": {
+          "German": "Gute Kommunikation baut Vertrauen zwischen Menschen auf.",
+          "Dutch": "Goede communicatie bouwt vertrouwen tussen mensen op.",
+          "Spanish": "Una buena comunicación construye confianza entre las personas.",
+          "Italian": "Una buona comunicazione costruisce fiducia tra le persone.",
+          "Turkish": "İyi iletişim, insanlar arasında güven oluşturur.",
+          "French": "Une bonne communication construit la confiance entre les gens.",
+          "Chinese": "良好的沟通建立人与人之间的信任。",
+          "Japanese": "良いコミュニケーションは人々の間に信頼を築く。"
+        }
+      },
+      {
+        "id": "b1-029",
+        "quote": "Trying new activities helps you discover what you enjoy.",
+        "used": 0,
+        "translations": {
+          "German": "Neue Aktivitäten auszuprobieren hilft dir herauszufinden, was dir Spaß macht.",
+          "Dutch": "Nieuwe activiteiten proberen helpt je ontdekken wat je leuk vindt.",
+          "Spanish": "Probar nuevas actividades te ayuda a descubrir lo que disfrutas.",
+          "Italian": "Provare nuove attività ti aiuta a scoprire cosa ti piace.",
+          "Turkish": "Yeni aktiviteler denemek, neyi sevdiğini keşfetmene yardımcı olur.",
+          "French": "Essayer de nouvelles activités t'aide à découvrir ce que tu aimes.",
+          "Chinese": "尝试新活动帮助你发现自己喜欢什么。",
+          "Japanese": "新しい活動に挑戦することで、自分が何を楽しむか発見できる。"
+        }
+      },
+      {
+        "id": "b1-030",
+        "quote": "Every challenge is an opportunity to grow and learn.",
+        "used": 0,
+        "translations": {
+          "German": "Jede Herausforderung ist eine Chance zu wachsen und zu lernen.",
+          "Dutch": "Elke uitdaging is een kans om te groeien en te leren.",
+          "Spanish": "Cada desafío es una oportunidad para crecer y aprender.",
+          "Italian": "Ogni sfida è un'opportunità per crescere e imparare.",
+          "Turkish": "Her zorluk, büyümek ve öğrenmek için bir fırsattır.",
+          "French": "Chaque défi est une opportunité de grandir et d'apprendre.",
+          "Chinese": "每一个挑战都是成长和学习的机会。",
+          "Japanese": "すべての挑戦は成長と学びの機会である。"
+        }
+      },
+      {
+        "id": "b1-051",
+        "quote": "Success often comes to those who are too busy to be looking for it.",
+        "used": 0,
+        "translations": {
+          "German": "Erfolg kommt oft zu denen, die zu beschäftigt sind, um danach zu suchen.",
+          "Dutch": "Succes komt vaak naar degenen die te druk zijn om ernaar te zoeken.",
+          "Spanish": "El éxito suele llegar a quienes están demasiado ocupados para buscarlo.",
+          "Italian": "Il successo arriva spesso a chi è troppo impegnato per cercarlo.",
+          "Turkish": "Başarı genellikle onu aramaya vakti olmayanlara gelir.",
+          "French": "Le succès vient souvent à ceux qui sont trop occupés pour le chercher.",
+          "Chinese": "成功常常降临于那些忙得没时间寻找它的人。",
+          "Japanese": "成功は、それを探す暇がないほど忙しい人に訪れることが多い。"
+        }
+      },
+      {
+        "id": "b1-052",
+        "quote": "The greatest lesson in life is to know that even fools are right sometimes.",
+        "used": 0,
+        "translations": {
+          "German": "Die größte Lektion im Leben ist zu wissen, dass auch Narren manchmal Recht haben.",
+          "Dutch": "De grootste les in het leven is te weten dat zelfs dwazen soms gelijk hebben.",
+          "Spanish": "La mayor lección de la vida es saber que incluso los tontos a veces tienen razón.",
+          "Italian": "La più grande lezione della vita è sapere che anche gli sciocchi hanno ragione a volte.",
+          "Turkish": "Hayattaki en büyük ders, aptalların bazen haklı olduğunu bilmektir.",
+          "French": "La plus grande leçon de la vie est de savoir que même les imbéciles ont parfois raison.",
+          "Chinese": "人生最大的教训是知道即使傻瓜有时也会是对的。",
+          "Japanese": "人生で最も大きな教訓は、愚か者でも時には正しいことを知ることだ。"
+        }
+      },
+      {
+        "id": "b1-053",
+        "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+        "used": 0,
+        "translations": {
+          "German": "Herausforderungen machen das Leben interessant, und sie zu überwinden macht das Leben bedeutungsvoll.",
+          "Dutch": "Uitdagingen maken het leven interessant en ze overwinnen maakt het leven zinvol.",
+          "Spanish": "Los desafíos son lo que hace la vida interesante y superarlos es lo que le da sentido.",
+          "Italian": "Le sfide rendono la vita interessante e superarle è ciò che dà significato alla vita.",
+          "Turkish": "Zorluklar hayatı ilginç kılar ve onları aşmak hayatı anlamlı yapar.",
+          "French": "Les défis rendent la vie intéressante et les surmonter donne un sens à la vie.",
+          "Chinese": "挑战让生活变得有趣，克服挑战让生活变得有意义。",
+          "Japanese": "挑戦が人生を面白くし、それを乗り越えることが人生を意味あるものにする。"
+        }
+      },
+      {
+        "id": "b1-054",
+        "quote": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+        "used": 0,
+        "translations": {
+          "German": "Geduld und Ausdauer haben eine magische Wirkung, vor der Schwierigkeiten verschwinden und Hindernisse vergehen.",
+          "Dutch": "Geduld en doorzettingsvermogen hebben een magisch effect waardoor moeilijkheden verdwijnen en obstakels verdwijnen.",
+          "Spanish": "La paciencia y la perseverancia tienen un efecto mágico ante el cual las dificultades desaparecen y los obstáculos se desvanecen.",
+          "Italian": "La pazienza e la perseveranza hanno un effetto magico davanti al quale le difficoltà scompaiono e gli ostacoli svaniscono.",
+          "Turkish": "Sabır ve azim, zorlukların kaybolduğu ve engellerin ortadan kalktığı sihirli bir etkiye sahiptir.",
+          "French": "La patience et la persévérance ont un effet magique devant lequel les difficultés disparaissent et les obstacles s'évaporent.",
+          "Chinese": "耐心和坚持有一种神奇的效果，困难消失，障碍消散。",
+          "Japanese": "忍耐と根気には、困難が消え、障害が消え去る魔法のような効果がある。"
+        }
+      },
+      {
+        "id": "b1-055",
+        "quote": "We do not remember days, we remember moments.",
+        "used": 0,
+        "translations": {
+          "German": "Wir erinnern uns nicht an Tage, wir erinnern uns an Momente.",
+          "Dutch": "We herinneren ons geen dagen, maar momenten.",
+          "Spanish": "No recordamos días, recordamos momentos.",
+          "Italian": "Non ricordiamo i giorni, ricordiamo i momenti.",
+          "Turkish": "Günleri değil, anları hatırlarız.",
+          "French": "Nous ne nous souvenons pas des jours, mais des moments.",
+          "Chinese": "我们不记得日子，只记得瞬间。",
+          "Japanese": "私たちは日々を覚えているのではなく、瞬間を覚えている。"
+        }
+      },
+      {
+        "id": "b1-056",
+        "quote": "To understand the heart and mind of a person, look not at what they have already achieved but at what they aspire to do.",
+        "used": 0,
+        "translations": {
+          "German": "Um das Herz und den Geist einer Person zu verstehen, schaue nicht auf das, was sie bereits erreicht haben, sondern auf das, was sie anstreben zu tun.",
+          "Dutch": "Om het hart en de geest van een persoon te begrijpen, kijk niet naar wat ze al hebben bereikt, maar naar wat ze willen doen.",
+          "Spanish": "Para entender el corazón y la mente de una persona, no mires lo que ya ha logrado, sino lo que aspira a hacer.",
+          "Italian": "Per capire il cuore e la mente di una persona, non guardare ciò che ha già realizzato ma ciò che aspira a fare.",
+          "Turkish": "Bir kişinin kalbini ve zihnini anlamak için, zaten başardıklarına değil, yapmak istediklerine bak.",
+          "French": "Pour comprendre le cœur et l'esprit d'une personne, ne regardez pas ce qu'elle a déjà accompli mais ce qu'elle aspire à faire.",
+          "Chinese": "要理解一个人的心和脑，不看他们已经取得了什么，而看他们渴望做什么。",
+          "Japanese": "人の心と頭を理解するには、彼らがすでに達成したことではなく、何を望んでいるかを見ることだ。"
+        }
+      },
+      {
+        "id": "b1-057",
+        "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+        "used": 0,
+        "translations": {
+          "German": "Die wahre Entdeckungsreise besteht nicht darin, neue Landschaften zu suchen, sondern neue Augen zu haben.",
+          "Dutch": "De echte ontdekkingsreis bestaat niet uit het zoeken naar nieuwe landschappen, maar uit het hebben van nieuwe ogen.",
+          "Spanish": "El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.",
+          "Italian": "Il vero viaggio di scoperta non consiste nel cercare nuovi paesaggi, ma nell'avere nuovi occhi.",
+          "Turkish": "Gerçek keşif yolculuğu yeni manzaralar aramak değil, yeni gözlere sahip olmaktır.",
+          "French": "Le vrai voyage de découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux.",
+          "Chinese": "真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光。",
+          "Japanese": "発見の本当の旅は、新しい風景を探すことではなく、新しい目を持つことにある。"
+        }
+      },
+      {
+        "id": "b1-058",
+        "quote": "Do not wait for the perfect moment, take the moment and make it perfect.",
+        "used": 0,
+        "translations": {
+          "German": "Warte nicht auf den perfekten Moment, nimm den Moment und mache ihn perfekt.",
+          "Dutch": "Wacht niet op het perfecte moment, neem het moment en maak het perfect.",
+          "Spanish": "No esperes el momento perfecto, toma el momento y hazlo perfecto.",
+          "Italian": "Non aspettare il momento perfetto, prendi il momento e rendilo perfetto.",
+          "Turkish": "Mükemmel anı bekleme, anı al ve onu mükemmel yap.",
+          "French": "N'attendez pas le moment parfait, prenez le moment et rendez-le parfait.",
+          "Chinese": "不要等待完美时刻，把握时刻，让它变得完美。",
+          "Japanese": "完璧な瞬間を待つな、その瞬間をつかんで完璧にしなさい。"
+        }
+      },
+      {
+        "id": "b1-059",
+        "quote": "The future depends on what you do today, not tomorrow.",
+        "used": 0,
+        "translations": {
+          "German": "Die Zukunft hängt davon ab, was du heute tust, nicht morgen.",
+          "Dutch": "De toekomst hangt af van wat je vandaag doet, niet morgen.",
+          "Spanish": "El futuro depende de lo que hagas hoy, no mañana.",
+          "Italian": "Il futuro dipende da ciò che fai oggi, non domani.",
+          "Turkish": "Gelecek, yarın değil, bugün yaptıklarına bağlıdır.",
+          "French": "L'avenir dépend de ce que vous faites aujourd'hui, pas demain.",
+          "Chinese": "未来取决于你今天做什么，而不是明天。",
+          "Japanese": "未来は明日ではなく、今日あなたがすることにかかっている。"
+        }
+      },
+      {
+        "id": "b1-060",
+        "quote": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+        "used": 0,
+        "translations": {
+          "German": "Wenn wir das Beste in anderen suchen, bringen wir irgendwie das Beste in uns selbst hervor.",
+          "Dutch": "Wanneer we het beste in anderen proberen te ontdekken, halen we op de een of andere manier het beste in onszelf naar boven.",
+          "Spanish": "Cuando buscamos descubrir lo mejor en los demás, de alguna manera sacamos lo mejor de nosotros mismos.",
+          "Italian": "Quando cerchiamo di scoprire il meglio negli altri, in qualche modo portiamo fuori il meglio di noi stessi.",
+          "Turkish": "Başka insanlarda en iyiyi aradığımızda, bir şekilde kendimizdeki en iyiyi ortaya çıkarırız.",
+          "French": "Lorsque nous cherchons à découvrir le meilleur chez les autres, nous faisons ressortir le meilleur en nous-mêmes.",
+          "Chinese": "当我们努力发现他人的优点时，也会以某种方式激发出自己的优点。",
+          "Japanese": "他人の良いところを見つけようとすると、なぜか自分の良いところも引き出される。"
+        }
+      },
+      {
+        "id": "c1b2a3d4-e5f6-7a8b-9c0d-1e2f3g4h5i6j",
+        "quote": "Every sunset brings the promise of a new dawn.",
+        "used": 0,
+        "translations": {
+          "German": "Jeder Sonnenuntergang bringt das Versprechen eines neuen Morgens.",
+          "Dutch": "Elke zonsondergang brengt de belofte van een nieuwe dageraad.",
+          "Spanish": "Cada atardecer trae la promesa de un nuevo amanecer.",
+          "Italian": "Ogni tramonto porta la promessa di una nuova alba.",
+          "Turkish": "Her gün batımı, yeni bir şafak vaadi getirir.",
+          "French": "Chaque coucher de soleil apporte la promesse d'une nouvelle aube.",
+          "Chinese": "每一次日落都带来新黎明的承诺。",
+          "Japanese": "すべての夕暮れは新しい夜明けの約束をもたらす。"
+        }
+      },
+      {
+        "id": "d2e3f4g5-h6i7-8j9k-0l1m-2n3o4p5q6r7s",
+        "quote": "The smallest act of kindness can change a life.",
+        "used": 0,
+        "translations": {
+          "German": "Die kleinste Tat der Freundlichkeit kann ein Leben verändern.",
+          "Dutch": "De kleinste daad van vriendelijkheid kan een leven veranderen.",
+          "Spanish": "El acto más pequeño de bondad puede cambiar una vida.",
+          "Italian": "Il più piccolo atto di gentilezza può cambiare una vita.",
+          "Turkish": "En küçük nezaket bile bir hayatı değiştirebilir.",
+          "French": "Le plus petit acte de gentillesse peut changer une vie.",
+          "Chinese": "最微小的善意也能改变一个人的人生。",
+          "Japanese": "最も小さな親切でも人生を変えることができる。"
+        }
+      },
+      {
+        "id": "e3f4g5h6-i7j8-9k0l-1m2n-3o4p5q6r7s8t",
+        "quote": "Patience is the companion of wisdom.",
+        "used": 0,
+        "translations": {
+          "German": "Geduld ist der Begleiter der Weisheit.",
+          "Dutch": "Geduld is de metgezel van wijsheid.",
+          "Spanish": "La paciencia es la compañera de la sabiduría.",
+          "Italian": "La pazienza è la compagna della saggezza.",
+          "Turkish": "Sabır, bilgelik ile dosttur.",
+          "French": "La patience est la compagne de la sagesse.",
+          "Chinese": "耐心是智慧的伴侣。",
+          "Japanese": "忍耐は知恵の伴侶である。"
+        }
+      },
+      {
+        "id": "f4g5h6i7-j8k9-0l1m-2n3o-4p5q6r7s8t9u",
+        "quote": "A journey of learning never truly ends.",
+        "used": 0,
+        "translations": {
+          "German": "Eine Reise des Lernens endet nie wirklich.",
+          "Dutch": "Een reis van leren eindigt nooit echt.",
+          "Spanish": "Un viaje de aprendizaje nunca termina realmente.",
+          "Italian": "Un viaggio di apprendimento non finisce mai davvero.",
+          "Turkish": "Öğrenme yolculuğu asla gerçekten bitmez.",
+          "French": "Un voyage d'apprentissage ne se termine jamais vraiment.",
+          "Chinese": "学习的旅程永远不会真正结束。",
+          "Japanese": "学びの旅は決して本当に終わらない。"
+        }
+      },
+      {
+        "id": "g5h6i7j8-k9l0-1m2n-3o4p-5q6r7s8t9u0v",
+        "quote": "Books are mirrors of the human soul.",
+        "used": 0,
+        "translations": {
+          "German": "Bücher sind Spiegel der menschlichen Seele.",
+          "Dutch": "Boeken zijn spiegels van de menselijke ziel.",
+          "Spanish": "Los libros son espejos del alma humana.",
+          "Italian": "I libri sono specchi dell'anima umana.",
+          "Turkish": "Kitaplar, insan ruhunun aynalarıdır.",
+          "French": "Les livres sont des miroirs de l'âme humaine.",
+          "Chinese": "书是人类灵魂的镜子。",
+          "Japanese": "本は人間の魂の鏡である。"
+        }
+      },
+      {
+        "id": "h6i7j8k9-l0m1-2n3o-4p5q-6r7s8t9u0v1w",
+        "quote": "A wise person listens more than they speak.",
+        "used": 0,
+        "translations": {
+          "German": "Eine weise Person hört mehr zu, als sie spricht.",
+          "Dutch": "Een wijs persoon luistert meer dan hij spreekt.",
+          "Spanish": "Una persona sabia escucha más de lo que habla.",
+          "Italian": "Una persona saggia ascolta più di quanto parli.",
+          "Turkish": "Bilge bir insan, konuştuğundan daha çok dinler.",
+          "French": "Une personne sage écoute plus qu'elle ne parle.",
+          "Chinese": "聪明的人倾听多于说话。",
+          "Japanese": "賢い人は話すよりも多く耳を傾ける。"
+        }
+      },
+      {
+        "id": "i7j8k9l0-m1n2-3o4p-5q6r-7s8t9u0v1w2x",
+        "quote": "Hope is the seed from which dreams grow.",
+        "used": 0,
+        "translations": {
+          "German": "Hoffnung ist der Samen, aus dem Träume wachsen.",
+          "Dutch": "Hoop is het zaad waaruit dromen groeien.",
+          "Spanish": "La esperanza es la semilla de la que crecen los sueños.",
+          "Italian": "La speranza è il seme da cui crescono i sogni.",
+          "Turkish": "Umut, hayallerin büyüdüğü tohumdur.",
+          "French": "L'espoir est la graine à partir de laquelle poussent les rêves.",
+          "Chinese": "希望是梦想生长的种子。",
+          "Japanese": "希望は夢が育つ種である。"
+        }
+      },
+      {
+        "id": "j8k9l0m1-n2o3-4p5q-6r7s-8t9u0v1w2x3y",
+        "quote": "True friendship survives the test of time.",
+        "used": 0,
+        "translations": {
+          "German": "Wahre Freundschaft übersteht die Probe der Zeit.",
+          "Dutch": "Ware vriendschap doorstaat de tand des tijds.",
+          "Spanish": "La verdadera amistad sobrevive a la prueba del tiempo.",
+          "Italian": "La vera amicizia sopravvive alla prova del tempo.",
+          "Turkish": "Gerçek dostluk, zamanın sınavını geçer.",
+          "French": "La véritable amitié résiste à l'épreuve du temps.",
+          "Chinese": "真正的友谊经得起时间的考验。",
+          "Japanese": "真の友情は時の試練に耐える。"
+        }
+      },
+      {
+        "id": "k9l0m1n2-o3p4-5q6r-7s8t-9u0v1w2x3y4z",
+        "quote": "Music speaks where words cannot.",
+        "used": 0,
+        "translations": {
+          "German": "Musik spricht, wo Worte nicht können.",
+          "Dutch": "Muziek spreekt waar woorden dat niet kunnen.",
+          "Spanish": "La música habla donde las palabras no pueden.",
+          "Italian": "La musica parla dove le parole non possono.",
+          "Turkish": "Müzik, kelimelerin söyleyemediği yerde konuşur.",
+          "French": "La musique parle là où les mots échouent.",
+          "Chinese": "音乐能表达言语无法表达的东西。",
+          "Japanese": "音楽は言葉が届かない場所で語る。"
+        }
+      },
+      {
+        "id": "l0m1n2o3-p4q5-6r7s-8t9u-0v1w2x3y4z5a",
+        "quote": "The sea reminds us how small we are.",
+        "used": 0,
+        "translations": {
+          "German": "Das Meer erinnert uns daran, wie klein wir sind.",
+          "Dutch": "De zee herinnert ons eraan hoe klein we zijn.",
+          "Spanish": "El mar nos recuerda lo pequeños que somos.",
+          "Italian": "Il mare ci ricorda quanto siamo piccoli.",
+          "Turkish": "Deniz bize ne kadar küçük olduğumuzu hatırlatır.",
+          "French": "La mer nous rappelle à quel point nous sommes petits.",
+          "Chinese": "大海让我们想起自己是多么渺小。",
+          "Japanese": "海は私たちがどれほど小さいかを思い出させる。"
+        }
+      },
+      {
+        "id": "a1f2e3d4-c5b6-789a-b0c1-d2e3f4a5b6c7",
+        "quote": "True friendship survives even the longest distances.",
+        "used": 0,
+        "translations": {
+          "German": "Wahre Freundschaft übersteht selbst die größten Entfernungen.",
+          "Dutch": "Echte vriendschap overleeft zelfs de grootste afstanden.",
+          "Spanish": "La verdadera amistad sobrevive incluso a las mayores distancias.",
+          "Italian": "La vera amicizia sopravvive anche alle distanze più lunghe.",
+          "Turkish": "Gerçek dostluk en uzun mesafeleri bile aşar.",
+          "French": "La véritable amitié survit même aux plus grandes distances.",
+          "Chinese": "真正的友谊甚至能跨越最远的距离。",
+          "Japanese": "本当の友情はどんなに遠くても続く。"
+        }
+      },
+      {
+        "id": "b2g3h4i5-j6k7-890a-b1c2-d3e4f5g6h7i8",
+        "quote": "Family is the anchor in the stormy sea of life.",
+        "used": 0,
+        "translations": {
+          "German": "Die Familie ist der Anker im stürmischen Meer des Lebens.",
+          "Dutch": "Familie is het anker in de stormachtige zee van het leven.",
+          "Spanish": "La familia es el ancla en el mar tormentoso de la vida.",
+          "Italian": "La famiglia è l'ancora nel mare tempestoso della vita.",
+          "Turkish": "Aile, hayatın fırtınalı denizindeki ankordur.",
+          "French": "La famille est l'ancre dans la mer orageuse de la vie.",
+          "Chinese": "家庭是人生风暴海洋中的锚。",
+          "Japanese": "家族は人生の嵐の海における錨だ。"
+        }
+      },
+      {
+        "id": "c3h4i5j6-k7l8-901a-b2c3-d4e5f6g7h8i9",
+        "quote": "Old friends are like wine; they get better with time.",
+        "used": 0,
+        "translations": {
+          "German": "Alte Freunde sind wie Wein; sie werden mit der Zeit besser.",
+          "Dutch": "Oude vrienden zijn als wijn; ze worden beter met de tijd.",
+          "Spanish": "Los viejos amigos son como el vino; mejoran con el tiempo.",
+          "Italian": "I vecchi amici sono come il vino; migliorano con il tempo.",
+          "Turkish": "Eski dostlar şarap gibidir; zamanla daha iyi olurlar.",
+          "French": "Les vieux amis sont comme le vin; ils s'améliorent avec le temps.",
+          "Chinese": "老朋友就像美酒，时间越久越香。",
+          "Japanese": "古い友達はワインのように、時間が経つほど良くなる。"
+        }
+      },
+      {
+        "id": "d4i5j6k7-l8m9-012a-b3c4-d5e6f7g8h9i0",
+        "quote": "Shared laughter strengthens the bond between friends.",
+        "used": 0,
+        "translations": {
+          "German": "Geteiltes Lachen stärkt die Bindung zwischen Freunden.",
+          "Dutch": "Gedeeld gelach versterkt de band tussen vrienden.",
+          "Spanish": "La risa compartida fortalece el vínculo entre amigos.",
+          "Italian": "Le risate condivise rafforzano il legame tra amici.",
+          "Turkish": "Paylaşılan kahkaha arkadaşlar arasındaki bağı güçlendirir.",
+          "French": "Les rires partagés renforcent le lien entre amis.",
+          "Chinese": "分享的笑声加深朋友之间的情谊。",
+          "Japanese": "共有する笑いは友人同士の絆を強める。"
+        }
+      },
+      {
+        "id": "e5j6k7l8-m9n0-123a-b4c5-d6e7f8g9h0i1",
+        "quote": "Family traditions keep the past alive in our hearts.",
+        "used": 0,
+        "translations": {
+          "German": "Familientraditionen halten die Vergangenheit in unseren Herzen lebendig.",
+          "Dutch": "Familietradities houden het verleden levend in ons hart.",
+          "Spanish": "Las tradiciones familiares mantienen vivo el pasado en nuestros corazones.",
+          "Italian": "Le tradizioni familiari mantengono vivo il passato nei nostri cuori.",
+          "Turkish": "Aile gelenekleri geçmişi kalbimizde canlı tutar.",
+          "French": "Les traditions familiales gardent le passé vivant dans nos cœurs.",
+          "Chinese": "家庭传统让过去在我们心中永存。",
+          "Japanese": "家族の伝統は私たちの心に過去を生き続けさせる。"
+        }
+      },
+      {
+        "id": "f6k7l8m9-n0o1-234a-b5c6-d7e8f9g0h1i2",
+        "quote": "A loyal friend is a rare and precious gift.",
+        "used": 0,
+        "translations": {
+          "German": "Ein treuer Freund ist ein seltenes und kostbares Geschenk.",
+          "Dutch": "Een loyale vriend is een zeldzaam en kostbaar geschenk.",
+          "Spanish": "Un amigo leal es un regalo raro y precioso.",
+          "Italian": "Un amico leale è un dono raro e prezioso.",
+          "Turkish": "Sadık bir dost nadir ve değerli bir hediyedir.",
+          "French": "Un ami loyal est un cadeau rare et précieux.",
+          "Chinese": "忠诚的朋友是稀有而珍贵的礼物。",
+          "Japanese": "忠実な友は稀で貴重な贈り物だ。"
+        }
+      },
+      {
+        "id": "g7l8m9n0-o1p2-345a-b6c7-d8e9f0g1h2i3",
+        "quote": "Home is not a place; it is the people you love.",
+        "used": 0,
+        "translations": {
+          "German": "Zuhause ist kein Ort; es sind die Menschen, die man liebt.",
+          "Dutch": "Thuis is geen plaats; het zijn de mensen van wie je houdt.",
+          "Spanish": "El hogar no es un lugar; son las personas que amas.",
+          "Italian": "La casa non è un luogo; sono le persone che ami.",
+          "Turkish": "Ev bir yer değil; sevdiğin insanlardır.",
+          "French": "La maison n'est pas un lieu; ce sont les personnes que vous aimez.",
+          "Chinese": "家不是一个地方，而是你所爱的人。",
+          "Japanese": "家は場所ではなく、愛する人々のことだ。"
+        }
+      },
+      {
+        "id": "h8m9n0o1-p2q3-456a-b7c8-d9e0f1g2h3i4",
+        "quote": "The love of family makes every challenge easier.",
+        "used": 0,
+        "translations": {
+          "German": "Die Liebe der Familie macht jede Herausforderung leichter.",
+          "Dutch": "De liefde van familie maakt elke uitdaging makkelijker.",
+          "Spanish": "El amor de la familia hace que cada desafío sea más fácil.",
+          "Italian": "L'amore della famiglia rende ogni sfida più facile.",
+          "Turkish": "Ailenin sevgisi her zorluğu kolaylaştırır.",
+          "French": "L'amour de la famille rend chaque défi plus facile.",
+          "Chinese": "家人的爱让每个挑战变得容易。",
+          "Japanese": "家族の愛はあらゆる挑戦を容易にする。"
+        }
+      },
+      {
+        "id": "i9n0o1p2-q3r4-567a-b8c9-d0e1f2g3h4i5",
+        "quote": "Friends are the family we choose for ourselves.",
+        "used": 0,
+        "translations": {
+          "German": "Freunde sind die Familie, die wir uns selbst aussuchen.",
+          "Dutch": "Vrienden zijn de familie die we zelf kiezen.",
+          "Spanish": "Los amigos son la familia que elegimos para nosotros mismos.",
+          "Italian": "Gli amici sono la famiglia che scegliamo per noi stessi.",
+          "Turkish": "Arkadaşlar, kendi seçtiğimiz ailedir.",
+          "French": "Les amis sont la famille que nous choisissons pour nous-mêmes.",
+          "Chinese": "朋友是我们自己选择的家人。",
+          "Japanese": "友達は私たちが自分で選んだ家族だ。"
+        }
+      },
+      {
+        "id": "j0o1p2q3-r4s5-678a-b9c0-d1e2f3g4h5i6",
+        "quote": "A happy family is built on love and respect.",
+        "used": 0,
+        "translations": {
+          "German": "Eine glückliche Familie basiert auf Liebe und Respekt.",
+          "Dutch": "Een gelukkig gezin is gebouwd op liefde en respect.",
+          "Spanish": "Una familia feliz se construye sobre el amor y el respeto.",
+          "Italian": "Una famiglia felice si basa sull'amore e il rispetto.",
+          "Turkish": "Mutlu bir aile sevgi ve saygı üzerine kuruludur.",
+          "French": "Une famille heureuse est construite sur l'amour et le respect.",
+          "Chinese": "幸福的家庭建立在爱与尊重之上。",
+          "Japanese": "幸せな家族は愛と尊敬の上に築かれる。"
+        }
+      },
+      {
+        "id": "c1a2b3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+        "quote": "Even the longest night will end and the sun will rise.",
+        "used": 0,
+        "translations": {
+          "German": "Auch die längste Nacht wird enden und die Sonne wird aufgehen.",
+          "Dutch": "Zelfs de langste nacht zal eindigen en de zon zal opkomen.",
+          "Spanish": "Incluso la noche más larga terminará y el sol saldrá.",
+          "Italian": "Anche la notte più lunga finirà e il sole sorgerà.",
+          "Turkish": "En uzun gece bile biter ve güneş doğar.",
+          "French": "Même la nuit la plus longue prendra fin et le soleil se lèvera.",
+          "Chinese": "再长的黑夜也会结束，太阳终会升起。",
+          "Japanese": "どんなに長い夜も終わり、太陽は昇る。"
+        }
+      },
+      {
+        "id": "d2b3c4e5-f6g7-48h9-i0j1-k2l3m4n5o6p7",
+        "quote": "Storms make trees take deeper roots.",
+        "used": 0,
+        "translations": {
+          "German": "Stürme lassen Bäume tiefere Wurzeln schlagen.",
+          "Dutch": "Stormen laten bomen diepere wortels maken.",
+          "Spanish": "Las tormentas hacen que los árboles echen raíces más profundas.",
+          "Italian": "Le tempeste fanno mettere radici più profonde agli alberi.",
+          "Turkish": "Fırtınalar ağaçların daha derin kökler salmasına neden olur.",
+          "French": "Les tempêtes font prendre aux arbres des racines plus profondes.",
+          "Chinese": "风暴让树木扎下更深的根。",
+          "Japanese": "嵐は木により深い根を張らせる。"
+        }
+      },
+      {
+        "id": "e3c4d5f6-g7h8-49i0-j1k2-l3m4n5o6p7q8",
+        "quote": "When one door closes, another opens.",
+        "used": 0,
+        "translations": {
+          "German": "Wenn sich eine Tür schließt, öffnet sich eine andere.",
+          "Dutch": "Wanneer de ene deur sluit, gaat een andere open.",
+          "Spanish": "Cuando una puerta se cierra, otra se abre.",
+          "Italian": "Quando una porta si chiude, un'altra si apre.",
+          "Turkish": "Bir kapı kapandığında, bir diğeri açılır.",
+          "French": "Quand une porte se ferme, une autre s'ouvre.",
+          "Chinese": "当一扇门关上时，另一扇门会打开。",
+          "Japanese": "一つのドアが閉まると、別のドアが開く。"
+        }
+      },
+      {
+        "id": "f4d5e6g7-h8i9-50j1-k2l3-m4n5o6p7q8r9",
+        "quote": "Hard times teach us lessons that good times cannot.",
+        "used": 0,
+        "translations": {
+          "German": "Schwere Zeiten lehren uns Lektionen, die gute Zeiten nicht lehren können.",
+          "Dutch": "Moeilijke tijden leren ons lessen die goede tijden niet kunnen.",
+          "Spanish": "Los tiempos difíciles nos enseñan lecciones que los buenos tiempos no pueden.",
+          "Italian": "I momenti difficili ci insegnano lezioni che i momenti felici non possono.",
+          "Turkish": "Zor zamanlar, iyi zamanların öğretemeyeceği dersler verir.",
+          "French": "Les moments difficiles nous apprennent des leçons que les bons moments ne peuvent pas.",
+          "Chinese": "艰难时光教会我们的，是好时光无法给予的。",
+          "Japanese": "困難な時期は、良い時期には学べないことを教えてくれる。"
+        }
+      },
+      {
+        "id": "g5e6f7h8-i9j0-51k2-l3m4-n5o6p7q8r9s0",
+        "quote": "After every storm comes a rainbow.",
+        "used": 0,
+        "translations": {
+          "German": "Nach jedem Sturm kommt ein Regenbogen.",
+          "Dutch": "Na elke storm komt er een regenboog.",
+          "Spanish": "Después de cada tormenta viene un arcoíris.",
+          "Italian": "Dopo ogni tempesta arriva un arcobaleno.",
+          "Turkish": "Her fırtınadan sonra bir gökkuşağı gelir.",
+          "French": "Après chaque tempête vient un arc-en-ciel.",
+          "Chinese": "每场风暴之后都会有彩虹。",
+          "Japanese": "嵐の後には必ず虹が出る。"
+        }
+      },
+      {
+        "id": "l5n6o7p8-q9r0-16s2-t3u4-v5w6x7y8z9a0",
+        "quote": "Success is the result of patience and effort combined.",
+        "used": 0,
+        "translations": {
+          "German": "Erfolg ist das Ergebnis von Geduld und Einsatz zusammen.",
+          "Dutch": "Succes is het resultaat van geduld en inspanning samen.",
+          "Spanish": "El éxito es el resultado de la paciencia y el esfuerzo combinados.",
+          "Italian": "Il successo è il risultato della pazienza e dell'impegno combinati.",
+          "Turkish": "Başarı, sabır ve çabanın birleşimidir.",
+          "French": "Le succès est le résultat de la patience et de l'effort combinés.",
+          "Chinese": "成功是耐心和努力结合的结果。",
+          "Japanese": "成功は忍耐と努力が組み合わさった結果である。"
+        }
+      },
+      {
+        "id": "q0r1s2t3-u4v5-61w7-x8y9-z0a1b2c3d4e5",
+        "quote": "Tough times don’t last, but tough people do.",
+        "used": 0,
+        "translations": {
+          "German": "Harte Zeiten dauern nicht ewig, aber harte Menschen schon.",
+          "Dutch": "Zware tijden duren niet, maar sterke mensen wel.",
+          "Spanish": "Los tiempos difíciles no duran, pero la gente fuerte sí.",
+          "Italian": "I momenti difficili non durano, ma le persone forti sì.",
+          "Turkish": "Zor zamanlar sürmez, ama güçlü insanlar sürer.",
+          "French": "Les moments difficiles ne durent pas, mais les gens forts oui.",
+          "Chinese": "艰难的时光不会长久，但坚强的人会。",
+          "Japanese": "厳しい時は長くは続かないが、強い人は続く。"
+        }
+      },
+      {
+        "id": "p9q0r1s2-t3u4-50v6-w7x8-y9z0a1b2c3d4",
+        "quote": "The strongest people are made in the hardest times.",
+        "used": 0,
+        "translations": {
+          "German": "Die stärksten Menschen entstehen in den schwierigsten Zeiten.",
+          "Dutch": "De sterkste mensen worden gevormd in de moeilijkste tijden.",
+          "Spanish": "Las personas más fuertes se forjan en los tiempos más difíciles.",
+          "Italian": "Le persone più forti nascono nei momenti più difficili.",
+          "Turkish": "En güçlü insanlar en zor zamanlarda ortaya çıkar.",
+          "French": "Les personnes les plus fortes se forment dans les moments les plus difficiles.",
+          "Chinese": "最坚强的人是在最艰难的时刻锻造出来的。",
+          "Japanese": "最も強い人は最も厳しい時期に作られる。"
+        }
+      },
+      {
+        "id": "o8p9q0r1-s2t3-49u5-v6w7-x8y9z0a1b2c3",
+        "quote": "Every problem you face teaches you something new.",
+        "used": 0,
+        "translations": {
+          "German": "Jedes Problem, dem du begegnest, lehrt dich etwas Neues.",
+          "Dutch": "Elk probleem dat je tegenkomt, leert je iets nieuws.",
+          "Spanish": "Cada problema que enfrentas te enseña algo nuevo.",
+          "Italian": "Ogni problema che affronti ti insegna qualcosa di nuovo.",
+          "Turkish": "Karşılaştığın her sorun sana yeni bir şey öğretir.",
+          "French": "Chaque problème que tu rencontres t'apprend quelque chose de nouveau.",
+          "Chinese": "你面对的每个问题都会教给你新的东西。",
+          "Japanese": "直面するすべての問題が新しいことを教えてくれる。"
+        }
+      },
+      {
+        "id": "r1s2t3u4-v5w6-72x8-y9z0-a1b2c3d4e5f6",
+        "quote": "Playing sport helps keep your body and mind healthy.",
+        "used": 0,
+        "translations": {
+          "German": "Sport zu treiben hilft, deinen Körper und Geist gesund zu halten.",
+          "Dutch": "Sporten helpt je lichaam en geest gezond te houden.",
+          "Spanish": "Hacer deporte ayuda a mantener tu cuerpo y mente saludables.",
+          "Italian": "Praticare sport aiuta a mantenere sani corpo e mente.",
+          "Turkish": "Spor yapmak, bedenini ve zihnini sağlıklı tutmana yardımcı olur.",
+          "French": "Faire du sport aide à garder ton corps et ton esprit en bonne santé.",
+          "Chinese": "运动有助于保持身体和心理健康。",
+          "Japanese": "スポーツをすることは体と心の健康を保つのに役立ちます。"
+        }
+      },
+      {
+        "id": "s2t3u4v5-w6x7-83y9-z0a1-b2c3d4e5f6g7",
+        "quote": "A healthy life needs good food, rest, and exercise.",
+        "used": 0,
+        "translations": {
+          "German": "Ein gesundes Leben braucht gutes Essen, Ruhe und Bewegung.",
+          "Dutch": "Een gezond leven heeft goed voedsel, rust en beweging nodig.",
+          "Spanish": "Una vida saludable necesita buena comida, descanso y ejercicio.",
+          "Italian": "Una vita sana ha bisogno di buon cibo, riposo e esercizio.",
+          "Turkish": "Sağlıklı bir yaşam iyi yemek, dinlenme ve egzersiz gerektirir.",
+          "French": "Une vie saine a besoin de bonne nourriture, de repos et d'exercice.",
+          "Chinese": "健康的生活需要良好的饮食、休息和锻炼。",
+          "Japanese": "健康な生活には良い食事、休息、運動が必要です。"
+        }
+      },
+      {
+        "id": "t3u4v5w6-x7y8-94z0-a1b2-c3d4e5f6g7h8",
+        "quote": "Balancing work and friends is important for happiness.",
+        "used": 0,
+        "translations": {
+          "German": "Die Balance zwischen Arbeit und Freunden ist wichtig für das Glück.",
+          "Dutch": "Balans tussen werk en vrienden is belangrijk voor geluk.",
+          "Spanish": "Equilibrar el trabajo y los amigos es importante para la felicidad.",
+          "Italian": "Bilanciare lavoro e amici è importante per la felicità.",
+          "Turkish": "İş ve arkadaşlar arasında denge mutluluk için önemlidir.",
+          "French": "Équilibrer travail et amis est important pour le bonheur.",
+          "Chinese": "平衡工作和朋友对幸福很重要。",
+          "Japanese": "仕事と友人のバランスを取ることは幸せに重要です。"
+        }
+      },
+      {
+        "id": "u4v5w6x7-y8z9-05a1-b2c3-d4e5f6g7h8i9",
+        "quote": "Taking time to relax helps you work better.",
+        "used": 0,
+        "translations": {
+          "German": "Sich Zeit zum Entspannen zu nehmen hilft dir, besser zu arbeiten.",
+          "Dutch": "Tijd nemen om te ontspannen helpt je beter te werken.",
+          "Spanish": "Tomarse tiempo para relajarse te ayuda a trabajar mejor.",
+          "Italian": "Prendersi del tempo per rilassarsi ti aiuta a lavorare meglio.",
+          "Turkish": "Dinlenmek için zaman ayırmak, daha iyi çalışmana yardımcı olur.",
+          "French": "Prendre du temps pour se détendre t'aide à mieux travailler.",
+          "Chinese": "花时间放松有助于你更好地工作。",
+          "Japanese": "リラックスする時間を取ることは、より良く働くのに役立ちます。"
+        }
+      },
+      {
+        "id": "v5w6x7y8-z9a0-16b2-c3d4-e5f6g7h8i9j0",
+        "quote": "Healthy habits today create a better life tomorrow.",
+        "used": 0,
+        "translations": {
+          "German": "Gesunde Gewohnheiten heute schaffen ein besseres Leben morgen.",
+          "Dutch": "Gezonde gewoonten vandaag creëren een beter leven morgen.",
+          "Spanish": "Los hábitos saludables de hoy crean una mejor vida mañana.",
+          "Italian": "Le abitudini sane di oggi creano una vita migliore domani.",
+          "Turkish": "Bugünün sağlıklı alışkanlıkları yarının daha iyi hayatını yaratır.",
+          "French": "Les habitudes saines d'aujourd'hui créent une meilleure vie demain.",
+          "Chinese": "今天的健康习惯创造更好的明天。",
+          "Japanese": "今日の健康的な習慣が明日のより良い生活を作る。"
+        }
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4789-9abc-def012345678",
+        "quote": "Good communication is important in every relationship.",
+        "used": 0,
+        "translations": {
+          "German": "Gute Kommunikation ist in jeder Beziehung wichtig.",
+          "Dutch": "Goede communicatie is belangrijk in elke relatie.",
+          "Spanish": "Una buena comunicación es importante en toda relación.",
+          "Italian": "Una buona comunicazione è importante in ogni relazione.",
+          "Turkish": "Her ilişkide iyi iletişim önemlidir.",
+          "French": "Une bonne communication est importante dans chaque relation.",
+          "Chinese": "良好的沟通在每段关系中都很重要。",
+          "Japanese": "良いコミュニケーションはすべての関係で重要です。"
+        }
+      },
+      {
+        "id": "b2c3d4e5-f678-4901-8bcd-ef0123456789",
+        "quote": "Marriage needs love, respect, and patience.",
+        "used": 0,
+        "translations": {
+          "German": "Eine Ehe braucht Liebe, Respekt und Geduld.",
+          "Dutch": "Een huwelijk heeft liefde, respect en geduld nodig.",
+          "Spanish": "El matrimonio necesita amor, respeto y paciencia.",
+          "Italian": "Il matrimonio ha bisogno di amore, rispetto e pazienza.",
+          "Turkish": "Evlilik sevgi, saygı ve sabır gerektirir.",
+          "French": "Le mariage a besoin d'amour, de respect et de patience.",
+          "Chinese": "婚姻需要爱、尊重和耐心。",
+          "Japanese": "結婚には愛、尊敬、忍耐が必要です。"
+        }
+      },
+      {
+        "id": "c3d4e5f6-7890-4a12-9cde-f0123456789a",
+        "quote": "Children bring joy and new challenges to life.",
+        "used": 0,
+        "translations": {
+          "German": "Kinder bringen Freude und neue Herausforderungen ins Leben.",
+          "Dutch": "Kinderen brengen vreugde en nieuwe uitdagingen in het leven.",
+          "Spanish": "Los niños traen alegría y nuevos desafíos a la vida.",
+          "Italian": "I bambini portano gioia e nuove sfide nella vita.",
+          "Turkish": "Çocuklar hayata neşe ve yeni zorluklar getirir.",
+          "French": "Les enfants apportent joie et nouveaux défis à la vie.",
+          "Chinese": "孩子们给生活带来快乐和新的挑战。",
+          "Japanese": "子どもは人生に喜びと新しい挑戦をもたらします。"
+        }
+      },
+      {
+        "id": "d4e5f678-9012-4b23-acde-0123456789ab",
+        "quote": "Trust is the base of a strong marriage.",
+        "used": 0,
+        "translations": {
+          "German": "Vertrauen ist die Grundlage einer starken Ehe.",
+          "Dutch": "Vertrouwen is de basis van een sterk huwelijk.",
+          "Spanish": "La confianza es la base de un matrimonio fuerte.",
+          "Italian": "La fiducia è la base di un matrimonio forte.",
+          "Turkish": "Güven, güçlü bir evliliğin temelidir.",
+          "French": "La confiance est la base d'un mariage fort.",
+          "Chinese": "信任是坚固婚姻的基础。",
+          "Japanese": "信頼は強い結婚の基盤です。"
+        }
+      },
+      {
+        "id": "e5f67890-1234-4c34-bdef-123456789abc",
+        "quote": "Family time helps build close relationships.",
+        "used": 0,
+        "translations": {
+          "German": "Familienzeit hilft, enge Beziehungen aufzubauen.",
+          "Dutch": "Gezinstijd helpt bij het opbouwen van nauwe relaties.",
+          "Spanish": "El tiempo en familia ayuda a construir relaciones cercanas.",
+          "Italian": "Il tempo in famiglia aiuta a costruire relazioni strette.",
+          "Turkish": "Aile zamanı, yakın ilişkiler kurmaya yardımcı olur.",
+          "French": "Le temps en famille aide à construire des relations proches.",
+          "Chinese": "家庭时间有助于建立亲密的关系。",
+          "Japanese": "家族の時間は親しい関係を築くのに役立ちます。"
+        }
+      },
+      {
+        "id": "f1a2b3c4-d5e6-4789-abcd-ef0123456789",
+        "quote": "New beginnings can be scary but also full of hope.",
+        "used": 0,
+        "translations": {
+          "German": "Neuanfänge können beängstigend, aber auch voller Hoffnung sein.",
+          "Dutch": "Nieuwe beginnen kunnen eng zijn maar ook vol hoop.",
+          "Spanish": "Los nuevos comienzos pueden dar miedo, pero también están llenos de esperanza.",
+          "Italian": "I nuovi inizi possono spaventare ma sono anche pieni di speranza.",
+          "Turkish": "Yeni başlangıçlar korkutucu olabilir ama aynı zamanda umut doludur.",
+          "French": "Les nouveaux départs peuvent faire peur mais aussi être pleins d'espoir.",
+          "Chinese": "新的开始可能令人害怕，但也充满希望。",
+          "Japanese": "新しい始まりは怖いこともあるが、希望に満ちている。"
+        }
+      },
+      {
+        "id": "g2b3c4d5-e6f7-4901-bcde-f0123456789a",
+        "quote": "Fear often stops us from trying new things.",
+        "used": 0,
+        "translations": {
+          "German": "Angst hindert uns oft daran, neue Dinge zu versuchen.",
+          "Dutch": "Angst houdt ons vaak tegen om nieuwe dingen te proberen.",
+          "Spanish": "El miedo a menudo nos detiene de intentar cosas nuevas.",
+          "Italian": "La paura spesso ci impedisce di provare cose nuove.",
+          "Turkish": "Korku çoğu zaman yeni şeyler denememizi engeller.",
+          "French": "La peur nous empêche souvent d'essayer de nouvelles choses.",
+          "Chinese": "恐惧常常阻止我们尝试新事物。",
+          "Japanese": "恐れはしばしば新しいことに挑戦するのを止める。"
+        }
+      },
+      {
+        "id": "h3c4d5e6-f789-4a12-cdef-123456789abc",
+        "quote": "Every choice leads to different possibilities.",
+        "used": 0,
+        "translations": {
+          "German": "Jede Wahl führt zu verschiedenen Möglichkeiten.",
+          "Dutch": "Elke keuze leidt tot verschillende mogelijkheden.",
+          "Spanish": "Cada elección lleva a diferentes posibilidades.",
+          "Italian": "Ogni scelta porta a possibilità diverse.",
+          "Turkish": "Her seçim farklı olanaklara yol açar.",
+          "French": "Chaque choix mène à différentes possibilités.",
+          "Chinese": "每个选择都会带来不同的可能性。",
+          "Japanese": "すべての選択は異なる可能性に繋がる。"
+        }
+      },
+      {
+        "id": "i4d5e6f7-8901-4b23-def0-23456789abcd",
+        "quote": "The outcome depends on how much you try.",
+        "used": 0,
+        "translations": {
+          "German": "Das Ergebnis hängt davon ab, wie sehr du es versuchst.",
+          "Dutch": "De uitkomst hangt af van hoeveel je probeert.",
+          "Spanish": "El resultado depende de cuánto lo intentes.",
+          "Italian": "Il risultato dipende da quanto ci provi.",
+          "Turkish": "Sonuç, ne kadar denediğine bağlıdır.",
+          "French": "Le résultat dépend de combien tu essaies.",
+          "Chinese": "结果取决于你努力了多少。",
+          "Japanese": "結果はどれだけ努力したかにかかっている。"
+        }
+      },
+      {
+        "id": "j5e6f7g8-9012-4c34-ef01-3456789abcde",
+        "quote": "Possibilities grow when you open your mind.",
+        "used": 0,
+        "translations": {
+          "German": "Möglichkeiten wachsen, wenn du deinen Geist öffnest.",
+          "Dutch": "Mogelijkheden groeien als je je geest opent.",
+          "Spanish": "Las posibilidades crecen cuando abres tu mente.",
+          "Italian": "Le possibilità crescono quando apri la mente.",
+          "Turkish": "Fırsatlar, zihnini açtığında büyür.",
+          "French": "Les possibilités grandissent quand tu ouvres ton esprit.",
+          "Chinese": "当你敞开心扉时，可能性会增加。",
+          "Japanese": "心を開くと可能性が広がる。"
+        }
+      }
+  ]
+  

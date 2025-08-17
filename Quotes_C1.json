@@ -1,0 +1,2301 @@
+[
+    {
+      "id": "a2f7d1c9-3918-4c25-9c2a-5dbd409d3121",
+      "quote": "He who opens a school door, closes a prison. — Victor Hugo",
+      "translations": {
+        "German": "Wer eine Schultür öffnet, schließt ein Gefängnis.",
+        "Dutch": "Wie een schooldeur opent, sluit een gevangenis.",
+        "Spanish": "Quien abre la puerta de una escuela, cierra la de una prisión.",
+        "Italian": "Chi apre la porta di una scuola, chiude quella di una prigione.",
+        "Turkish": "Bir okul kapısını açan, bir hapishane kapatır.",
+        "French": "Celui qui ouvre une porte d’école ferme une prison.",
+        "Chinese": "开启一所学校的门，就关闭了一座监狱。",
+        "Japanese": "学校の扉を開く者は、牢獄の扉を閉じる。"
+      },
+      "used": 0
+    },
+    {
+      "id": "c137f8f2-f38a-4d4d-b708-60d7de9c8d91",
+      "quote": "The fault, dear Brutus, is not in our stars, but in ourselves. — William Shakespeare",
+      "translations": {
+        "German": "Der Fehler, lieber Brutus, liegt nicht in unseren Sternen, sondern in uns selbst.",
+        "Dutch": "De fout, beste Brutus, ligt niet in onze sterren, maar in onszelf.",
+        "Spanish": "La culpa, querido Bruto, no está en nuestras estrellas, sino en nosotros mismos.",
+        "Italian": "La colpa, caro Bruto, non è nelle nostre stelle, ma in noi stessi.",
+        "Turkish": "Suç, sevgili Brutus, yıldızlarımızda değil, kendimizdedir.",
+        "French": "La faute, cher Brutus, n’est pas dans nos étoiles, mais en nous-mêmes.",
+        "Chinese": "亲爱的布鲁图斯，错不在我们的星辰，而在我们自身。",
+        "Japanese": "親愛なるブルータスよ、過ちは星々にあるのではなく、我ら自身にある。"
+      },
+      "used": 0
+    },
+    {
+      "id": "12c14cb8-1ec3-47f7-b86d-d0cf79b36cc3",
+      "quote": "What we achieve inwardly will change outer reality. — Plutarch",
+      "translations": {
+        "German": "Was wir innerlich erreichen, wird die äußere Realität verändern.",
+        "Dutch": "Wat we innerlijk bereiken, zal de uiterlijke realiteit veranderen.",
+        "Spanish": "Lo que logramos interiormente transformará la realidad exterior.",
+        "Italian": "Ciò che realizziamo interiormente cambierà la realtà esterna.",
+        "Turkish": "İçsel olarak başardığımız şey, dış gerçekliği değiştirecektir.",
+        "French": "Ce que nous accomplissons intérieurement transformera la réalité extérieure.",
+        "Chinese": "我们在内心取得的成就将改变外在的现实。",
+        "Japanese": "私たちが内面で成し遂げることは、外の現実を変える。"
+      },
+      "used": 0
+    },
+    {
+      "id": "b9e92d7f-b8c7-4c1a-a01d-2d353c8190a5",
+      "quote": "An investment in knowledge pays the best interest. — Benjamin Franklin",
+      "translations": {
+        "German": "Eine Investition in Wissen bringt die besten Zinsen.",
+        "Dutch": "Een investering in kennis levert de beste rente op.",
+        "Spanish": "Una inversión en conocimiento paga el mejor interés.",
+        "Italian": "Un investimento in conoscenza paga i migliori interessi.",
+        "Turkish": "Bilgiye yapılan yatırım en iyi faizi getirir.",
+        "French": "Un investissement dans la connaissance rapporte les meilleurs intérêts.",
+        "Chinese": "对知识的投资带来最好的回报。",
+        "Japanese": "知識への投資は最高の利息をもたらす。"
+      },
+      "used": 0
+    },
+    {
+      "id": "a3a16b3c-84e6-442c-90a6-6ad9f65e34de",
+      "quote": "Man suffers only because he takes seriously what the gods made for fun. — Alan Watts",
+      "translations": {
+        "German": "Der Mensch leidet nur, weil er ernst nimmt, was die Götter zum Spaß gemacht haben.",
+        "Dutch": "De mens lijdt alleen omdat hij serieus neemt wat de goden voor plezier hebben gemaakt.",
+        "Spanish": "El hombre sufre solo porque se toma en serio lo que los dioses hicieron por diversión.",
+        "Italian": "L’uomo soffre solo perché prende sul serio ciò che gli dèi fecero per divertimento.",
+        "Turkish": "İnsan sadece, tanrıların eğlence için yarattığını ciddiye aldığı için acı çeker.",
+        "French": "L’homme souffre seulement parce qu’il prend au sérieux ce que les dieux ont fait pour s’amuser.",
+        "Chinese": "人之所以痛苦，只因他把神明本为游戏的事当真了。",
+        "Japanese": "人間が苦しむのは、神々が遊びで作ったものを真剣に受け止めるからだ。"
+      },
+      "used": 0
+    },
+    {
+      "id": "bb55f601-4bb1-4f56-880c-37bc527ff2e4",
+      "quote": "The chains of habit are too light to be felt until they are too heavy to be broken. — Samuel Johnson",
+      "translations": {
+        "German": "Die Ketten der Gewohnheit sind zu leicht, um gespürt zu werden, bis sie zu schwer sind, um gebrochen zu werden.",
+        "Dutch": "De ketenen van gewoonte zijn te licht om te voelen totdat ze te zwaar zijn om te breken.",
+        "Spanish": "Las cadenas del hábito son demasiado ligeras para sentirse hasta que son demasiado pesadas para romperse.",
+        "Italian": "Le catene dell’abitudine sono troppo leggere per essere percepite finché non sono troppo pesanti per essere spezzate.",
+        "Turkish": "Alışkanlığın zincirleri, kırılmayacak kadar ağır olana kadar hissedilmeyecek kadar hafiftir.",
+        "French": "Les chaînes de l’habitude sont trop légères pour être ressenties jusqu’à ce qu’elles deviennent trop lourdes pour être rompues.",
+        "Chinese": "习惯的枷锁轻到无法察觉，直到它们重到无法打破。",
+        "Japanese": "習慣の鎖は感じ取れないほど軽いが、壊せないほど重くなるまで続く。"
+      },
+      "used": 0
+    },
+    {
+      "id": "d07fa84f-7a1a-49bb-9b7d-93a6c62dfb45",
+      "quote": "The most dangerous worldview is the worldview of those who have not viewed the world. — Alexander von Humboldt",
+      "translations": {
+        "German": "Die gefährlichste Weltanschauung ist die derjenigen, die die Welt nicht gesehen haben.",
+        "Dutch": "Het gevaarlijkste wereldbeeld is dat van degenen die de wereld niet hebben gezien.",
+        "Spanish": "La visión del mundo más peligrosa es la de aquellos que no han visto el mundo.",
+        "Italian": "La visione del mondo più pericolosa è quella di chi non ha visto il mondo.",
+        "Turkish": "En tehlikeli dünya görüşü, dünyayı görmemiş olanların dünya görüşüdür.",
+        "French": "La vision du monde la plus dangereuse est celle de ceux qui n’ont pas vu le monde.",
+        "Chinese": "最危险的世界观是那些从未见过世界的人所持有的。",
+        "Japanese": "最も危険な世界観とは、世界を見たことのない人々の世界観である。"
+      },
+      "used": 0
+    },
+    {
+        "id": "a6e282c7-9240-4ec7-906d-fbcd53926f5b",
+        "quote": "We do not see things as they are; we see them as we are. — Anaïs Nin",
+        "translations": {
+        "German": "Wir sehen die Dinge nicht, wie sie sind; wir sehen sie, wie wir sind.",
+        "Dutch": "We zien de dingen niet zoals ze zijn; we zien ze zoals wij zijn.",
+        "Spanish": "No vemos las cosas como son, las vemos como somos nosotros.",
+        "Italian": "Non vediamo le cose come sono; le vediamo come siamo noi.",
+        "Turkish": "Biz şeyleri oldukları gibi değil, olduğumuz gibi görürüz.",
+        "French": "Nous ne voyons pas les choses telles qu’elles sont, nous les voyons telles que nous sommes.",
+        "Chinese": "我们看到的事物不是它们的本来面目，而是我们自己的映射。",
+        "Japanese": "物事をあるがままに見るのではなく、自分が何者であるかによって見るのだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "41f22c23-d915-4d3f-8f0a-20f94062f47c",
+        "quote": "Those who have a ‘why’ to live can bear almost any ‘how’. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Wer ein ‚Warum‘ zum Leben hat, erträgt fast jedes ‚Wie‘.",
+        "Dutch": "Wie een ‘waarom’ heeft om te leven, kan bijna elk ‘hoe’ verdragen.",
+        "Spanish": "Quien tiene un ‘porqué’ para vivir puede soportar casi cualquier ‘cómo’.",
+        "Italian": "Chi ha un ‘perché’ per vivere può sopportare quasi ogni ‘come’.",
+        "Turkish": "Yaşamak için bir 'neden'i olan, neredeyse her 'nasıl'ı katlanabilir.",
+        "French": "Celui qui a un ‘pourquoi’ pour vivre peut supporter presque n’importe quel ‘comment’.",
+        "Chinese": "拥有生存的‘为什么’，几乎可以承受任何‘怎么活’。",
+        "Japanese": "生きる「なぜ」を持つ者は、ほとんどあらゆる「どのように」も耐えられる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6b2d8d4f-1f84-46a6-9296-3a246f53f83f",
+        "quote": "The past is never dead. It’s not even past. — William Faulkner",
+        "translations": {
+        "German": "Die Vergangenheit ist nie tot. Sie ist nicht einmal vergangen.",
+        "Dutch": "Het verleden is nooit dood. Het is niet eens voorbij.",
+        "Spanish": "El pasado nunca está muerto. Ni siquiera ha pasado.",
+        "Italian": "Il passato non è mai morto. Non è nemmeno passato.",
+        "Turkish": "Geçmiş asla ölmez. Hatta geçmiş bile değildir.",
+        "French": "Le passé n’est jamais mort. Il n’est même pas passé.",
+        "Chinese": "过去从未死去，它甚至还未真正过去。",
+        "Japanese": "過去は決して死なない。過ぎ去ったことですらない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "85c68a4c-6e7d-4fcf-83a4-86c94bde9db3",
+        "quote": "Time is the school in which we learn, time is the fire in which we burn. — Delmore Schwartz",
+        "translations": {
+        "German": "Die Zeit ist die Schule, in der wir lernen, die Zeit ist das Feuer, in dem wir brennen.",
+        "Dutch": "De tijd is de school waarin we leren, de tijd is het vuur waarin we branden.",
+        "Spanish": "El tiempo es la escuela en la que aprendemos, el tiempo es el fuego en el que ardemos.",
+        "Italian": "Il tempo è la scuola in cui impariamo, il tempo è il fuoco in cui bruciamo.",
+        "Turkish": "Zaman, öğrenmemiz için bir okuldur; zaman, yandığımız bir ateştir.",
+        "French": "Le temps est l’école où nous apprenons, le temps est le feu dans lequel nous brûlons.",
+        "Chinese": "时间是我们学习的学校，时间是我们燃烧的火焰。",
+        "Japanese": "時間は私たちが学ぶ学校であり、私たちが燃える火である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7f5e5b9c-c112-44e2-8e79-d21690762d07",
+        "quote": "Man is the only creature who refuses to be what he is. — Albert Camus",
+        "translations": {
+        "German": "Der Mensch ist das einzige Wesen, das sich weigert, das zu sein, was er ist.",
+        "Dutch": "De mens is het enige wezen dat weigert te zijn wat hij is.",
+        "Spanish": "El hombre es la única criatura que se niega a ser lo que es.",
+        "Italian": "L’uomo è l’unico essere che si rifiuta di essere ciò che è.",
+        "Turkish": "İnsan, ne ise o olmayı reddeden tek yaratıktır.",
+        "French": "L’homme est la seule créature qui refuse d’être ce qu’il est.",
+        "Chinese": "人是唯一拒绝成为他本来面目的生物。",
+        "Japanese": "人間は、自分が何者であるかを拒む唯一の生き物である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e3fcd7ea-b32a-43a6-8757-87a57f29a028",
+        "quote": "Liberty means responsibility. That is why most men dread it. — George Bernard Shaw",
+        "translations": {
+        "German": "Freiheit bedeutet Verantwortung. Deshalb fürchten die meisten Menschen sie.",
+        "Dutch": "Vrijheid betekent verantwoordelijkheid. Daarom vrezen de meeste mensen het.",
+        "Spanish": "La libertad significa responsabilidad. Por eso la mayoría de los hombres la temen.",
+        "Italian": "La libertà significa responsabilità. Ecco perché la maggior parte degli uomini la teme.",
+        "Turkish": "Özgürlük, sorumluluk demektir. Bu yüzden çoğu insan ondan korkar.",
+        "French": "La liberté signifie responsabilité. C’est pourquoi la plupart des hommes la redoutent.",
+        "Chinese": "自由意味着责任，这就是为什么大多数人害怕它。",
+        "Japanese": "自由とは責任を意味する。だからこそ多くの人がそれを恐れる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f1498df3-7ad4-44ee-8f5d-43014339d933",
+        "quote": "The more sand has escaped from the hourglass of our life, the clearer we should see through it. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Je mehr Sand aus dem Stundenglas unseres Lebens entweicht, desto klarer sollten wir hindurchsehen.",
+        "Dutch": "Hoe meer zand uit het uurglas van ons leven ontsnapt, hoe duidelijker we erdoorheen zouden moeten kijken.",
+        "Spanish": "Cuanta más arena se escape del reloj de nuestra vida, con mayor claridad deberíamos mirar a través de él.",
+        "Italian": "Più sabbia è sfuggita dalla clessidra della nostra vita, più chiaramente dovremmo vederci attraverso.",
+        "Turkish": "Hayatımızın kum saatinden ne kadar çok kum akıp gittiyse, o kadar net görmeliyiz.",
+        "French": "Plus le sable s’échappe du sablier de notre vie, plus nous devrions voir clair à travers lui.",
+        "Chinese": "从生命的沙漏中流逝的沙子越多，我们就越应该清晰地看透它。",
+        "Japanese": "人生の砂時計から砂が多く流れ去るほど、それを通してより明確に見えるはずだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7cfe5d7b-b260-4f3d-9e24-cc3a1f00d2d6",
+        "quote": "Life must be understood backwards. But it must be lived forwards. — Søren Kierkegaard",
+        "translations": {
+        "German": "Das Leben muss rückwärts verstanden werden. Aber es muss vorwärts gelebt werden.",
+        "Dutch": "Het leven moet achterwaarts begrepen worden. Maar het moet voorwaarts geleefd worden.",
+        "Spanish": "La vida solo puede entenderse hacia atrás; pero debe vivirse hacia adelante.",
+        "Italian": "La vita deve essere compresa all’indietro. Ma deve essere vissuta in avanti.",
+        "Turkish": "Hayat geriye dönük olarak anlaşılmalıdır. Ama ileriye doğru yaşanmalıdır.",
+        "French": "La vie doit être comprise à rebours. Mais elle doit être vécue en avant.",
+        "Chinese": "人生必须倒着理解，但必须向前活着。",
+        "Japanese": "人生は後ろ向きに理解されるべきだ。しかし前に向かって生きなければならない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0a83fbb0-fac3-47c4-a449-b5f1e81d96c7",
+        "quote": "It is not length of life, but depth of life. — Ralph Waldo Emerson",
+        "translations": {
+        "German": "Es ist nicht die Länge des Lebens, sondern die Tiefe des Lebens.",
+        "Dutch": "Het gaat niet om de lengte van het leven, maar om de diepte ervan.",
+        "Spanish": "No es la longitud de la vida, sino la profundidad de la vida.",
+        "Italian": "Non è la durata della vita, ma la profondità della vita.",
+        "Turkish": "Hayatın uzunluğu değil, derinliği önemlidir.",
+        "French": "Ce n’est pas la longueur de la vie, mais la profondeur de la vie.",
+        "Chinese": "重要的不是生命的长度，而是生命的深度。",
+        "Japanese": "大切なのは人生の長さではなく、その深さである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e2a0376e-9f84-4d0e-bc95-c6cfd7617d8a",
+        "quote": "Hell is empty and all the devils are here. — William Shakespeare",
+        "translations": {
+        "German": "Die Hölle ist leer, und alle Teufel sind hier.",
+        "Dutch": "De hel is leeg en alle duivels zijn hier.",
+        "Spanish": "El infierno está vacío, y todos los demonios están aquí.",
+        "Italian": "L’inferno è vuoto e tutti i diavoli sono qui.",
+        "Turkish": "Cehennem boştur ve bütün şeytanlar buradadır.",
+        "French": "L’enfer est vide, et tous les diables sont ici.",
+        "Chinese": "地狱是空的，所有的魔鬼都在这里。",
+        "Japanese": "地獄は空で、すべての悪魔がここにいる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "2cdbd611-59de-4c2a-a9cb-cf60d79ebf7f",
+        "quote": "Happiness in intelligent people is the rarest thing I know. — Ernest Hemingway",
+        "translations": {
+        "German": "Glück bei intelligenten Menschen ist das Seltenste, was ich kenne.",
+        "Dutch": "Geluk bij intelligente mensen is het zeldzaamste dat ik ken.",
+        "Spanish": "La felicidad en la gente inteligente es la cosa más rara que conozco.",
+        "Italian": "La felicità nelle persone intelligenti è la cosa più rara che conosca.",
+        "Turkish": "Zeki insanlarda mutluluk, bildiğim en nadir şeydir.",
+        "French": "Le bonheur chez les gens intelligents est la chose la plus rare que je connaisse.",
+        "Chinese": "聪明人身上的幸福是我所知道的最稀有的东西。",
+        "Japanese": "知的な人々における幸福は、私が知る限り最も稀なものだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ffcd8a93-0433-4b2b-8537-4f8d7640f352",
+        "quote": "We are all sentenced to solitary confinement inside our own skins. — Tennessee Williams",
+        "translations": {
+        "German": "Wir sind alle zu Einzelhaft in unserer eigenen Haut verurteilt.",
+        "Dutch": "We zijn allemaal veroordeeld tot eenzame opsluiting in onze eigen huid.",
+        "Spanish": "Todos estamos condenados a confinamiento solitario dentro de nuestra propia piel.",
+        "Italian": "Siamo tutti condannati all’isolamento dentro la nostra pelle.",
+        "Turkish": "Hepimiz kendi derimizin içinde hücre hapsine mahkûmuz.",
+        "French": "Nous sommes tous condamnés à l’isolement dans notre propre peau.",
+        "Chinese": "我们都被判在自己的皮囊里独自禁闭。",
+        "Japanese": "私たちは皆、自らの皮膚の中で独房生活を強いられている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0c88f923-c8dc-497b-b374-8738d0186e4a",
+        "quote": "Every man has his secret sorrows which the world knows not. — Henry Wadsworth Longfellow",
+        "translations": {
+        "German": "Jeder Mensch hat seine geheimen Sorgen, die die Welt nicht kennt.",
+        "Dutch": "Iedere man heeft zijn geheime zorgen die de wereld niet kent.",
+        "Spanish": "Todo hombre tiene sus penas secretas que el mundo no conoce.",
+        "Italian": "Ogni uomo ha i suoi dolori segreti che il mondo non conosce.",
+        "Turkish": "Her insanın, dünyanın bilmediği gizli kederleri vardır.",
+        "French": "Chaque homme a ses chagrins secrets que le monde ne connaît pas.",
+        "Chinese": "每个人都有自己的隐秘忧伤，世界并不知晓。",
+        "Japanese": "誰にも知られていない秘密の悲しみを、誰もが抱えている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "94de4ad4-3a7c-4b91-9a10-33e90c68a53e",
+        "quote": "To live is to suffer, to survive is to find some meaning in the suffering. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Zu leben heißt zu leiden, zu überleben heißt, einen Sinn im Leiden zu finden.",
+        "Dutch": "Leven is lijden, overleven is een betekenis vinden in het lijden.",
+        "Spanish": "Vivir es sufrir, sobrevivir es encontrarle un sentido al sufrimiento.",
+        "Italian": "Vivere è soffrire, sopravvivere è trovare un significato nella sofferenza.",
+        "Turkish": "Yaşamak acı çekmektir, hayatta kalmak ise bu acıda bir anlam bulmaktır.",
+        "French": "Vivre, c’est souffrir ; survivre, c’est trouver un sens à la souffrance.",
+        "Chinese": "活着就是受苦，生存就是在苦难中找到意义。",
+        "Japanese": "生きるとは苦しむこと、生き延びるとはその苦しみに意味を見いだすことだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b830b73a-9021-4d39-9d4f-65e85963d36a",
+        "quote": "Consciousness is only possible through change; change is only possible through movement. — Aldous Huxley",
+        "translations": {
+        "German": "Bewusstsein ist nur durch Veränderung möglich; Veränderung nur durch Bewegung.",
+        "Dutch": "Bewustzijn is alleen mogelijk door verandering; verandering alleen door beweging.",
+        "Spanish": "La conciencia solo es posible mediante el cambio; el cambio solo es posible mediante el movimiento.",
+        "Italian": "La coscienza è possibile solo attraverso il cambiamento; il cambiamento solo attraverso il movimento.",
+        "Turkish": "Bilinç yalnızca değişimle mümkündür; değişim ise ancak hareketle mümkündür.",
+        "French": "La conscience n’est possible que par le changement ; le changement n’est possible que par le mouvement.",
+        "Chinese": "意识只能通过变化而存在；变化只能通过运动而发生。",
+        "Japanese": "意識は変化によってのみ可能であり、変化は運動によってのみ可能である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "9fd55201-6d73-4bb9-947d-1f3f2897df8c",
+        "quote": "The limits of my language mean the limits of my world. — Ludwig Wittgenstein",
+        "translations": {
+        "German": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.",
+        "Dutch": "De grenzen van mijn taal betekenen de grenzen van mijn wereld.",
+        "Spanish": "Los límites de mi lenguaje son los límites de mi mundo.",
+        "Italian": "I limiti del mio linguaggio significano i limiti del mio mondo.",
+        "Turkish": "Dilimin sınırları, dünyamın sınırlarını belirler.",
+        "French": "Les limites de mon langage signifient les limites de mon monde.",
+        "Chinese": "我的语言的界限就是我的世界的界限。",
+        "Japanese": "私の言語の限界は、私の世界の限界を意味する。"
+        },
+        "used": 0
+    },
+    {
+        "id": "a7c51c65-48c5-47c3-927c-67d084da2034",
+        "quote": "The mind is everything. What you think you become. — Buddha",
+        "translations": {
+        "German": "Der Geist ist alles. Was du denkst, das wirst du.",
+        "Dutch": "De geest is alles. Wat je denkt, dat word je.",
+        "Spanish": "La mente lo es todo. En lo que piensas, en eso te conviertes.",
+        "Italian": "La mente è tutto. Ciò che pensi, diventi.",
+        "Turkish": "Zihin her şeydir. Ne düşünürsen, o olursun.",
+        "French": "L’esprit est tout. Ce que tu penses, tu le deviens.",
+        "Chinese": "心念即一切。你所思即你所成。",
+        "Japanese": "心こそがすべてである。考えることが、そのまま自分になる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "cb31a3a2-6df5-4e7d-8c9c-fbb865e31f25",
+        "quote": "Happiness is not something ready made. It comes from your own actions. — Dalai Lama",
+        "translations": {
+        "German": "Glück ist nichts Fertiges. Es kommt aus deinen eigenen Handlungen.",
+        "Dutch": "Geluk is niet kant-en-klaar. Het komt voort uit je eigen daden.",
+        "Spanish": "La felicidad no es algo prefabricado. Proviene de tus propias acciones.",
+        "Italian": "La felicità non è qualcosa di pronto. Viene dalle tue stesse azioni.",
+        "Turkish": "Mutluluk hazır bir şey değildir. Kendi eylemlerinden doğar.",
+        "French": "Le bonheur n’est pas quelque chose de tout fait. Il vient de tes propres actions.",
+        "Chinese": "幸福不是现成的，它来自你的行动。",
+        "Japanese": "幸せは出来合いのものではない。それは自分の行動から生まれる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6adf6d59-1b7b-4373-9c3a-0ac8d2df9f13",
+        "quote": "The greatest wealth is to live content with little. — Plato",
+        "translations": {
+        "German": "Der größte Reichtum ist, mit wenig zufrieden zu leben.",
+        "Dutch": "De grootste rijkdom is tevreden leven met weinig.",
+        "Spanish": "La mayor riqueza es vivir contento con poco.",
+        "Italian": "La più grande ricchezza è vivere contento con poco.",
+        "Turkish": "En büyük zenginlik, az ile yetinerek yaşamaktır.",
+        "French": "La plus grande richesse est de vivre content avec peu.",
+        "Chinese": "最大的财富是知足常乐。",
+        "Japanese": "最大の富とは、少しのもので満足して生きることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7db0c923-f06d-40c5-bfb3-285fceba0fa3",
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. — Ralph Waldo Emerson",
+        "translations": {
+        "German": "Man selbst zu sein in einer Welt, die dich ständig zu etwas anderem machen will, ist die größte Errungenschaft.",
+        "Dutch": "Jezelf zijn in een wereld die je voortdurend iets anders probeert te maken, is de grootste prestatie.",
+        "Spanish": "Ser uno mismo en un mundo que constantemente intenta convertirte en otra cosa es el mayor logro.",
+        "Italian": "Essere se stessi in un mondo che cerca costantemente di farti diventare qualcos’altro è la più grande conquista.",
+        "Turkish": "Seni sürekli başka bir şeye dönüştürmeye çalışan bir dünyada kendin olmak en büyük başarıdır.",
+        "French": "Être soi-même dans un monde qui s’efforce constamment de te transformer en autre chose est le plus grand accomplissement.",
+        "Chinese": "在一个不断试图把你变成别人的世界里，做自己是最大的成就。",
+        "Japanese": "絶えずあなたを別のものにしようとする世界で自分であること、それが最大の達成である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "61fd843c-3dd5-4f85-9a1f-41539ab39a52",
+        "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced. — James Baldwin",
+        "translations": {
+        "German": "Nicht alles, dem man sich stellt, kann verändert werden, aber nichts kann verändert werden, solange man sich ihm nicht stellt.",
+        "Dutch": "Niet alles wat je onder ogen ziet kan worden veranderd, maar niets kan worden veranderd totdat je het onder ogen ziet.",
+        "Spanish": "No todo lo que se enfrenta puede ser cambiado, pero nada puede cambiarse hasta que se enfrenta.",
+        "Italian": "Non tutto ciò a cui ci si confronta può essere cambiato, ma nulla può essere cambiato finché non ci si confronta.",
+        "Turkish": "Yüzleşilen her şey değiştirilemez, ancak hiçbir şey yüzleşilmeden değiştirilemez.",
+        "French": "Tout ce à quoi l’on fait face ne peut pas être changé, mais rien ne peut être changé tant qu’on ne l’affronte pas.",
+        "Chinese": "并非所有面对的事物都能被改变，但没有什么在面对之前能被改变。",
+        "Japanese": "直面したすべてが変えられるわけではないが、直面しない限り何も変わらない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "3f7df4db-3e49-47c1-9a46-8fffb77c07e6",
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle",
+        "translations": {
+        "German": "Wir sind das, was wir wiederholt tun. Exzellenz ist also keine Handlung, sondern eine Gewohnheit.",
+        "Dutch": "Wij zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen handeling, maar een gewoonte.",
+        "Spanish": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito.",
+        "Italian": "Siamo ciò che facciamo ripetutamente. L’eccellenza, quindi, non è un atto, ma un’abitudine.",
+        "Turkish": "Biz, tekrar tekrar yaptığımız şeyiz. O halde mükemmellik bir eylem değil, bir alışkanlıktır.",
+        "French": "Nous sommes ce que nous faisons de manière répétée. L’excellence n’est donc pas un acte, mais une habitude.",
+        "Chinese": "我们就是我们反复所做的事。因此，卓越不是行动，而是习惯。",
+        "Japanese": "私たちは繰り返し行うことによって作られる。ゆえに卓越とは行為ではなく習慣である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d5a293a0-8d2b-498c-a734-255b0a254d70",
+        "quote": "Beware the barrenness of a busy life. — Socrates",
+        "translations": {
+        "German": "Hüte dich vor der Dürre eines geschäftigen Lebens.",
+        "Dutch": "Pas op voor de dorheid van een druk leven.",
+        "Spanish": "Cuidado con la esterilidad de una vida ocupada.",
+        "Italian": "Guàrdati dalla sterilità di una vita indaffarata.",
+        "Turkish": "Yoğun bir hayatın kısırlığından sakın.",
+        "French": "Méfie-toi de la stérilité d’une vie affairée.",
+        "Chinese": "当心忙碌人生的贫瘠。",
+        "Japanese": "忙しい人生の不毛さに気をつけよ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7f6cf96a-74a2-42b6-8b9d-18173a4f3d0c",
+        "quote": "Injustice anywhere is a threat to justice everywhere. — Martin Luther King Jr.",
+        "translations": {
+        "German": "Ungerechtigkeit irgendwo ist eine Bedrohung für die Gerechtigkeit überall.",
+        "Dutch": "Onrecht ergens is een bedreiging voor gerechtigheid overal.",
+        "Spanish": "La injusticia en cualquier lugar es una amenaza para la justicia en todas partes.",
+        "Italian": "L’ingiustizia in un luogo è una minaccia per la giustizia en ogni luogo.",
+        "Turkish": "Herhangi bir yerdeki adaletsizlik, her yerdeki adalet için tehdittir.",
+        "French": "L’injustice quelque part est une menace pour la justice partout.",
+        "Chinese": "任何地方的不公正都是对所有地方正义的威胁。",
+        "Japanese": "どこかの不正は、すべての正義に対する脅威である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c9c4f3a4-7ebd-4c47-8b26-2f3cb22e8f33",
+        "quote": "Courage is grace under pressure. — Ernest Hemingway",
+        "translations": {
+        "German": "Mut ist Anmut unter Druck.",
+        "Dutch": "Moed is gratie onder druk.",
+        "Spanish": "El coraje es la gracia bajo presión.",
+        "Italian": "Il coraggio è grazia sotto pressione.",
+        "Turkish": "Cesaret, baskı altındaki zarafettir.",
+        "French": "Le courage, c’est la grâce sous pression.",
+        "Chinese": "勇气就是压力下的优雅。",
+        "Japanese": "勇気とは、圧力下での優雅さである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "79c26058-75fb-4b4a-8c0e-4d3a03b23547",
+        "quote": "The price of greatness is responsibility. — Winston Churchill",
+        "translations": {
+        "German": "Der Preis der Größe ist Verantwortung.",
+        "Dutch": "De prijs van grootheid is verantwoordelijkheid.",
+        "Spanish": "El precio de la grandeza es la responsabilidad.",
+        "Italian": "Il prezzo della grandezza è la responsabilità.",
+        "Turkish": "Büyüklüğün bedeli sorumluluktur.",
+        "French": "Le prix de la grandeur est la responsabilité.",
+        "Chinese": "伟大的代价是责任。",
+        "Japanese": "偉大さの代償は責任である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "84701a61-3737-44d7-943b-52dc59d13d98",
+        "quote": "Knowing yourself is the beginning of all wisdom. — Aristotle",
+        "translations": {
+        "German": "Sich selbst zu erkennen ist der Beginn aller Weisheit.",
+        "Dutch": "Jezelf kennen is het begin van alle wijsheid.",
+        "Spanish": "Conocerse a uno mismo es el principio de toda sabiduría.",
+        "Italian": "Conoscere se stessi è l’inizio di tutta la saggezza.",
+        "Turkish": "Kendini bilmek, tüm bilgeliklerin başlangıcıdır.",
+        "French": "Se connaître soi-même est le commencement de toute sagesse.",
+        "Chinese": "认识自己是一切智慧的开端。",
+        "Japanese": "自分を知ることは、あらゆる知恵の始まりである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f1fcd404-7ad2-4b0e-a5c4-1c169893f258",
+        "quote": "We live only a few conscious decades, and we fret ourselves enough for centuries. — Christopher Hitchens",
+        "translations": {
+        "German": "Wir leben nur wenige bewusste Jahrzehnte und ängstigen uns genug für Jahrhunderte.",
+        "Dutch": "We leven slechts enkele bewuste decennia en tobben genoeg voor eeuwen.",
+        "Spanish": "Vivimos solo unas pocas décadas conscientes, y nos inquietamos lo suficiente para siglos.",
+        "Italian": "Viviamo solo pochi decenni consapevoli e ci preoccupiamo abbastanza per secoli.",
+        "Turkish": "Sadece birkaç bilinçli on yıl yaşıyoruz, ama yüzyıllar yetecek kadar kaygılanıyoruz.",
+        "French": "Nous ne vivons que quelques décennies conscientes, et nous nous tourmentons assez pour des siècles.",
+        "Chinese": "我们只活几段清醒的几十年，却烦恼得足够几个世纪。",
+        "Japanese": "私たちはほんの数十年しか意識的に生きないのに、何世紀分も思い悩む。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e579b779-8754-4e5a-89ab-39b30fd38b38",
+        "quote": "Even while they teach, men learn. — Seneca",
+        "translations": {
+        "German": "Selbst während sie lehren, lernen die Menschen.",
+        "Dutch": "Zelfs terwijl ze lesgeven, leren mensen.",
+        "Spanish": "Incluso mientras enseñan, los hombres aprenden.",
+        "Italian": "Anche mentre insegnano, gli uomini imparano.",
+        "Turkish": "İnsanlar öğretirken bile öğrenir.",
+        "French": "Même en enseignant, les hommes apprennent.",
+        "Chinese": "即便在教导时，人们也在学习。",
+        "Japanese": "人は教えている間にも学んでいる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0cdeba3b-9f09-4b8f-99c6-d9f807cda3b6",
+        "quote": "You can discover more about a person in an hour of play than in a year of conversation. — Plato",
+        "translations": {
+        "German": "Man kann in einer Stunde Spiel mehr über eine Person erfahren als in einem Jahr Gespräch.",
+        "Dutch": "Je kunt in een uur spelen meer over een persoon ontdekken dan in een jaar conversatie.",
+        "Spanish": "Puedes descubrir más sobre una persona en una hora de juego que en un año de conversación.",
+        "Italian": "Puoi scoprire di più su una persona in un’ora di gioco che in un anno di conversazione.",
+        "Turkish": "Bir kişi hakkında bir saatlik oyunda, bir yıllık konuşmadan daha çok şey öğrenebilirsin.",
+        "French": "On peut en apprendre plus sur quelqu’un en une heure de jeu qu’en une année de conversation.",
+        "Chinese": "一小时的游戏能让你了解一个人，比一年的交谈还要多。",
+        "Japanese": "人は一時間の遊びで、一年の会話よりも多くを知ることができる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "3430b214-6b4e-47a8-b1e5-c9a8e7e16b7e",
+        "quote": "The highest activity a human being can attain is learning for understanding, because to understand is to be free. — Baruch Spinoza",
+        "translations": {
+        "German": "Die höchste Tätigkeit, die ein Mensch erreichen kann, ist das Lernen zum Verständnis, denn zu verstehen bedeutet, frei zu sein.",
+        "Dutch": "De hoogste activiteit die een mens kan bereiken is leren om te begrijpen, want begrijpen is vrij zijn.",
+        "Spanish": "La más alta actividad que puede alcanzar un ser humano es aprender para comprender, porque comprender es ser libre.",
+        "Italian": "La più alta attività che un essere umano può raggiungere è imparare per capire, perché capire significa essere liberi.",
+        "Turkish": "İnsanın ulaşabileceği en yüce faaliyet anlamak için öğrenmektir; çünkü anlamak özgür olmaktır.",
+        "French": "La plus haute activité qu’un être humain puisse atteindre est apprendre à comprendre, car comprendre, c’est être libre.",
+        "Chinese": "人类所能达到的最高活动是为理解而学习，因为理解就是自由。",
+        "Japanese": "人間が到達できる最高の営みは理解するために学ぶことである。理解することは自由であるからだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0d5d9322-598f-48ee-9a42-dbbaf1d62054",
+        "quote": "Men are disturbed not by things, but by the views which they take of them. — Epictetus",
+        "translations": {
+        "German": "Die Menschen werden nicht durch Dinge beunruhigt, sondern durch die Ansichten, die sie darüber haben.",
+        "Dutch": "Mensen worden niet verstoord door dingen, maar door de kijk die ze erop hebben.",
+        "Spanish": "Los hombres no se perturban por las cosas, sino por la opinión que tienen de ellas.",
+        "Italian": "Gli uomini non sono turbati dalle cose, ma dalle opinioni che hanno su di esse.",
+        "Turkish": "İnsanlar, şeylerden değil, onlar hakkındaki görüşlerinden rahatsız olurlar.",
+        "French": "Les hommes ne sont pas troublés par les choses, mais par la manière dont ils les perçoivent.",
+        "Chinese": "困扰人们的不是事物本身，而是他们对事物的看法。",
+        "Japanese": "人を悩ませるのは事物ではなく、それに対する見方である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "61d8ab53-3833-4ff9-8a83-8f5086f6d038",
+        "quote": "Hell is truth seen too late. — Thomas Hobbes",
+        "translations": {
+        "German": "Die Hölle ist die Wahrheit, die zu spät erkannt wird.",
+        "Dutch": "De hel is de waarheid die te laat wordt gezien.",
+        "Spanish": "El infierno es la verdad vista demasiado tarde.",
+        "Italian": "L’inferno è la verità vista troppo tardi.",
+        "Turkish": "Cehennem, çok geç görülen hakikattir.",
+        "French": "L’enfer, c’est la vérité vue trop tard.",
+        "Chinese": "地狱就是太迟领悟到的真理。",
+        "Japanese": "地獄とは、あまりにも遅く知る真実である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "80a8a7b4-77bb-42ab-a66b-9c07344f10df",
+        "quote": "All animals are equal, but some animals are more equal than others. — George Orwell",
+        "translations": {
+        "German": "Alle Tiere sind gleich, aber manche Tiere sind gleicher als andere.",
+        "Dutch": "Alle dieren zijn gelijk, maar sommige dieren zijn gelijker dan andere.",
+        "Spanish": "Todos los animales son iguales, pero algunos animales son más iguales que otros.",
+        "Italian": "Tutti gli animali sono uguali, ma alcuni sono più uguali degli altri.",
+        "Turkish": "Bütün hayvanlar eşittir, ama bazıları diğerlerinden daha eşittir.",
+        "French": "Tous les animaux sont égaux, mais certains sont plus égaux que d’autres.",
+        "Chinese": "所有动物都是平等的，但有些动物比其他动物更平等。",
+        "Japanese": "すべての動物は平等である。しかし、ある動物は他の動物よりも平等である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6a7bfa45-b5c8-42b0-9a5e-225e8109b95d",
+        "quote": "Nothing strengthens authority so much as silence. — Leonardo da Vinci",
+        "translations": {
+        "German": "Nichts stärkt die Autorität so sehr wie Schweigen.",
+        "Dutch": "Niets versterkt autoriteit zozeer als stilte.",
+        "Spanish": "Nada refuerza tanto la autoridad como el silencio.",
+        "Italian": "Nulla rafforza l’autorità quanto il silenzio.",
+        "Turkish": "Otoriteyi sessizlik kadar güçlendiren hiçbir şey yoktur.",
+        "French": "Rien ne renforce autant l’autorité que le silence.",
+        "Chinese": "没有什么比沉默更能加强权威。",
+        "Japanese": "権威を強めるものは、沈黙ほど強いものはない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "5e6266f1-774f-4858-bc5a-9a3f73e2a394",
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer. — Albert Camus",
+        "translations": {
+        "German": "Mitten im Winter habe ich schließlich gelernt, dass in mir ein unbesiegbarer Sommer liegt.",
+        "Dutch": "In de diepte van de winter heb ik uiteindelijk geleerd dat er in mij een onoverwinnelijke zomer ligt.",
+        "Spanish": "En lo más profundo del invierno aprendí al fin que dentro de mí había un verano invencible.",
+        "Italian": "Nel profondo dell’inverno ho finalmente imparato che dentro di me c’era un’estate invincibile.",
+        "Turkish": "Kışın derinliklerinde nihayet içimde yenilmez bir yaz olduğunu öğrendim.",
+        "French": "Au plus fort de l’hiver, j’ai enfin appris qu’il y avait en moi un été invincible.",
+        "Chinese": "在寒冬深处，我终于明白我心中有一个不可战胜的夏天。",
+        "Japanese": "冬のただ中で、私はようやく、自分の中に不屈の夏があることを知った。"
+        },
+        "used": 0
+    },
+    {
+        "id": "62f621e4-9ff7-4e86-9225-15284f560b37",
+        "quote": "All men dream, but not equally. — T.E. Lawrence",
+        "translations": {
+        "German": "Alle Menschen träumen, aber nicht gleichermaßen.",
+        "Dutch": "Alle mensen dromen, maar niet in gelijke mate.",
+        "Spanish": "Todos los hombres sueñan, pero no por igual.",
+        "Italian": "Tutti gli uomini sognano, ma non allo stesso modo.",
+        "Turkish": "Bütün insanlar rüya görür, ama eşit şekilde değil.",
+        "French": "Tous les hommes rêvent, mais pas de la même manière.",
+        "Chinese": "所有人都会做梦，但并非平等地做梦。",
+        "Japanese": "すべての人が夢を見るが、同じようにではない。"
+        },
+        "used": 0
+    },
+
+    {
+        "id": "7a5c3eb9-8c8c-4f4f-93e6-322e9438e0b0",
+        "quote": "A room without books is like a body without a soul. — Cicero",
+        "translations": {
+        "German": "Ein Raum ohne Bücher ist wie ein Körper ohne Seele.",
+        "Dutch": "Een kamer zonder boeken is als een lichaam zonder ziel.",
+        "Spanish": "Una habitación sin libros es como un cuerpo sin alma.",
+        "Italian": "Una stanza senza libri è come un corpo senza anima.",
+        "Turkish": "Kitapsız bir oda, ruhsuz bir bedene benzer.",
+        "French": "Une pièce sans livres est comme un corps sans âme.",
+        "Chinese": "没有书的房间就像没有灵魂的身体。",
+        "Japanese": "本のない部屋は、魂のない体のようなものだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e5f74923-f7a2-4a3b-9e0c-6e7d87c0f1f7",
+        "quote": "The only true wisdom is in knowing you know nothing. — Socrates",
+        "translations": {
+        "German": "Die einzige wahre Weisheit besteht darin, zu wissen, dass man nichts weiß.",
+        "Dutch": "De enige ware wijsheid is weten dat je niets weet.",
+        "Spanish": "La única sabiduría verdadera consiste en saber que no sabes nada.",
+        "Italian": "L’unica vera saggezza è sapere di non sapere nulla.",
+        "Turkish": "Tek gerçek bilgelik, hiçbir şey bilmediğini bilmektir.",
+        "French": "La seule vraie sagesse est de savoir que l’on ne sait rien.",
+        "Chinese": "唯一真正的智慧是知道自己一无所知。",
+        "Japanese": "唯一の真の知恵は、自分が何も知らないことを知ることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "62ad0f0c-bc3d-42f4-9d5a-3a908145e674",
+        "quote": "An idea that is not dangerous is unworthy of being called an idea at all. — Oscar Wilde",
+        "translations": {
+        "German": "Eine Idee, die nicht gefährlich ist, verdient es nicht, überhaupt als Idee bezeichnet zu werden.",
+        "Dutch": "Een idee dat niet gevaarlijk is, verdient het niet om überhaupt een idee genoemd te worden.",
+        "Spanish": "Una idea que no es peligrosa no merece ser llamada idea.",
+        "Italian": "Un’idea che non è pericolosa non merita di essere chiamata idea.",
+        "Turkish": "Tehlikeli olmayan bir fikir, fikir olarak adlandırılmaya bile layık değildir.",
+        "French": "Une idée qui n’est pas dangereuse ne mérite pas d’être appelée une idée.",
+        "Chinese": "不具危险性的想法根本不配称为想法。",
+        "Japanese": "危険でない考えは、そもそも考えと呼ぶに値しない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6a1a6c6e-1884-47c4-bc16-c5361c8b6177",
+        "quote": "History is written by the victors. — Winston Churchill",
+        "translations": {
+        "German": "Die Geschichte wird von den Siegern geschrieben.",
+        "Dutch": "Geschiedenis wordt geschreven door de overwinnaars.",
+        "Spanish": "La historia la escriben los vencedores.",
+        "Italian": "La storia è scritta dai vincitori.",
+        "Turkish": "Tarih, kazananlar tarafından yazılır.",
+        "French": "L’histoire est écrite par les vainqueurs.",
+        "Chinese": "历史是由胜利者书写的。",
+        "Japanese": "歴史は勝者によって書かれる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d89a3f79-8f3c-4f89-8a1e-df6a6bc5f207",
+        "quote": "We live in the age of the overworked and the undereducated. — Oscar Wilde",
+        "translations": {
+        "German": "Wir leben im Zeitalter der Überarbeiteten und Untergebildeten.",
+        "Dutch": "Wij leven in het tijdperk van de overwerkte en onderopgeleide.",
+        "Spanish": "Vivimos en la era de los sobretrabajados y los subeducados.",
+        "Italian": "Viviamo nell’epoca dei sovraccarichi di lavoro e dei sottoculturati.",
+        "Turkish": "Aşırı çalışılmış ve yetersiz eğitilmişlerin çağında yaşıyoruz.",
+        "French": "Nous vivons à l’ère des surmenés et des sous-éduqués.",
+        "Chinese": "我们生活在一个过度劳累而教育不足的时代。",
+        "Japanese": "私たちは過労と教育不足の時代に生きている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "68fc814f-649b-4bb0-81cd-1bc6bc32dff8",
+        "quote": "Civilization is a race between education and catastrophe. — H.G. Wells",
+        "translations": {
+        "German": "Die Zivilisation ist ein Wettlauf zwischen Bildung und Katastrophe.",
+        "Dutch": "Beschaving is een wedloop tussen onderwijs en catastrofe.",
+        "Spanish": "La civilización es una carrera entre la educación y la catástrofe.",
+        "Italian": "La civiltà è una corsa tra l’istruzione e la catastrofe.",
+        "Turkish": "Medeniyet, eğitim ile felaket arasındaki bir yarıştır.",
+        "French": "La civilisation est une course entre l’éducation et la catastrophe.",
+        "Chinese": "文明是一场教育与灾难之间的竞赛。",
+        "Japanese": "文明とは、教育と破局の競争である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7a51c94f-7a2b-43af-95b0-4b78cf82b9b8",
+        "quote": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge. — Stephen Hawking",
+        "translations": {
+        "German": "Der größte Feind des Wissens ist nicht die Unwissenheit, sondern die Illusion von Wissen.",
+        "Dutch": "De grootste vijand van kennis is niet onwetendheid, maar de illusie van kennis.",
+        "Spanish": "El mayor enemigo del conocimiento no es la ignorancia, es la ilusión del conocimiento.",
+        "Italian": "Il più grande nemico della conoscenza non è l’ignoranza, ma l’illusione della conoscenza.",
+        "Turkish": "Bilginin en büyük düşmanı cehalet değil, bilginin illüzyonudur.",
+        "French": "Le plus grand ennemi de la connaissance n’est pas l’ignorance, c’est l’illusion de la connaissance.",
+        "Chinese": "知识最大的敌人不是无知，而是知识的幻觉。",
+        "Japanese": "知識の最大の敵は無知ではなく、知識の幻想である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c0bb8615-3cd7-44bb-a3cd-76a9ffb8f49f",
+        "quote": "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. — Stephen King",
+        "translations": {
+        "German": "Monster sind real, und Geister sind es auch. Sie leben in uns, und manchmal gewinnen sie.",
+        "Dutch": "Monsters zijn echt, en geesten ook. Ze leven in ons, en soms winnen ze.",
+        "Spanish": "Los monstruos son reales, y los fantasmas también. Viven dentro de nosotros y, a veces, ganan.",
+        "Italian": "I mostri sono reali, e anche i fantasmi. Vivono dentro di noi, e a volte vincono.",
+        "Turkish": "Canavarlar gerçektir, hayaletler de öyle. Onlar içimizde yaşar ve bazen kazanırlar.",
+        "French": "Les monstres sont réels, les fantômes aussi. Ils vivent en nous, et parfois, ils gagnent.",
+        "Chinese": "怪物是真的，鬼魂也是真的。它们住在我们心里，有时它们会胜利。",
+        "Japanese": "怪物は本物であり、幽霊も本物だ。彼らは私たちの中に住み、時には勝つ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7b73b81e-2060-40a5-9a37-7a29ad750b19",
+        "quote": "The measure of intelligence is the ability to change. — Albert Einstein",
+        "translations": {
+        "German": "Das Maß der Intelligenz ist die Fähigkeit, sich zu verändern.",
+        "Dutch": "De maatstaf van intelligentie is het vermogen om te veranderen.",
+        "Spanish": "La medida de la inteligencia es la capacidad de cambiar.",
+        "Italian": "La misura dell’intelligenza è la capacità di cambiare.",
+        "Turkish": "Zekânın ölçüsü, değişme yeteneğidir.",
+        "French": "La mesure de l’intelligence est la capacité de changer.",
+        "Chinese": "智慧的衡量标准是改变的能力。",
+        "Japanese": "知性の尺度は、変化する能力である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d97abfa2-89f4-4a55-8c76-3888f87f7d48",
+        "quote": "It is not what we profess but what we practice that gives us integrity. — Francis Bacon",
+        "translations": {
+        "German": "Nicht das, was wir bekennen, sondern das, was wir praktizieren, verleiht uns Integrität.",
+        "Dutch": "Niet wat we belijden, maar wat we beoefenen, geeft ons integriteit.",
+        "Spanish": "No es lo que profesamos, sino lo que practicamos lo que nos da integridad.",
+        "Italian": "Non ciò che professiamo, ma ciò che pratichiamo ci dà integrità.",
+        "Turkish": "Bize dürüstlük kazandıran şey, dile getirdiklerimiz değil, uyguladıklarımızdır.",
+        "French": "Ce n’est pas ce que nous professons, mais ce que nous pratiquons qui nous donne notre intégrité.",
+        "Chinese": "给予我们正直的不是我们所宣称的，而是我们所实践的。",
+        "Japanese": "私たちに誠実さを与えるのは、口にすることではなく実践することである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "a0b16f2b-615a-44b6-83c6-77a74b84f41d",
+        "quote": "An eye for an eye will leave the whole world blind. — Mahatma Gandhi",
+        "translations": {
+        "German": "Auge um Auge lässt die ganze Welt blind zurück.",
+        "Dutch": "Oog om oog zal de hele wereld blind achterlaten.",
+        "Spanish": "Ojo por ojo y el mundo acabará ciego.",
+        "Italian": "Occhio per occhio rende cieco tutto il mondo.",
+        "Turkish": "Göze göz, tüm dünyayı kör bırakır.",
+        "French": "Œil pour œil rendra le monde entier aveugle.",
+        "Chinese": "以眼还眼会让整个世界都失明。",
+        "Japanese": "目には目をでは、世界中が盲目になる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ecb4966c-2af0-48d1-80d0-7d27af84d8a5",
+        "quote": "You can’t separate peace from freedom, because no one can be at peace unless he has his freedom. — Malcolm X",
+        "translations": {
+        "German": "Man kann Frieden nicht von Freiheit trennen, denn niemand kann in Frieden leben, ohne seine Freiheit zu haben.",
+        "Dutch": "Je kunt vrede niet scheiden van vrijheid, want niemand kan in vrede leven zonder vrijheid.",
+        "Spanish": "No puedes separar la paz de la libertad, porque nadie puede estar en paz a menos que tenga su libertad.",
+        "Italian": "Non puoi separare la pace dalla libertà, perché nessuno può essere in pace senza libertà.",
+        "Turkish": "Barışı özgürlükten ayıramazsınız; çünkü özgürlüğü olmayan kimse huzur bulamaz.",
+        "French": "On ne peut pas séparer la paix de la liberté, car nul ne peut être en paix s’il n’a pas sa liberté.",
+        "Chinese": "不能把和平与自由分开，因为没有自由就没有和平。",
+        "Japanese": "平和と自由は切り離せない。自由がなければ平和はあり得ない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0c2ffb12-273c-401e-b238-2abedc9e7d18",
+        "quote": "Happiness depends upon ourselves. — Aristotle",
+        "translations": {
+        "German": "Glück hängt von uns selbst ab.",
+        "Dutch": "Geluk hangt van onszelf af.",
+        "Spanish": "La felicidad depende de nosotros mismos.",
+        "Italian": "La felicità dipende da noi stessi.",
+        "Turkish": "Mutluluk kendimize bağlıdır.",
+        "French": "Le bonheur dépend de nous-mêmes.",
+        "Chinese": "幸福取决于我们自己。",
+        "Japanese": "幸せは自分自身にかかっている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0f923b1e-8796-46d8-9a3f-f808b6079c32",
+        "quote": "The weak can never forgive. Forgiveness is the attribute of the strong. — Mahatma Gandhi",
+        "translations": {
+        "German": "Die Schwachen können niemals vergeben. Vergebung ist eine Eigenschaft der Starken.",
+        "Dutch": "De zwakken kunnen nooit vergeven. Vergeving is een eigenschap van de sterken.",
+        "Spanish": "Los débiles nunca pueden perdonar. El perdón es atributo de los fuertes.",
+        "Italian": "I deboli non possono mai perdonare. Il perdono è una qualità dei forti.",
+        "Turkish": "Zayıflar asla affedemez. Affetmek, güçlülerin özelliğidir.",
+        "French": "Les faibles ne peuvent jamais pardonner. Le pardon est l’attribut des forts.",
+        "Chinese": "弱者永远不会原谅，宽恕是强者的品质。",
+        "Japanese": "弱者は決して許すことができない。許しは強者の資質である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7291fa68-61c0-4498-8bfa-12cd728f35af",
+        "quote": "The hottest fire in hell is reserved for those who remain neutral in times of moral crisis. — Dante Alighieri",
+        "translations": {
+        "German": "Das heißeste Feuer in der Hölle ist denen vorbehalten, die in Zeiten moralischer Krisen neutral bleiben.",
+        "Dutch": "Het heetste vuur in de hel is voorbehouden aan degenen die neutraal blijven in tijden van morele crisis.",
+        "Spanish": "El fuego más ardiente del infierno está reservado para quienes permanecen neutrales en tiempos de crisis moral.",
+        "Italian": "Il fuoco più ardente dell’inferno è riservato a coloro che restano neutrali nei momenti di crisi morale.",
+        "Turkish": "Cehennemin en yakıcı ateşi, ahlaki kriz zamanlarında tarafsız kalanlara ayrılmıştır.",
+        "French": "Le feu le plus ardent de l’enfer est réservé à ceux qui restent neutres en temps de crise morale.",
+        "Chinese": "地狱里最炽烈的火焰是为那些在道德危机时保持中立的人准备的。",
+        "Japanese": "地獄の最も熱い炎は、道徳的危機の時に中立を保つ者に用意されている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "cfa75584-c5ea-439d-849f-6a7de5dbfbed",
+        "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one. — Bruce Lee",
+        "translations": {
+        "German": "Bete nicht für ein leichtes Leben, bete für die Kraft, ein schwieriges zu ertragen.",
+        "Dutch": "Bid niet voor een gemakkelijk leven, bid voor de kracht om een moeilijk leven te doorstaan.",
+        "Spanish": "No reces por una vida fácil, reza por la fuerza para soportar una difícil.",
+        "Italian": "Non pregare per una vita facile, prega per la forza di sopportarne una difficile.",
+        "Turkish": "Kolay bir hayat için dua etme; zor bir hayatı kaldıracak güç için dua et.",
+        "French": "Ne prie pas pour une vie facile, prie pour avoir la force d’en endurer une difficile.",
+        "Chinese": "不要祈求容易的人生，要祈求承受艰难人生的力量。",
+        "Japanese": "楽な人生を祈るな。困難な人生に耐える力を祈れ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "9b9a493c-86c6-41c6-8967-20263fd7c6a2",
+        "quote": "None are more hopelessly enslaved than those who falsely believe they are free. — Johann Wolfgang von Goethe",
+        "translations": {
+        "German": "Niemand ist hoffnungsloser versklavt als der, der fälschlicherweise glaubt, frei zu sein.",
+        "Dutch": "Niemand is hopelozer tot slaaf gemaakt dan zij die ten onrechte geloven dat ze vrij zijn.",
+        "Spanish": "Nadie está más irremediablemente esclavizado que quienes creen falsamente ser libres.",
+        "Italian": "Nessuno è più irrimediabilmente schiavo di chi crede falsamente di essere libero.",
+        "Turkish": "Yanlış yere özgür olduğuna inananlardan daha umutsuzca köleleştirilmiş kimse yoktur.",
+        "French": "Nul n’est plus désespérément esclave que celui qui croit à tort être libre.",
+        "Chinese": "没有人比错误地认为自己自由的人更无可救药地受奴役。",
+        "Japanese": "誤って自分が自由だと信じる者ほど、絶望的に奴隷となっている者はいない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "84979241-61d1-4544-9b7f-0e8f5a9077b2",
+        "quote": "Silence is sometimes the best answer. — Dalai Lama",
+        "translations": {
+        "German": "Schweigen ist manchmal die beste Antwort.",
+        "Dutch": "Soms is stilte het beste antwoord.",
+        "Spanish": "El silencio a veces es la mejor respuesta.",
+        "Italian": "A volte il silenzio è la migliore risposta.",
+        "Turkish": "Bazen en iyi cevap sessizliktir.",
+        "French": "Parfois, le silence est la meilleure réponse.",
+        "Chinese": "有时沉默是最好的答案。",
+        "Japanese": "時には沈黙が最良の答えである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f43ed7d4-2ac9-49f2-a76c-bf634b53e40f",
+        "quote": "The future depends on what you do today. — Mahatma Gandhi",
+        "translations": {
+        "German": "Die Zukunft hängt davon ab, was du heute tust.",
+        "Dutch": "De toekomst hangt af van wat je vandaag doet.",
+        "Spanish": "El futuro depende de lo que hagas hoy.",
+        "Italian": "Il futuro dipende da ciò che fai oggi.",
+        "Turkish": "Gelecek, bugün yaptıklarına bağlıdır.",
+        "French": "L’avenir dépend de ce que tu fais aujourd’hui.",
+        "Chinese": "未来取决于你今天所做的事情。",
+        "Japanese": "未来は、今日あなたがすることにかかっている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c2ebd7d0-21f0-4a26-8f2e-f21ccf0f5241",
+        "quote": "The unexamined life is not worth living. — Socrates",
+        "translations": {
+        "German": "Das ungeprüfte Leben ist nicht lebenswert.",
+        "Dutch": "Het ongeëxamineerde leven is het leven niet waard.",
+        "Spanish": "La vida no examinada no merece ser vivida.",
+        "Italian": "La vita non esaminata non vale la pena di essere vissuta.",
+        "Turkish": "Sorgulanmamış bir hayat yaşamaya değmez.",
+        "French": "Une vie sans examen ne vaut pas la peine d’être vécue.",
+        "Chinese": "未经审视的人生不值得过。",
+        "Japanese": "省察されない人生は、生きるに値しない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "a83f75f1-fcbb-46c8-b8a2-30522ef4b38e",
+        "quote": "We are what we pretend to be, so we must be careful about what we pretend to be. — Kurt Vonnegut",
+        "translations": {
+        "German": "Wir sind, was wir vorgeben zu sein, also müssen wir vorsichtig sein, was wir vorgeben zu sein.",
+        "Dutch": "Wij zijn wat we doen alsof we zijn, dus we moeten oppassen waarmee we doen alsof.",
+        "Spanish": "Somos lo que fingimos ser, así que debemos tener cuidado con lo que fingimos ser.",
+        "Italian": "Siamo ciò che fingiamo di essere, quindi dobbiamo fare attenzione a ciò che fingiamo di essere.",
+        "Turkish": "Biz, olduğumuzu iddia ettiğimiz şeyiz; bu yüzden neyi iddia ettiğimize dikkat etmeliyiz.",
+        "French": "Nous sommes ce que nous prétendons être, alors faisons attention à ce que nous prétendons être.",
+        "Chinese": "我们就是我们假装的样子，所以必须小心我们假装成的模样。",
+        "Japanese": "私たちは自分が装うものになる。だから装うものには注意しなければならない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "08b14cde-9c7e-4ad1-b22f-1fda65c7ee4d",
+        "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it. — Aristotle",
+        "translations": {
+        "German": "Es ist das Kennzeichen eines gebildeten Geistes, einen Gedanken aufnehmen zu können, ohne ihn zu akzeptieren.",
+        "Dutch": "Het is het kenmerk van een ontwikkeld verstand om een gedachte te overwegen zonder die te accepteren.",
+        "Spanish": "Es propio de una mente educada poder considerar un pensamiento sin aceptarlo.",
+        "Italian": "È il segno di una mente istruita saper intrattenere un pensiero senza accettarlo.",
+        "Turkish": "Eğitimli bir zihnin göstergesi, bir düşünceyi kabul etmeden onu değerlendirebilmektir.",
+        "French": "C’est le signe d’un esprit instruit que de pouvoir envisager une pensée sans l’accepter.",
+        "Chinese": "受过教育的心智的标志是能考虑一个想法而不必接受它。",
+        "Japanese": "教育ある心の証は、受け入れなくても一つの考えを考慮できることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d42b3b64-9a40-4475-9f3f-633adbe54818",
+        "quote": "No man has a good enough memory to be a successful liar. — Abraham Lincoln",
+        "translations": {
+        "German": "Kein Mensch hat ein gutes genug Gedächtnis, um ein erfolgreicher Lügner zu sein.",
+        "Dutch": "Niemand heeft een goed genoeg geheugen om een succesvolle leugenaar te zijn.",
+        "Spanish": "Nadie tiene tan buena memoria como para ser un mentiroso exitoso.",
+        "Italian": "Nessun uomo ha una memoria abbastanza buena da essere un bugiardo di successo.",
+        "Turkish": "Başarılı bir yalancı olmak için hiç kimsenin hafızası yeterince iyi değildir.",
+        "French": "Aucun homme n’a une mémoire assez bonne pour être un menteur à succès.",
+        "Chinese": "没有人的记忆力好到足以成为一个成功的骗子。",
+        "Japanese": "成功する嘘つきになるほどの記憶力を持つ人間はいない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c11f8043-4a47-4a6c-9c2f-846f5c80f84d",
+        "quote": "Do I not destroy my enemies when I make them my friends? — Abraham Lincoln",
+        "translations": {
+        "German": "Vernichte ich nicht meine Feinde, wenn ich sie zu meinen Freunden mache?",
+        "Dutch": "Vernietig ik mijn vijanden niet wanneer ik hen tot mijn vrienden maak?",
+        "Spanish": "¿No destruyo a mis enemigos cuando los convierto en mis amigos?",
+        "Italian": "Non distruggo forse i miei nemici quando li faccio miei amici?",
+        "Turkish": "Onları dostum haline getirdiğimde düşmanlarımı yok etmiş olmuyor muyum?",
+        "French": "Ne détruis-je pas mes ennemis lorsque j’en fais mes amis ?",
+        "Chinese": "当我把敌人变成朋友时，我不就消灭了他们吗？",
+        "Japanese": "敵を友にしたとき、私は敵を滅ぼしたことにならないか？"
+        },
+        "used": 0
+    },
+    {
+        "id": "c6047f21-f4d8-44a3-9640-08d7fef4b917",
+        "quote": "The pen is mightier than the sword. — Edward Bulwer-Lytton",
+        "translations": {
+        "German": "Die Feder ist mächtiger als das Schwert.",
+        "Dutch": "De pen is machtiger dan het zwaard.",
+        "Spanish": "La pluma es más poderosa que la espada.",
+        "Italian": "La penna è più potente della spada.",
+        "Turkish": "Kalem, kılıçtan daha güçlüdür.",
+        "French": "La plume est plus puissante que l’épée.",
+        "Chinese": "笔比剑更强大。",
+        "Japanese": "ペンは剣よりも強し。"
+        },
+        "used": 0
+    },
+    {
+        "id": "244d420d-df9b-4d0a-84d0-d52c13dd5f0c",
+        "quote": "All that we see or seem is but a dream within a dream. — Edgar Allan Poe",
+        "translations": {
+        "German": "Alles, was wir sehen oder scheinen, ist nur ein Traum in einem Traum.",
+        "Dutch": "Alles wat we zien of lijken te zijn, is slechts een droom binnen een droom.",
+        "Spanish": "Todo lo que vemos o parecemos es solo un sueño dentro de un sueño.",
+        "Italian": "Tutto ciò che vediamo o sembriamo è solo un sogno dentro un sogno.",
+        "Turkish": "Gördüğümüz ya da göründüğümüz her şey, sadece bir rüyanın içindeki rüyadır.",
+        "French": "Tout ce que nous voyons ou croyons voir n’est qu’un rêve dans un rêve.",
+        "Chinese": "我们所见或似乎所见，不过是梦中之梦。",
+        "Japanese": "私たちが見たり見えるように思うものは、夢の中の夢にすぎない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c43dc03b-33c5-4c5a-b1d9-53ff9373a66c",
+        "quote": "The darker the night, the brighter the stars. — Fyodor Dostoevsky",
+        "translations": {
+        "German": "Je dunkler die Nacht, desto heller die Sterne.",
+        "Dutch": "Hoe donkerder de nacht, hoe helderder de sterren.",
+        "Spanish": "Cuanto más oscura la noche, más brillantes las estrellas.",
+        "Italian": "Più la notte è buia, più le stelle brillano.",
+        "Turkish": "Gece ne kadar karanlıksa, yıldızlar o kadar parlaktır.",
+        "French": "Plus la nuit est sombre, plus les étoiles brillent.",
+        "Chinese": "夜越黑，星星越亮。",
+        "Japanese": "夜が暗ければ暗いほど、星は明るく輝く。"
+        },
+        "used": 0
+    },
+    {
+        "id": "61f4b7ac-1e5c-4809-bb17-40a5e0d3abfc",
+        "quote": "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals. — J.K. Rowling",
+        "translations": {
+        "German": "Wenn du wissen willst, wie ein Mensch ist, schau dir an, wie er seine Untergebenen behandelt, nicht seine Gleichgestellten.",
+        "Dutch": "Als je wilt weten hoe een man is, kijk dan goed naar hoe hij zijn ondergeschikten behandelt, niet zijn gelijken.",
+        "Spanish": "Si quieres saber cómo es un hombre, mira bien cómo trata a sus inferiores, no a sus iguales.",
+        "Italian": "Se vuoi sapere com’è un uomo, guarda come tratta i suoi inferiori, non i suoi pari.",
+        "Turkish": "Bir insanın nasıl biri olduğunu bilmek istiyorsan, eşitlerine değil, astlarına nasıl davrandığına bak.",
+        "French": "Si tu veux savoir comment est un homme, regarde bien comment il traite ses inférieurs, non ses égaux.",
+        "Chinese": "要想知道一个人是怎样的，就看看他如何对待比他低的人，而不是与他平等的人。",
+        "Japanese": "その人がどういう人間か知りたければ、対等の者ではなく、目下の者への扱い方を見よ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b7a8408d-5694-4ee2-9a58-d72747649cd2",
+        "quote": "Hopes are like hair, they grow after every cut. — Anonymous",
+        "translations": {
+        "German": "Hoffnungen sind wie Haare, sie wachsen nach jedem Schnitt nach.",
+        "Dutch": "Hoop is als haar, het groeit na elke knipbeurt weer.",
+        "Spanish": "Las esperanzas son como el cabello, crecen después de cada corte.",
+        "Italian": "Le speranze sono come i capelli, ricrescono dopo ogni taglio.",
+        "Turkish": "Umutlar saç gibidir, her kesimden sonra yeniden çıkar.",
+        "French": "Les espoirs sont comme les cheveux, ils repoussent après chaque coupe.",
+        "Chinese": "希望就像头发，每次被剪都会再长出来。",
+        "Japanese": "希望は髪の毛のようなもので、切られてもまた生えてくる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6b3e6c94-9b92-4f2d-ae02-2f346c7d1f72",
+        "quote": "If you are lonely when you are alone, you are in bad company. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Wenn du einsam bist, wenn du allein bist, bist du in schlechter Gesellschaft.",
+        "Dutch": "Als je eenzaam bent wanneer je alleen bent, verkeer je in slecht gezelschap.",
+        "Spanish": "Si te sientes solo cuando estás solo, estás en mala compañía.",
+        "Italian": "Se sei solo quando sei da solo, sei in cattiva compagnia.",
+        "Turkish": "Yalnızken yalnız hissediyorsan, kötü bir şirkette bulunuyorsun.",
+        "French": "Si tu te sens seul quand tu es seul, tu es en mauvaise compagnie.",
+        "Chinese": "如果你独处时感到孤独，那你就是在糟糕的陪伴中。",
+        "Japanese": "独りでいるときに孤独を感じるなら、悪い仲間にいるのだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "9c857afd-8d1b-4c7a-8aa4-82a7e2e9ef9f",
+        "quote": "Every man is guilty of all the good he did not do. — Voltaire",
+        "translations": {
+        "German": "Jeder Mensch ist schuldig all des Guten, das er nicht getan hat.",
+        "Dutch": "Iedere man is schuldig aan al het goede dat hij niet heeft gedaan.",
+        "Spanish": "Todo hombre es culpable de todo el bien que no hizo.",
+        "Italian": "Ogni uomo è colpevole di tutto il bene che non ha fatto.",
+        "Turkish": "Her insan, yapmadığı tüm iyiliklerden sorumludur.",
+        "French": "Chaque homme est coupable de tout le bien qu’il n’a pas fait.",
+        "Chinese": "每个人都对自己没有做过的善事负有罪责。",
+        "Japanese": "人は皆、自らがしなかった善に対して有罪である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "5e1c9cb4-b9e3-42f2-9c5a-bc2f78a1624e",
+        "quote": "Life shrinks or expands in proportion to one’s courage. — Anaïs Nin",
+        "translations": {
+        "German": "Das Leben schrumpft oder dehnt sich im Verhältnis zum Mut aus.",
+        "Dutch": "Het leven krimpt of groeit in verhouding tot iemands moed.",
+        "Spanish": "La vida se encoge o se expande en proporción al coraje de uno.",
+        "Italian": "La vita si restringe o si espande in proporzione al coraggio di ciascuno.",
+        "Turkish": "Hayat, kişinin cesaretiyle orantılı olarak küçülür veya genişler.",
+        "French": "La vie rétrécit ou s’élargit en proportion du courage de chacun.",
+        "Chinese": "人生会随着勇气的大小而收缩或扩展。",
+        "Japanese": "人生は勇気の大きさに比例して縮むか広がる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ebf6fca8-9a1b-4c43-a8f7-f8b32e6c1cdb",
+        "quote": "A fool thinks himself to be wise, but a wise man knows himself to be a fool. — William Shakespeare",
+        "translations": {
+        "German": "Ein Narr hält sich für weise, aber ein weiser Mann weiß, dass er ein Narr ist.",
+        "Dutch": "Een dwaas denkt dat hij wijs is, maar een wijze man weet dat hij een dwaas is.",
+        "Spanish": "El necio se cree sabio, pero el sabio sabe que es un necio.",
+        "Italian": "Uno stolto si crede saggio, ma un uomo saggio sa di essere stolto.",
+        "Turkish": "Aptal, kendini bilge sanar; bilge kişi ise aptal olduğunu bilir.",
+        "French": "Un fou se croit sage, mais un sage sait qu’il est fou.",
+        "Chinese": "愚者自以为聪明，智者却知道自己是愚蠢的。",
+        "Japanese": "愚者は自分を賢いと思い、賢者は自分が愚かだと知っている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "289e7b11-6a04-4c8b-a3a1-6b203c47b217",
+        "quote": "The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself. — Plato",
+        "translations": {
+        "German": "Die schwerste Strafe dafür, nicht regieren zu wollen, ist, von jemandem regiert zu werden, der schlechter ist als man selbst.",
+        "Dutch": "De zwaarste straf voor weigeren te regeren is geregeerd worden door iemand die minder is dan jezelf.",
+        "Spanish": "La pena más grave de no querer gobernar es ser gobernado por alguien inferior a ti.",
+        "Italian": "La pena più grave per non voler governare è essere governati da qualcuno inferiore a sé.",
+        "Turkish": "Yönetmeyi reddetmenin en ağır cezası, senden aşağı biri tarafından yönetilmektir.",
+        "French": "La plus lourde peine pour avoir refusé de gouverner est d’être gouverné par quelqu’un de inférieur à soi.",
+        "Chinese": "拒绝统治的最严重惩罚是被不如你的人统治。",
+        "Japanese": "支配することを拒む最大の罰は、自分より劣る者に支配されることである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "42f417c5-fb73-4b36-877a-f3d62e421f26",
+        "quote": "Freedom is nothing else but a chance to be better. — Albert Camus",
+        "translations": {
+        "German": "Freiheit ist nichts anderes als die Chance, besser zu werden.",
+        "Dutch": "Vrijheid is niets anders dan een kans om beter te worden.",
+        "Spanish": "La libertad no es otra cosa que la oportunidad de ser mejores.",
+        "Italian": "La libertà non è altro che l’occasione di diventare migliori.",
+        "Turkish": "Özgürlük, daha iyi olmak için bir fırsattan başka bir şey değildir.",
+        "French": "La liberté n’est rien d’autre que la chance de devenir meilleur.",
+        "Chinese": "自由只是一种变得更好的机会。",
+        "Japanese": "自由とは、より良くなるための機会にすぎない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6c89b11f-3761-4f46-b5b0-3cb6ec9a24ac",
+        "quote": "Man is condemned to be free. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Der Mensch ist zur Freiheit verurteilt.",
+        "Dutch": "De mens is veroordeeld tot vrijheid.",
+        "Spanish": "El hombre está condenado a ser libre.",
+        "Italian": "L’uomo è condannato a essere libero.",
+        "Turkish": "İnsan, özgür olmaya mahkûmdur.",
+        "French": "L’homme est condamné à être libre.",
+        "Chinese": "人被判注定要自由。",
+        "Japanese": "人間は自由であることを運命づけられている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "48f8bbd6-c66b-49a6-8d45-6b602c08c15b",
+        "quote": "Hell is other people. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Die Hölle, das sind die anderen.",
+        "Dutch": "De hel, dat zijn de anderen.",
+        "Spanish": "El infierno son los otros.",
+        "Italian": "L’inferno sono gli altri.",
+        "Turkish": "Cehennem, başkalarıdır.",
+        "French": "L’enfer, c’est les autres.",
+        "Chinese": "地狱就是他人。",
+        "Japanese": "地獄とは他人のことだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f78e4082-45d7-41a2-9917-99ff2abdc0a1",
+        "quote": "It always seems impossible until it’s done. — Nelson Mandela",
+        "translations": {
+        "German": "Es scheint immer unmöglich, bis es vollbracht ist.",
+        "Dutch": "Het lijkt altijd onmogelijk totdat het gedaan is.",
+        "Spanish": "Siempre parece imposible hasta que se hace.",
+        "Italian": "Sembra sempre impossibile finché non è fatto.",
+        "Turkish": "Her zaman imkânsız görünür, ta ki yapılana kadar.",
+        "French": "Cela semble toujours impossible jusqu’à ce que ce soit fait.",
+        "Chinese": "在事情完成之前，它总是看似不可能。",
+        "Japanese": "それが成し遂げられるまでは、いつも不可能に見える。"
+        },
+        "used": 0
+    },
+    {
+        "id": "8a7f34e4-d6b8-47f6-9c83-ff09b2e01f22",
+        "quote": "Education is the most powerful weapon which you can use to change the world. — Nelson Mandela",
+        "translations": {
+        "German": "Bildung ist die mächtigste Waffe, mit der du die Welt verändern kannst.",
+        "Dutch": "Onderwijs is het krachtigste wapen waarmee je de wereld kunt veranderen.",
+        "Spanish": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+        "Italian": "L’istruzione è l’arma più potente che puoi usare per cambiare il mondo.",
+        "Turkish": "Eğitim, dünyayı değiştirmek için kullanabileceğin en güçlü silahtır.",
+        "French": "L’éducation est l’arme la plus puissante que tu puisses utiliser pour changer le monde.",
+        "Chinese": "教育是你能用来改变世界的最有力的武器。",
+        "Japanese": "教育は、世界を変えるために使える最も強力な武器である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0a99a7e6-1a3d-4b40-b1a1-41a9e3de7852",
+        "quote": "A man is but the product of his thoughts. What he thinks, he becomes. — Mahatma Gandhi",
+        "translations": {
+        "German": "Der Mensch ist nur das Produkt seiner Gedanken. Was er denkt, das wird er.",
+        "Dutch": "Een mens is slechts het product van zijn gedachten. Wat hij denkt, wordt hij.",
+        "Spanish": "Un hombre no es más que el producto de sus pensamientos. En lo que piensa, se convierte.",
+        "Italian": "Un uomo non è altro che il prodotto dei suoi pensieri. Ciò che pensa, diventa.",
+        "Turkish": "İnsan sadece düşüncelerinin ürünüdür. Ne düşünürse, o olur.",
+        "French": "Un homme n’est que le produit de ses pensées. Ce qu’il pense, il le devient.",
+        "Chinese": "人只是他思想的产物。他想什么，他就成为什么。",
+        "Japanese": "人間とは自分の思考の産物にすぎない。考えることが、その人になる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "db80d57c-7e1e-4f2c-8b65-426067c39c6b",
+        "quote": "Be the change that you wish to see in the world. — Mahatma Gandhi",
+        "translations": {
+        "German": "Sei die Veränderung, die du in der Welt sehen willst.",
+        "Dutch": "Wees de verandering die je in de wereld wilt zien.",
+        "Spanish": "Sé el cambio que quieres ver en el mundo.",
+        "Italian": "Sii il cambiamento che vuoi vedere nel mondo.",
+        "Turkish": "Dünyada görmek istediğin değişim ol.",
+        "French": "Sois le changement que tu veux voir dans le monde.",
+        "Chinese": "成为你希望在世界上看到的改变。",
+        "Japanese": "世界に見たいと思う変化そのものになれ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f93f0309-fb25-48fb-826d-2b51ec9d1ff3",
+        "quote": "The best way to find yourself is to lose yourself in the service of others. — Mahatma Gandhi",
+        "translations": {
+        "German": "Der beste Weg, sich selbst zu finden, ist, sich im Dienst an anderen zu verlieren.",
+        "Dutch": "De beste manier om jezelf te vinden is jezelf te verliezen in de dienst aan anderen.",
+        "Spanish": "La mejor manera de encontrarse a uno mismo es perderse en el servicio a los demás.",
+        "Italian": "Il modo migliore per trovare se stessi è perdersi al servizio degli altri.",
+        "Turkish": "Kendini bulmanın en iyi yolu, başkalarına hizmette kendini kaybetmektir.",
+        "French": "La meilleure façon de se trouver est de se perdre au service des autres.",
+        "Chinese": "找到自我的最好方法是忘我地服务他人。",
+        "Japanese": "自分を見つける最良の方法は、他者への奉仕の中で自分を失うことだ。"
+        },
+        "used": 0
+    },
+
+    {
+        "id": "c37fb9da-5a24-4e8f-96e3-36b5c6c32a9a",
+        "quote": "Happiness depends upon ourselves. — Aristotle",
+        "translations": {
+        "German": "Das Glück hängt von uns selbst ab.",
+        "Dutch": "Geluk hangt van onszelf af.",
+        "Spanish": "La felicidad depende de nosotros mismos.",
+        "Italian": "La felicità dipende da noi stessi.",
+        "Turkish": "Mutluluk bize bağlıdır.",
+        "French": "Le bonheur dépend de nous-mêmes.",
+        "Chinese": "幸福取决于我们自己。",
+        "Japanese": "幸福は自分自身にかかっている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "22f4b01e-4cc7-4ff4-87f1-7d7f87d49610",
+        "quote": "Time is the wisest counselor of all. — Pericles",
+        "translations": {
+        "German": "Die Zeit ist der weiseste Ratgeber von allen.",
+        "Dutch": "Tijd is de wijste raadgever van allemaal.",
+        "Spanish": "El tiempo es el más sabio de todos los consejeros.",
+        "Italian": "Il tempo è il più saggio dei consiglieri.",
+        "Turkish": "Zaman, en bilge danışmandır.",
+        "French": "Le temps est le plus sage des conseillers.",
+        "Chinese": "时间是最智慧的顾问。",
+        "Japanese": "時は最も賢明な助言者である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "2f6a2dbf-3d0a-44e6-83df-b15db71d4d17",
+        "quote": "To live is to suffer, to survive is to find some meaning in the suffering. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Leben heißt leiden, überleben heißt, dem Leiden einen Sinn zu geben.",
+        "Dutch": "Leven is lijden, overleven is betekenis vinden in het lijden.",
+        "Spanish": "Vivir es sufrir, sobrevivir es encontrar algún sentido en el sufrimiento.",
+        "Italian": "Vivere è soffrire, sopravvivere è trovare un senso nella sofferenza.",
+        "Turkish": "Yaşamak acı çekmektir; hayatta kalmak, acının anlamını bulmaktır.",
+        "French": "Vivre, c’est souffrir ; survivre, c’est trouver un sens à la souffrance.",
+        "Chinese": "活着就是受苦，生存就是在苦难中找到意义。",
+        "Japanese": "生きるとは苦しむこと、生き延びるとはその苦しみに意味を見出すことだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e6a23210-416b-4e0c-80a5-32938a67616f",
+        "quote": "The greater the difficulty, the more glory in surmounting it. — Epicurus",
+        "translations": {
+        "German": "Je größer die Schwierigkeit, desto mehr Ruhm im Überwinden.",
+        "Dutch": "Hoe groter de moeilijkheid, hoe meer eer in het overwinnen.",
+        "Spanish": "Cuanto mayor la dificultad, mayor la gloria en superarla.",
+        "Italian": "Maggiore è la difficoltà, maggiore è la gloria nel superarla.",
+        "Turkish": "Zorluk ne kadar büyükse, onu aşmaktaki şan da o kadar büyüktür.",
+        "French": "Plus la difficulté est grande, plus la gloire de la surmonter est grande.",
+        "Chinese": "困难越大，克服它的荣耀就越大。",
+        "Japanese": "困難が大きければ大きいほど、それを克服する栄光も大きい。"
+        },
+        "used": 0
+    },
+    {
+        "id": "46dbe372-3627-49ff-a653-96d0c5800c9c",
+        "quote": "Even while they teach, men learn. — Seneca",
+        "translations": {
+        "German": "Schon während sie lehren, lernen die Menschen.",
+        "Dutch": "Zelfs terwijl zij onderwijzen, leren mensen.",
+        "Spanish": "Incluso mientras enseñan, los hombres aprenden.",
+        "Italian": "Anche mentre insegnano, gli uomini imparano.",
+        "Turkish": "İnsanlar öğretirken bile öğrenirler.",
+        "French": "Même en enseignant, les hommes apprennent.",
+        "Chinese": "即使在教学时，人们也在学习。",
+        "Japanese": "人は教えているときでさえ学んでいる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e7a34d42-cb5b-44a0-bc36-f7e792ec3dd9",
+        "quote": "Fortune favors the bold. — Latin Proverb",
+        "translations": {
+        "German": "Das Glück begünstigt die Mutigen.",
+        "Dutch": "Het geluk is met de moedigen.",
+        "Spanish": "La fortuna favorece a los audaces.",
+        "Italian": "La fortuna aiuta gli audaci.",
+        "Turkish": "Şans cesurlardan yanadır.",
+        "French": "La fortune sourit aux audacieux.",
+        "Chinese": "幸运眷顾勇敢者。",
+        "Japanese": "幸運は大胆な者に味方する。"
+        },
+        "used": 0
+    },
+    {
+        "id": "4e17b59a-c4ed-41dd-a9b2-bda3a7902e9f",
+        "quote": "The measure of a man is what he does with power. — Plato",
+        "translations": {
+        "German": "Das Maß eines Menschen ist, was er mit Macht tut.",
+        "Dutch": "De maat van een man is wat hij doet met macht.",
+        "Spanish": "La medida de un hombre es lo que hace con el poder.",
+        "Italian": "La misura di un uomo è ciò che fa con il potere.",
+        "Turkish": "Bir insanın ölçüsü, gücüyle ne yaptığıdır.",
+        "French": "La mesure d’un homme est ce qu’il fait de son pouvoir.",
+        "Chinese": "衡量一个人的标准是他如何使用权力。",
+        "Japanese": "人を測るものは、その力をどう使うかである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e19c7878-d153-46de-bf61-9d0412a0d564",
+        "quote": "Courage is grace under pressure. — Ernest Hemingway",
+        "translations": {
+        "German": "Mut ist Anmut unter Druck.",
+        "Dutch": "Moed is gratie onder druk.",
+        "Spanish": "El coraje es la gracia bajo presión.",
+        "Italian": "Il coraggio è eleganza sotto pressione.",
+        "Turkish": "Cesaret, baskı altındaki zarafettir.",
+        "French": "Le courage est la grâce sous pression.",
+        "Chinese": "勇气是在压力下的优雅。",
+        "Japanese": "勇気とは、圧力の下での優雅さである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "84db6213-8fc4-4d7d-943a-4e3c2e36cf2c",
+        "quote": "To live without hope is to cease to live. — Fyodor Dostoevsky",
+        "translations": {
+        "German": "Ohne Hoffnung zu leben heißt, aufzuhören zu leben.",
+        "Dutch": "Zonder hoop leven is ophouden met leven.",
+        "Spanish": "Vivir sin esperanza es dejar de vivir.",
+        "Italian": "Vivere senza speranza è smettere di vivere.",
+        "Turkish": "Umutsuz yaşamak, yaşamayı bırakmaktır.",
+        "French": "Vivre sans espoir, c’est cesser de vivre.",
+        "Chinese": "没有希望地生活就是停止生活。",
+        "Japanese": "希望なく生きることは、生きるのをやめることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6d9a21e3-3f3b-44a6-8506-0212cda67853",
+        "quote": "Hope is a waking dream. — Aristotle",
+        "translations": {
+        "German": "Die Hoffnung ist ein wacher Traum.",
+        "Dutch": "Hoop is een wakende droom.",
+        "Spanish": "La esperanza es un sueño despierto.",
+        "Italian": "La speranza è un sogno da svegli.",
+        "Turkish": "Umut, uyanıkken görülen bir rüyadır.",
+        "French": "L’espoir est un rêve éveillé.",
+        "Chinese": "希望是清醒时的梦。",
+        "Japanese": "希望とは、目覚めて見る夢である。"
+        },
+        "used": 0
+    },
+
+    {
+        "id": "a1fd3e5f-24ad-4a9a-8cf4-8d4a86b0a59c",
+        "quote": "Knowing yourself is the beginning of all wisdom. — Aristotle",
+        "translations": {
+        "German": "Sich selbst zu kennen, ist der Anfang aller Weisheit.",
+        "Dutch": "Jezelf kennen is het begin van alle wijsheid.",
+        "Spanish": "Conocerse a uno mismo es el principio de toda sabiduría.",
+        "Italian": "Conoscere se stessi è l’inizio di tutta la saggezza.",
+        "Turkish": "Kendini bilmek, tüm bilgeliklerin başlangıcıdır.",
+        "French": "Se connaître soi-même est le commencement de toute sagesse.",
+        "Chinese": "认识自己是一切智慧的开端。",
+        "Japanese": "自分を知ることがすべての知恵の始まりである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0a7c3f2d-f5c8-4c01-bc7f-9cf81329fa9f",
+        "quote": "The unexamined life is not worth living. — Socrates",
+        "translations": {
+        "German": "Ein ungeprüftes Leben ist nicht lebenswert.",
+        "Dutch": "Een ononderzocht leven is het leven niet waard.",
+        "Spanish": "Una vida sin examen no merece ser vivida.",
+        "Italian": "Una vita non esaminata non vale la pena di essere vissuta.",
+        "Turkish": "Sorgulanmamış bir hayat yaşamaya değmez.",
+        "French": "Une vie sans examen ne vaut pas la peine d’être vécue.",
+        "Chinese": "未经审视的人生不值得过。",
+        "Japanese": "吟味されない人生は、生きるに値しない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f21e1c1b-63f9-4329-879f-338d4d872234",
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle",
+        "translations": {
+        "German": "Wir sind, was wir wiederholt tun. Exzellenz ist daher keine Handlung, sondern eine Gewohnheit.",
+        "Dutch": "Wij zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.",
+        "Spanish": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito.",
+        "Italian": "Siamo ciò che facciamo ripetutamente. L’eccellenza non è quindi un atto, ma un’abitudine.",
+        "Turkish": "Biz, tekrar tekrar yaptığımız şeyiz. O halde mükemmellik bir eylem değil, bir alışkanlıktır.",
+        "French": "Nous sommes ce que nous faisons de façon répétée. L’excellence n’est donc pas un acte, mais une habitude.",
+        "Chinese": "我们就是我们反复做的事。因此卓越不是一种行为，而是一种习惯。",
+        "Japanese": "私たちは繰り返し行うことの結果である。ゆえに卓越とは行為ではなく習慣だ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d11f3121-6b6a-4b43-9f3e-81e7dbed2418",
+        "quote": "He who opens a school door, closes a prison. — Victor Hugo",
+        "translations": {
+        "German": "Wer eine Schultür öffnet, schließt ein Gefängnis.",
+        "Dutch": "Wie een schooldeur opent, sluit een gevangenis.",
+        "Spanish": "Quien abre la puerta de una escuela, cierra una prisión.",
+        "Italian": "Chi apre la porta di una scuola, chiude una prigione.",
+        "Turkish": "Bir okul kapısı açan, bir hapishane kapatır.",
+        "French": "Celui qui ouvre la porte d’une école ferme une prison.",
+        "Chinese": "开启一所学校的门，就关闭了一所监狱。",
+        "Japanese": "学校の扉を開く者は、刑務所を閉じる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "fbbe3c64-0f6e-4f49-8b71-25ea54e61f50",
+        "quote": "Wisdom begins in wonder. — Socrates",
+        "translations": {
+        "German": "Weisheit beginnt im Staunen.",
+        "Dutch": "Wijsheid begint in verwondering.",
+        "Spanish": "La sabiduría comienza en la admiración.",
+        "Italian": "La saggezza comincia dalla meraviglia.",
+        "Turkish": "Bilgelik, hayretle başlar.",
+        "French": "La sagesse commence par l’émerveillement.",
+        "Chinese": "智慧始于惊奇。",
+        "Japanese": "知恵は驚きから始まる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "943e93fc-4a67-4e35-9f9e-6dcb2d4b8391",
+        "quote": "All men by nature desire knowledge. — Aristotle",
+        "translations": {
+        "German": "Alle Menschen streben von Natur aus nach Wissen.",
+        "Dutch": "Alle mensen verlangen van nature naar kennis.",
+        "Spanish": "Todos los hombres desean por naturaleza el conocimiento.",
+        "Italian": "Tutti gli uomini desiderano per natura la conoscenza.",
+        "Turkish": "Tüm insanlar doğası gereği bilgi arzu eder.",
+        "French": "Tous les hommes désirent naturellement la connaissance.",
+        "Chinese": "所有人天生都渴望知识。",
+        "Japanese": "すべての人間は本性として知識を求める。"
+        },
+        "used": 0
+    },
+    {
+        "id": "15d81408-0de3-4f38-a1b6-0c6f743e6f2e",
+        "quote": "Patience is bitter, but its fruit is sweet. — Aristotle",
+        "translations": {
+        "German": "Geduld ist bitter, aber ihre Frucht ist süß.",
+        "Dutch": "Geduld is bitter, maar haar vrucht is zoet.",
+        "Spanish": "La paciencia es amarga, pero su fruto es dulce.",
+        "Italian": "La pazienza è amara, ma il suo frutto è dolce.",
+        "Turkish": "Sabır acıdır, ama meyvesi tatlıdır.",
+        "French": "La patience est amère, mais son fruit est doux.",
+        "Chinese": "耐心是苦的，但它的果实是甜的。",
+        "Japanese": "忍耐は苦いが、その実は甘い。"
+        },
+        "used": 0
+    },
+    {
+        "id": "5bc9d377-14c2-4e3b-9f17-d928d16fa9d3",
+        "quote": "Educating the mind without educating the heart is no education at all. — Aristotle",
+        "translations": {
+        "German": "Den Geist zu bilden, ohne das Herz zu bilden, ist überhaupt keine Bildung.",
+        "Dutch": "De geest vormen zonder het hart te vormen is helemaal geen opvoeding.",
+        "Spanish": "Educar la mente sin educar el corazón no es educación en absoluto.",
+        "Italian": "Educare la mente senza educare il cuore non è affatto educazione.",
+        "Turkish": "Zihni eğitmek ama kalbi eğitmemek, hiç eğitim değildir.",
+        "French": "Éduquer l’esprit sans éduquer le cœur n’est pas une véritable éducation.",
+        "Chinese": "只教育头脑而不教育心灵，就根本算不上教育。",
+        "Japanese": "心を育てずに頭を育てることは、教育とは言えない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b53d6d98-073e-47f6-b981-1e7c18f28eb2",
+        "quote": "Well begun is half done. — Aristotle",
+        "translations": {
+        "German": "Gut begonnen ist halb gewonnen.",
+        "Dutch": "Goed begonnen is half gewonnen.",
+        "Spanish": "Bien comenzado está medio hecho.",
+        "Italian": "Ben cominciato è mezzo fatto.",
+        "Turkish": "İyi başlayan, yarı yarıya tamamlanmıştır.",
+        "French": "Un bon début est la moitié du travail.",
+        "Chinese": "好的开始是成功的一半。",
+        "Japanese": "良い始まりは半分終わったも同然。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7712753c-1572-46de-985d-17a85e90cbd3",
+        "quote": "He who has a why to live can bear almost any how. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Wer ein Warum zum Leben hat, erträgt fast jedes Wie.",
+        "Dutch": "Wie een waarom heeft om voor te leven, kan bijna elk hoe verdragen.",
+        "Spanish": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+        "Italian": "Chi ha un perché per vivere può sopportare quasi ogni come.",
+        "Turkish": "Yaşamak için bir nedeni olan, neredeyse her nasıla katlanabilir.",
+        "French": "Celui qui a un pourquoi pour vivre peut supporter presque n’importe quel comment.",
+        "Chinese": "知道为什么而活的人，几乎能忍受任何方式。",
+        "Japanese": "生きる理由を持つ者は、ほとんどいかなる方法にも耐えられる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "06c85d8d-2153-4f67-a37a-32a6f6f03395",
+        "quote": "He who fights with monsters should look to it that he himself does not become a monster. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Wer mit Monstern kämpft, sollte zusehen, dass er nicht selbst zum Monster wird.",
+        "Dutch": "Wie met monsters vecht, moet ervoor zorgen dat hij zelf geen monster wordt.",
+        "Spanish": "Quien lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo.",
+        "Italian": "Chi combatte con i mostri deve fare attenzione a non diventare lui stesso un mostro.",
+        "Turkish": "Canavarlarla savaşan, kendisinin de bir canavara dönüşmemesine dikkat etmelidir.",
+        "French": "Celui qui lutte contre des monstres doit veiller à ne pas devenir monstre lui-même.",
+        "Chinese": "与怪物战斗的人要小心，别让自己变成怪物。",
+        "Japanese": "怪物と戦う者は、自らも怪物とならぬよう注意せよ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "69a22082-3bdb-4b95-940c-9ac5bcb3d1db",
+        "quote": "In heaven, all the interesting people are missing. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Im Himmel fehlen alle interessanten Menschen.",
+        "Dutch": "In de hemel ontbreken alle interessante mensen.",
+        "Spanish": "En el cielo faltan todas las personas interesantes.",
+        "Italian": "In paradiso mancano tutte le persone interessanti.",
+        "Turkish": "Cennette tüm ilginç insanlar eksiktir.",
+        "French": "Au paradis, toutes les personnes intéressantes manquent.",
+        "Chinese": "天堂里缺少所有有趣的人。",
+        "Japanese": "天国には興味深い人々がみな欠けている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "187c82c9-69ac-426c-8b3d-94a086cde7a8",
+        "quote": "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Der sicherste Weg, die Jugend zu verderben, ist, sie zu lehren, Gleichgesinnte höher zu schätzen als Andersdenkende.",
+        "Dutch": "De zekerste manier om jongeren te corrumperen is hen te leren gelijkgestemden hoger te achten dan andersdenkenden.",
+        "Spanish": "La forma más segura de corromper a un joven es enseñarle a valorar más a quienes piensan igual que a quienes piensan diferente.",
+        "Italian": "Il modo più sicuro di corrompere un giovane è insegnargli a stimare di più chi la pensa come lui che chi la pensa diversamente.",
+        "Turkish": "Bir genci yozlaştırmanın en emin yolu, ona farklı düşünenlerden çok, aynı düşünenleri daha yüksek görmesini öğretmektir.",
+        "French": "La manière la plus sûre de corrompre la jeunesse est de lui apprendre à estimer davantage ceux qui pensent de même que ceux qui pensent différemment.",
+        "Chinese": "腐化青年的最可靠方法，就是教他更看重与他想法相同的人，而不是想法不同的人。",
+        "Japanese": "若者を堕落させる最も確実な方法は、異なる考えを持つ人よりも、同じ考えを持つ人を高く評価するように教えることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c9f43b20-99a7-4f13-8d13-0e56e36e070b",
+        "quote": "Convictions are more dangerous foes of truth than lies. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Überzeugungen sind gefährlichere Feinde der Wahrheit als Lügen.",
+        "Dutch": "Overtuigingen zijn gevaarlijker voor de waarheid dan leugens.",
+        "Spanish": "Las convicciones son más peligrosas para la verdad que las mentiras.",
+        "Italian": "Le convinzioni sono nemiche della verità più pericolose che le bugie.",
+        "Turkish": "Kanaatler, yalanlardan daha tehlikeli hakikat düşmanlarıdır.",
+        "French": "Les convictions sont des ennemies de la vérité plus dangereuses que les mensonges.",
+        "Chinese": "信念比谎言更危险，是真理的敌人。",
+        "Japanese": "確信は嘘よりも真理にとって危険な敵である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "61ae768d-8e0f-43b3-b347-9e4f59d9e22b",
+        "quote": "Man is the measure of all things. — Protagoras",
+        "translations": {
+        "German": "Der Mensch ist das Maß aller Dinge.",
+        "Dutch": "De mens is de maat van alle dingen.",
+        "Spanish": "El hombre es la medida de todas las cosas.",
+        "Italian": "L’uomo è la misura di tutte le cose.",
+        "Turkish": "İnsan, her şeyin ölçüsüdür.",
+        "French": "L’homme est la mesure de toutes choses.",
+        "Chinese": "人是万物的尺度。",
+        "Japanese": "人間は万物の尺度である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "77110f1f-1e43-48ff-a5db-6a6efae2b1de",
+        "quote": "Hell is other people. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Die Hölle, das sind die anderen.",
+        "Dutch": "De hel, dat zijn de anderen.",
+        "Spanish": "El infierno son los otros.",
+        "Italian": "L’inferno sono gli altri.",
+        "Turkish": "Cehennem, diğer insanlardır.",
+        "French": "L’enfer, c’est les autres.",
+        "Chinese": "地狱就是别人。",
+        "Japanese": "地獄とは他人のことだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "2b633a5c-707d-4976-b38a-b379ac58e45d",
+        "quote": "Liberty means responsibility. That is why most men dread it. — George Bernard Shaw",
+        "translations": {
+        "German": "Freiheit bedeutet Verantwortung. Darum fürchten die meisten Menschen sie.",
+        "Dutch": "Vrijheid betekent verantwoordelijkheid. Daarom vrezen de meeste mensen haar.",
+        "Spanish": "La libertad significa responsabilidad. Por eso la mayoría de los hombres la temen.",
+        "Italian": "La libertà significa responsabilità. Ecco perché la maggior parte degli uomini la teme.",
+        "Turkish": "Özgürlük, sorumluluk demektir. Bu yüzden çoğu insan ondan korkar.",
+        "French": "La liberté signifie responsabilité. C’est pourquoi la plupart des hommes la redoutent.",
+        "Chinese": "自由意味着责任。这就是为什么大多数人害怕它。",
+        "Japanese": "自由とは責任を意味する。だからこそ多くの人はそれを恐れる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f69cf7d1-75b2-4cbb-9316-5f9f7f3b61b2",
+        "quote": "It is not length of life, but depth of life. — Ralph Waldo Emerson",
+        "translations": {
+        "German": "Es kommt nicht auf die Länge des Lebens an, sondern auf die Tiefe des Lebens.",
+        "Dutch": "Het gaat niet om de lengte van het leven, maar om de diepte ervan.",
+        "Spanish": "No es la longitud de la vida, sino la profundidad de la vida.",
+        "Italian": "Non è la lunghezza della vita, ma la profondità della vita.",
+        "Turkish": "Hayatın uzunluğu değil, derinliği önemlidir.",
+        "French": "Ce n’est pas la durée de la vie, mais sa profondeur qui compte.",
+        "Chinese": "重要的不是生命的长度，而是生命的深度。",
+        "Japanese": "大切なのは人生の長さではなく、その深さである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d482ae16-6fa0-47b1-960a-34f1c18336f3",
+        "quote": "Man is condemned to be free. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Der Mensch ist dazu verurteilt, frei zu sein.",
+        "Dutch": "De mens is veroordeeld om vrij te zijn.",
+        "Spanish": "El hombre está condenado a ser libre.",
+        "Italian": "L’uomo è condannato a essere libero.",
+        "Turkish": "İnsan, özgür olmaya mahkûmdur.",
+        "French": "L’homme est condamné à être libre.",
+        "Chinese": "人被判定要自由。",
+        "Japanese": "人間は自由であることを宿命づけられている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "cb8f2cc7-71f8-4c46-a1a3-865c08fbda59",
+        "quote": "Life must be understood backward. But it must be lived forward. — Søren Kierkegaard",
+        "translations": {
+        "German": "Das Leben muss rückwärts verstanden werden. Aber es muss vorwärts gelebt werden.",
+        "Dutch": "Het leven moet achterwaarts worden begrepen. Maar het moet voorwaarts worden geleefd.",
+        "Spanish": "La vida solo puede entenderse mirando hacia atrás, pero debe vivirse hacia adelante.",
+        "Italian": "La vita deve essere compresa all’indietro. Ma deve essere vissuta in avanti.",
+        "Turkish": "Hayat geriye bakarak anlaşılmalı, ama ileriye dönük yaşanmalıdır.",
+        "French": "La vie ne peut être comprise qu’en regardant en arrière, mais elle doit être vécue en avant.",
+        "Chinese": "人生必须向后理解，但必须向前生活。",
+        "Japanese": "人生は後ろ向きに理解されなければならない。しかし前向きに生きなければならない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "1d4ad7f0-d3e0-41c7-9c71-0fbd14f8f77d",
+        "quote": "God is dead. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Gott ist tot.",
+        "Dutch": "God is dood.",
+        "Spanish": "Dios ha muerto.",
+        "Italian": "Dio è morto.",
+        "Turkish": "Tanrı öldü.",
+        "French": "Dieu est mort.",
+        "Chinese": "上帝死了。",
+        "Japanese": "神は死んだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "8851a711-9ee6-4562-9fa9-98d96762cbdd",
+        "quote": "Man is nothing else but what he makes of himself. — Jean-Paul Sartre",
+        "translations": {
+        "German": "Der Mensch ist nichts anderes als das, was er aus sich macht.",
+        "Dutch": "De mens is niets anders dan wat hij van zichzelf maakt.",
+        "Spanish": "El hombre no es nada más que lo que hace de sí mismo.",
+        "Italian": "L’uomo non è altro che ciò che fa di se stesso.",
+        "Turkish": "İnsan, kendinden yaptığından başka bir şey değildir.",
+        "French": "L’homme n’est rien d’autre que ce qu’il fait de lui-même.",
+        "Chinese": "人不过是他自己所塑造的东西。",
+        "Japanese": "人間とは、自らが作り出したものにすぎない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d0a7e5ff-5cf0-4cf1-9e07-3025ad072ee5",
+        "quote": "The mass of men lead lives of quiet desperation. — Henry David Thoreau",
+        "translations": {
+        "German": "Die Masse der Menschen führt ein Leben stiller Verzweiflung.",
+        "Dutch": "De massa van mensen leidt een leven van stille wanhoop.",
+        "Spanish": "La mayoría de los hombres llevan vidas de silenciosa desesperación.",
+        "Italian": "La massa degli uomini conduce vite di silenziosa disperazione.",
+        "Turkish": "İnsanların çoğu sessiz bir umutsuzluk içinde yaşar.",
+        "French": "La masse des hommes mène une vie de désespoir silencieux.",
+        "Chinese": "大多数人过着无声的绝望生活。",
+        "Japanese": "大多数の人間は静かな絶望の生活を送っている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "3f8a457b-cc54-44b7-a41b-84efc51b72b1",
+        "quote": "Man is born free, and everywhere he is in chains. — Jean-Jacques Rousseau",
+        "translations": {
+        "German": "Der Mensch wird frei geboren, und überall liegt er in Ketten.",
+        "Dutch": "De mens wordt vrij geboren, en overal ligt hij in ketenen.",
+        "Spanish": "El hombre nace libre, y en todas partes se encuentra encadenado.",
+        "Italian": "L’uomo nasce libero, e ovunque è in catene.",
+        "Turkish": "İnsan özgür doğar, fakat her yerde zincirler içindedir.",
+        "French": "L’homme est né libre, et partout il est dans les fers.",
+        "Chinese": "人生而自由，却无往不在枷锁之中。",
+        "Japanese": "人間は自由に生まれたが、至る所で鎖につながれている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "3cce2f57-46dd-4e20-8e73-d11d23cfd897",
+        "quote": "The road to hell is paved with good intentions. — Proverb",
+        "translations": {
+        "German": "Der Weg zur Hölle ist mit guten Vorsätzen gepflastert.",
+        "Dutch": "De weg naar de hel is geplaveid met goede bedoelingen.",
+        "Spanish": "El camino al infierno está empedrado de buenas intenciones.",
+        "Italian": "La strada per l’inferno è lastricata di buone intenzioni.",
+        "Turkish": "Cehenneme giden yol, iyi niyet taşlarıyla döşelidir.",
+        "French": "L’enfer est pavé de bonnes intentions.",
+        "Chinese": "通往地狱的路是由善意铺成的。",
+        "Japanese": "地獄への道は善意で舗装されている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "907c35e7-20c7-4a41-96ff-94d21d55cfe2",
+        "quote": "History is written by the victors. — Winston Churchill",
+        "translations": {
+        "German": "Die Geschichte wird von den Siegern geschrieben.",
+        "Dutch": "De geschiedenis wordt geschreven door de overwinnaars.",
+        "Spanish": "La historia la escriben los vencedores.",
+        "Italian": "La storia è scritta dai vincitori.",
+        "Turkish": "Tarihi, galipler yazar.",
+        "French": "L’histoire est écrite par les vainqueurs.",
+        "Chinese": "历史是由胜利者书写的。",
+        "Japanese": "歴史は勝者によって書かれる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "8e21c39a-2f3f-45a2-bf17-06e1157ea35d",
+        "quote": "All animals are equal, but some animals are more equal than others. — George Orwell",
+        "translations": {
+        "German": "Alle Tiere sind gleich, aber manche Tiere sind gleicher als andere.",
+        "Dutch": "Alle dieren zijn gelijk, maar sommige dieren zijn gelijker dan andere.",
+        "Spanish": "Todos los animales son iguales, pero algunos animales son más iguales que otros.",
+        "Italian": "Tutti gli animali sono uguali, ma alcuni sono più uguali degli altri.",
+        "Turkish": "Bütün hayvanlar eşittir, ama bazıları diğerlerinden daha eşittir.",
+        "French": "Tous les animaux sont égaux, mais certains sont plus égaux que d’autres.",
+        "Chinese": "所有动物一律平等，但有些动物比其他更平等。",
+        "Japanese": "すべての動物は平等だが、ある動物は他よりもさらに平等である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "580285f2-2068-48c8-bb94-816e80d91d27",
+        "quote": "War is peace. Freedom is slavery. Ignorance is strength. — George Orwell",
+        "translations": {
+        "German": "Krieg ist Frieden. Freiheit ist Sklaverei. Unwissenheit ist Stärke.",
+        "Dutch": "Oorlog is vrede. Vrijheid is slavernij. Onwetendheid is kracht.",
+        "Spanish": "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza.",
+        "Italian": "La guerra è pace. La libertà è schiavitù. L’ignoranza è la fuerza.",
+        "Turkish": "Savaş barıştır. Özgürlük köleliktir. Cehalet güçtür.",
+        "French": "La guerre, c’est la paix. La liberté, c’est l’esclavage. L’ignorance, c’est la force.",
+        "Chinese": "战争即和平。自由即奴役。无知即力量。",
+        "Japanese": "戦争は平和である。自由は隷属である。無知は力である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ad4a221e-1a85-423f-9f3b-8a291f61f4a5",
+        "quote": "Power tends to corrupt, and absolute power corrupts absolutely. — Lord Acton",
+        "translations": {
+        "German": "Macht neigt dazu zu korrumpieren, und absolute Macht korrumpiert absolut.",
+        "Dutch": "Macht neigt te corrumperen, en absolute macht corrumpeert absoluut.",
+        "Spanish": "El poder tiende a corromper, y el poder absoluto corrompe absolutamente.",
+        "Italian": "Il potere tende a corrompere, e il potere assoluto corrompe in modo absoluto.",
+        "Turkish": "Güç yozlaştırma eğilimindedir; mutlak güç ise mutlak yozlaştırır.",
+        "French": "Le pouvoir tend à corrompre, et le pouvoir absolu corrompt absolument.",
+        "Chinese": "权力导致腐败，绝对的权力导致绝对的腐败。",
+        "Japanese": "権力は腐敗しがちであり、絶対的な権力は絶対的に腐敗する。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f18f5027-f680-44c1-8859-6c5da7aa3770",
+        "quote": "An eye for an eye will leave the whole world blind. — Attributed to Gandhi",
+        "translations": {
+        "German": "Ein Auge um Auge lässt die ganze Welt blind zurück.",
+        "Dutch": "Oog om oog zal de hele wereld blind achterlaten.",
+        "Spanish": "Un ojo por un ojo dejará ciego al mundo entero.",
+        "Italian": "Occhio per occhio lascerà il mondo intero cieco.",
+        "Turkish": "Göz göze, bütün dünyayı kör bırakır.",
+        "French": "Œil pour œil et le monde entier sera aveugle.",
+        "Chinese": "以眼还眼，只会让整个世界失明。",
+        "Japanese": "目には目を、では世界全体が盲目になる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7ee08ee6-78e8-493a-a3b9-c8ee21f2dbd3",
+        "quote": "A journey of a thousand miles begins with a single step. — Lao Tzu",
+        "translations": {
+        "German": "Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt.",
+        "Dutch": "Een reis van duizend mijlen begint met één enkele stap.",
+        "Spanish": "Un viaje de mil millas comienza con un solo paso.",
+        "Italian": "Un viaggio di mille miglia inizia con un solo passo.",
+        "Turkish": "Bin millik yolculuk tek bir adımla başlar.",
+        "French": "Un voyage de mille lieues commence par un pas.",
+        "Chinese": "千里之行，始于足下。",
+        "Japanese": "千里の道も一歩から始まる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b17611bb-7eec-4994-81ea-1898a4f0025a",
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail. — Ralph Waldo Emerson",
+        "translations": {
+        "German": "Geh nicht dorthin, wo der Weg hinführt, geh stattdessen dorthin, wo es keinen Weg gibt, und hinterlasse eine Spur.",
+        "Dutch": "Ga niet waar het pad leidt, ga in plaats daarvan waar geen pad is en laat een spoor achter.",
+        "Spanish": "No vayas donde el camino te lleve, ve donde no hay camino y deja un rastro.",
+        "Italian": "Non andare dove il sentiero può portare, vai invece dove non c’è sentiero e lascia una traccia.",
+        "Turkish": "Yolun götürdüğü yere gitme; yol olmayan yere git ve bir iz bırak.",
+        "French": "N’allez pas là où le chemin peut mener, allez plutôt là où il n’y a pas de chemin et laissez une trace.",
+        "Chinese": "不要走可能通向的道路，而要走没有道路的地方，留下足迹。",
+        "Japanese": "道があるところに行くな。道のないところへ行き、跡を残せ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "a9af3e9f-23dc-4dbd-b44e-3a079eaa5dfd",
+        "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced. — James Baldwin",
+        "translations": {
+        "German": "Nicht alles, was man konfrontiert, kann verändert werden, aber nichts kann verändert werden, bis man ihm gegenübertritt.",
+        "Dutch": "Niet alles wat je onder ogen ziet kan veranderd worden, maar niets kan veranderd worden totdat je het onder ogen ziet.",
+        "Spanish": "No todo lo que se enfrenta puede cambiarse, pero nada puede cambiar hasta que se enfrenta.",
+        "Italian": "Non tutto ciò che si affronta può essere cambiato, ma nulla può cambiarse finché non viene affrontato.",
+        "Turkish": "Yüzleşilen her şey değiştirilemez, ama hiçbir şey yüzleşilmeden değiştirilemez.",
+        "French": "Tout ce qui est affronté ne peut pas être changé, mais rien ne peut être changé tant qu’il n’est pas affronté.",
+        "Chinese": "并非所有面对的事情都能改变，但在面对之前，什么也无法改变。",
+        "Japanese": "直面したものすべてを変えることはできないが、直面しなければ何も変えられない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "4b6460e6-f8a4-45af-8b49-734b8ad5b9a0",
+        "quote": "Knowledge is power. — Francis Bacon",
+        "translations": {
+        "German": "Wissen ist Macht.",
+        "Dutch": "Kennis is macht.",
+        "Spanish": "El conocimiento es poder.",
+        "Italian": "La conoscenza è potere.",
+        "Turkish": "Bilgi güçtür.",
+        "French": "Le savoir, c’est le pouvoir.",
+        "Chinese": "知识就是力量。",
+        "Japanese": "知識は力なり。"
+        },
+        "used": 0
+    },
+    {
+        "id": "7a42b047-052b-42e7-95c1-193fc7c1c712",
+        "quote": "Better to remain silent and be thought a fool than to speak and remove all doubt. — Attributed to Abraham Lincoln",
+        "translations": {
+        "German": "Besser schweigen und für einen Narren gehalten werden, als zu reden und alle Zweifel zu beseitigen.",
+        "Dutch": "Beter zwijgen en voor een dwaas gehouden worden dan spreken en alle twijfel wegnemen.",
+        "Spanish": "Mejor permanecer en silencio y parecer un tonto que hablar y eliminar toda duda.",
+        "Italian": "Meglio rimanere in silenzio ed essere considerato sciocco che parlare e togliere ogni dubbio.",
+        "Turkish": "Sessiz kalıp aptal sanılmak, konuşup tüm şüpheleri ortadan kaldırmaktan iyidir.",
+        "French": "Mieux vaut se taire et passer pour un imbécile que parler et dissiper tout doute.",
+        "Chinese": "保持沉默而被认为是傻瓜，总比开口说话而消除所有怀疑要好。",
+        "Japanese": "黙っていて愚か者と思われる方が、話してすべての疑念を晴らすよりましだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "12fd72c5-5b8a-4720-8f17-734e82cf6b33",
+        "quote": "The unexamined life is not worth living. — Socrates",
+        "translations": {
+        "German": "Ein ungeprüftes Leben ist nicht lebenswert.",
+        "Dutch": "Het ononderzochte leven is het leven niet waard.",
+        "Spanish": "Una vida sin examen no merece ser vivida.",
+        "Italian": "Una vita senza esame non è degna di essere vissuta.",
+        "Turkish": "Sorgulanmamış bir hayat yaşanmaya değmez.",
+        "French": "Une vie sans examen ne vaut pas la peine d’être vécue.",
+        "Chinese": "未经审视的人生不值得过。",
+        "Japanese": "吟味されない人生は生きるに値しない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "2461c6ff-bd8b-4764-bcc4-37f4e325a0ce",
+        "quote": "Knowledge speaks, but wisdom listens. — Jimi Hendrix",
+        "translations": {
+        "German": "Wissen spricht, aber Weisheit hört zu.",
+        "Dutch": "Kennis spreekt, maar wijsheid luistert.",
+        "Spanish": "El conocimiento habla, pero la sabiduría escucha.",
+        "Italian": "La conoscenza parla, ma la saggezza ascolta.",
+        "Turkish": "Bilgi konuşur, bilgelik dinler.",
+        "French": "Le savoir parle, mais la sagesse écoute.",
+        "Chinese": "知识在说话，但智慧在倾听。",
+        "Japanese": "知識は語り、知恵は耳を傾ける。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c86fa13a-2338-4af3-b899-4934a1d0cb87",
+        "quote": "What we think, we become. — Buddha",
+        "translations": {
+        "German": "Was wir denken, das werden wir.",
+        "Dutch": "Wat we denken, dat worden we.",
+        "Spanish": "Lo que pensamos, en eso nos convertimos.",
+        "Italian": "Ciò che pensiamo, diventiamo.",
+        "Turkish": "Ne düşünürsek, o oluruz.",
+        "French": "Ce que nous pensons, nous le devenons.",
+        "Chinese": "我们所想的，就是我们所成的。",
+        "Japanese": "私たちが考えることが、私たち自身になる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "12d34b49-b9dd-40f2-9b13-8e1609cd79e3",
+        "quote": "Hell is empty and all the devils are here. — William Shakespeare",
+        "translations": {
+        "German": "Die Hölle ist leer, und alle Teufel sind hier.",
+        "Dutch": "De hel is leeg en alle duivels zijn hier.",
+        "Spanish": "El infierno está vacío y todos los demonios están aquí.",
+        "Italian": "L’inferno è vuoto e tutti i diavoli sono qui.",
+        "Turkish": "Cehennem boştur, bütün şeytanlar buradadır.",
+        "French": "L’enfer est vide et tous les démons sont ici.",
+        "Chinese": "地狱空荡荡，所有的魔鬼都在这里。",
+        "Japanese": "地獄は空っぽで、悪魔はみなここにいる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "982a77df-5f48-4aa1-8f3c-2b86a9f9b65c",
+        "quote": "Freedom is nothing else but a chance to be better. — Albert Camus",
+        "translations": {
+        "German": "Freiheit ist nichts anderes als die Chance, besser zu werden.",
+        "Dutch": "Vrijheid is niets anders dan een kans om beter te worden.",
+        "Spanish": "La libertad no es otra cosa que una oportunidad para ser mejores.",
+        "Italian": "La libertà non è altro che una possibilità di essere migliori.",
+        "Turkish": "Özgürlük, daha iyi olma fırsatından başka bir şey değildir.",
+        "French": "La liberté n’est rien d’autre qu’une chance de devenir meilleur.",
+        "Chinese": "自由无非是变得更好的机会。",
+        "Japanese": "自由とは、より良くなるための機会にほかならない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "8cf0f53a-8d4e-4f52-865d-d6a23a8e2f6a",
+        "quote": "All men are created equal, but only the wise recognize it. — Anonymous",
+        "translations": {
+        "German": "Alle Menschen sind gleich geschaffen, aber nur die Weisen erkennen es.",
+        "Dutch": "Alle mensen zijn gelijk geschapen, maar alleen de wijzen erkennen het.",
+        "Spanish": "Todos los hombres son creados iguales, pero solo los sabios lo reconocen.",
+        "Italian": "Tutti gli uomini sono creati uguali, ma solo i saggi lo riconoscono.",
+        "Turkish": "Tüm insanlar eşit yaratılmıştır, ama yalnızca bilge olanlar bunu fark eder.",
+        "French": "Tous les hommes sont créés égaux, mais seuls les sages le reconnaissent.",
+        "Chinese": "人人生而平等，但只有智者才能认识到这一点。",
+        "Japanese": "すべての人は平等に創られているが、それを認識するのは賢者だけである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e3ff52f6-85b5-43d7-b0a7-26d03ebaf062",
+        "quote": "The fault, dear Brutus, is not in our stars, but in ourselves. — William Shakespeare",
+        "translations": {
+        "German": "Der Fehler, lieber Brutus, liegt nicht in unseren Sternen, sondern in uns selbst.",
+        "Dutch": "De fout, beste Brutus, ligt niet in onze sterren, maar in onszelf.",
+        "Spanish": "La culpa, querido Bruto, no está en nuestras estrellas, sino en nosotros mismos.",
+        "Italian": "La colpa, caro Bruto, non è nelle nostre stelle, ma in noi stessi.",
+        "Turkish": "Suç, sevgili Brutus, yıldızlarımızda değil, kendimizdedir.",
+        "French": "La faute, cher Brutus, n’est pas dans nos étoiles, mais en nous-mêmes.",
+        "Chinese": "亲爱的布鲁图，不是我们的星辰，而是我们自己有过错。",
+        "Japanese": "親愛なるブルータスよ、過ちがあるのは星ではなく我々自身だ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ac8bc0f8-fc0f-4e07-87d9-25aa93e2f57e",
+        "quote": "Happiness is not an ideal of reason, but of imagination. — Immanuel Kant",
+        "translations": {
+        "German": "Das Glück ist kein Ideal der Vernunft, sondern der Einbildungskraft.",
+        "Dutch": "Geluk is geen ideaal van de rede, maar van de verbeelding.",
+        "Spanish": "La felicidad no es un ideal de la razón, sino de la imaginación.",
+        "Italian": "La felicità non è un ideale della ragione, ma dell’immaginazione.",
+        "Turkish": "Mutluluk, aklın değil, hayal gücünün bir idealidir.",
+        "French": "Le bonheur n’est pas un idéal de la raison, mais de l’imagination.",
+        "Chinese": "幸福不是理性的理想，而是想象的理想。",
+        "Japanese": "幸福は理性の理想ではなく、想像力の理想である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "0e6f9d59-0c2e-4c47-8c9a-1b471bcba0d4",
+        "quote": "A nation that forgets its past has no future. — Winston Churchill",
+        "translations": {
+        "German": "Eine Nation, die ihre Vergangenheit vergisst, hat keine Zukunft.",
+        "Dutch": "Een natie die haar verleden vergeet, heeft geen toekomst.",
+        "Spanish": "Una nación que olvida su pasado no tiene futuro.",
+        "Italian": "Una nazione che dimentica il suo passato non ha futuro.",
+        "Turkish": "Geçmişini unutan bir milletin geleceği yoktur.",
+        "French": "Une nation qui oublie son passé n’a pas d’avenir.",
+        "Chinese": "忘记过去的国家没有未来。",
+        "Japanese": "過去を忘れる国に未来はない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "9f8a612b-62c9-40a0-8462-b44efdc62a6c",
+        "quote": "The price of greatness is responsibility. — Winston Churchill",
+        "translations": {
+        "German": "Der Preis der Größe ist Verantwortung.",
+        "Dutch": "De prijs van grootsheid is verantwoordelijkheid.",
+        "Spanish": "El precio de la grandeza es la responsabilidad.",
+        "Italian": "Il prezzo della grandezza è la responsabilità.",
+        "Turkish": "Büyüklüğün bedeli sorumluluktur.",
+        "French": "Le prix de la grandeur est la responsabilité.",
+        "Chinese": "伟大的代价是责任。",
+        "Japanese": "偉大さの代償は責任である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "58ec7d7d-3a3d-47a3-94c0-8d26adf2d2a2",
+        "quote": "To live is to suffer, to survive is to find some meaning in the suffering. — Friedrich Nietzsche",
+        "translations": {
+        "German": "Leben heißt leiden, überleben heißt, einen Sinn im Leiden zu finden.",
+        "Dutch": "Leven is lijden, overleven is betekenis vinden in het lijden.",
+        "Spanish": "Vivir es sufrir, sobrevivir es encontrar un sentido en el sufrimiento.",
+        "Italian": "Vivere è soffrire, sopravvivere è trovare un senso nella sofferenza.",
+        "Turkish": "Yaşamak acı çekmektir, hayatta kalmak ise acıda bir anlam bulmaktır.",
+        "French": "Vivre, c’est souffrir, survivre, c’est trouver un sens à la souffrance.",
+        "Chinese": "生存就是受苦，活下去就是在苦难中找到意义。",
+        "Japanese": "生きるとは苦しむことであり、生き延びるとはその苦しみに意味を見出すことである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "fe639c7b-476c-4df0-9c36-fbd0d640f59b",
+        "quote": "Time is the wisest counselor of all. — Pericles",
+        "translations": {
+        "German": "Die Zeit ist der weiseste Ratgeber von allen.",
+        "Dutch": "De tijd is de wijsste raadgever van allen.",
+        "Spanish": "El tiempo es el más sabio de todos los consejeros.",
+        "Italian": "Il tempo è il più saggio di tutti i consiglieri.",
+        "Turkish": "Zaman, en bilge danışmandır.",
+        "French": "Le temps est le plus sage de tous les conseillers.",
+        "Chinese": "时间是最睿智的顾问。",
+        "Japanese": "時は最も賢明な助言者である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "43f2701f-0b10-4b59-9673-c5114eb5a28e",
+        "quote": "Happiness depends upon ourselves. — Aristotle",
+        "translations": {
+        "German": "Das Glück hängt von uns selbst ab.",
+        "Dutch": "Geluk hangt van onszelf af.",
+        "Spanish": "La felicidad depende de nosotros mismos.",
+        "Italian": "La felicità dipende da noi stessi.",
+        "Turkish": "Mutluluk, kendimize bağlıdır.",
+        "French": "Le bonheur dépend de nous-mêmes.",
+        "Chinese": "幸福取决于我们自己。",
+        "Japanese": "幸福は自分自身にかかっている。"
+        },
+        "used": 0
+    },
+    {
+        "id": "ae4a1c6c-65ff-43f1-9d30-0315680b55b4",
+        "quote": "Even while they teach, men learn. — Seneca",
+        "translations": {
+        "German": "Auch während sie lehren, lernen die Menschen.",
+        "Dutch": "Zelfs terwijl ze onderwijzen, leren mensen.",
+        "Spanish": "Incluso mientras enseñan, los hombres aprenden.",
+        "Italian": "Anche mentre insegnano, gli uomini imparano.",
+        "Turkish": "İnsanlar öğretirken bile öğrenir.",
+        "French": "Même en enseignant, les hommes apprennent.",
+        "Chinese": "即使在教导时，人也在学习。",
+        "Japanese": "人は教えている間にも学んでいる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "3562a51d-84a9-4a56-91d7-0c6818d72b1f",
+        "quote": "Courage is grace under pressure. — Ernest Hemingway",
+        "translations": {
+        "German": "Mut ist Anmut unter Druck.",
+        "Dutch": "Moed is gratie onder druk.",
+        "Spanish": "El coraje es la gracia bajo presión.",
+        "Italian": "Il coraggio è la grazia sotto pressione.",
+        "Turkish": "Cesaret, baskı altında zarafettir.",
+        "French": "Le courage est la grâce sous la pression.",
+        "Chinese": "勇气就是压力下的优雅。",
+        "Japanese": "勇気とは、重圧の下での優雅さである。"
+        },
+        "used": 0
+    },
+    {
+        "id": "45c9a7a4-fbdf-463c-a92f-d64f9a2df07f",
+        "quote": "Those who dare to fail miserably can achieve greatly. — John F. Kennedy",
+        "translations": {
+        "German": "Diejenigen, die es wagen, kläglich zu scheitern, können Großes erreichen.",
+        "Dutch": "Degenen die durven miserabel te falen, kunnen groots bereiken.",
+        "Spanish": "Quienes se atreven a fracasar miserablemente pueden lograr grandes cosas.",
+        "Italian": "Coloro che osano fallire miseramente possono raggiungere grandi traguardi.",
+        "Turkish": "Büyük başarısızlıklara cesaret edenler, büyük şeyler başarabilirler.",
+        "French": "Ceux qui osent échouer misérablement peuvent accomplir de grandes choses.",
+        "Chinese": "敢于惨败的人，才能取得伟大成就。",
+        "Japanese": "惨めに失敗することを恐れない者は、大きなことを成し遂げられる。"
+        },
+        "used": 0
+    },
+    {
+        "id": "03f3db54-4b6d-4c93-b0cb-9db2a5faea93",
+        "quote": "Do not wait to strike till the iron is hot, but make it hot by striking. — William Butler Yeats",
+        "translations": {
+        "German": "Warte nicht, bis das Eisen heiß ist, sondern mache es durch Schlagen heiß.",
+        "Dutch": "Wacht niet tot het ijzer heet is, maar maak het heet door te slaan.",
+        "Spanish": "No esperes a golpear hasta que el hierro esté caliente, hazlo caliente golpeando.",
+        "Italian": "Non aspettare che il ferro sia caldo per colpire, rendilo caldo colpendo.",
+        "Turkish": "Demir kızmadan vurmayı bekleme; vurarak kızdır.",
+        "French": "N’attendez pas que le fer soit chaud pour frapper, mais rendez-le chaud en frappant.",
+        "Chinese": "不要等铁烫了才打，而是通过打让它变烫。",
+        "Japanese": "鉄が熱くなるのを待つのではなく、叩いて熱くせよ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b465d4a1-0ab5-4718-8f91-2a1b33c3d824",
+        "quote": "Hopes are but the dreams of those who wake. — Matthew Prior",
+        "translations": {
+        "German": "Hoffnungen sind nichts anderes als die Träume derer, die wach sind.",
+        "Dutch": "Hoop is slechts de droom van hen die wakker zijn.",
+        "Spanish": "Las esperanzas son solo los sueños de los que están despiertos.",
+        "Italian": "Le speranze non sono altro che i sogni di chi è sveglio.",
+        "Turkish": "Umutlar, uyanık olanların rüyalarıdır.",
+        "French": "Les espoirs ne sont que les rêves de ceux qui sont éveillés.",
+        "Chinese": "希望不过是清醒者的梦想。",
+        "Japanese": "希望とは、目覚めている者の夢にすぎない。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e457a2d2-96ad-46a1-9339-7992a43a9821",
+        "quote": "The only true wisdom is in knowing you know nothing. — Socrates",
+        "translations": {
+        "German": "Die einzige wahre Weisheit besteht darin, zu wissen, dass man nichts weiß.",
+        "Dutch": "De enige ware wijsheid is weten dat je niets weet.",
+        "Spanish": "La única sabiduría verdadera está en saber que no se sabe nada.",
+        "Italian": "La sola vera saggezza sta nel sapere di non sapere nulla.",
+        "Turkish": "Tek gerçek bilgelik, hiçbir şey bilmediğini bilmektir.",
+        "French": "La seule vraie sagesse est de savoir que l’on ne sait rien.",
+        "Chinese": "唯一真正的智慧是知道你一无所知。",
+        "Japanese": "唯一の真の知恵は、自分が何も知らないと知ることだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "9b19130f-f48d-4b0f-b7b4-d495d4d032a6",
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle",
+        "translations": {
+        "German": "Wir sind, was wir wiederholt tun. Exzellenz ist also keine Handlung, sondern eine Gewohnheit.",
+        "Dutch": "Wij zijn wat wij herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.",
+        "Spanish": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito.",
+        "Italian": "Siamo ciò che facciamo ripetutamente. L’eccellenza, quindi, non è un atto, ma un’abitudine.",
+        "Turkish": "Biz, tekrarladığımız şeyleriz. Mükemmellik, bu yüzden bir eylem değil, bir alışkanlıktır.",
+        "French": "Nous sommes ce que nous faisons de façon répétée. L’excellence n’est donc pas un acte, mais une habitude.",
+        "Chinese": "我们就是我们反复做的事。因此，卓越不是行为，而是习惯。",
+        "Japanese": "私たちは繰り返し行うことの結果である。ゆえに卓越とは行為ではなく習慣である。"
+        },
+        "used": 0
+    },
+    {
+        "id": "6d02ea50-bb54-4b20-9b84-f05088ec6dcf",
+        "quote": "A room without books is like a body without a soul. — Cicero",
+        "translations": {
+        "German": "Ein Raum ohne Bücher ist wie ein Körper ohne Seele.",
+        "Dutch": "Een kamer zonder boeken is als een lichaam zonder ziel.",
+        "Spanish": "Una habitación sin libros es como un cuerpo sin alma.",
+        "Italian": "Una stanza senza libri è come un corpo senza anima.",
+        "Turkish": "Kitapsız bir oda, ruhsuz bir bedene benzer.",
+        "French": "Une pièce sans livres est comme un corps sans âme.",
+        "Chinese": "没有书的房间就像没有灵魂的身体。",
+        "Japanese": "本のない部屋は、魂のない体のようなものだ。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d38f1a5f-2cf3-43e7-81fc-bad03b7ab72a",
+        "quote": "Happiness is only real when shared. — Christopher McCandless",
+        "translations": {
+        "German": "Glück ist nur echt, wenn es geteilt wird.",
+        "Dutch": "Geluk is alleen echt wanneer het gedeeld wordt.",
+        "Spanish": "La felicidad solo es real cuando se comparte.",
+        "Italian": "La felicità è reale solo quando è condivisa.",
+        "Turkish": "Mutluluk, sadece paylaşıldığında gerçektir.",
+        "French": "Le bonheur n’est réel que lorsqu’il est partagé.",
+        "Chinese": "幸福只有在分享时才是真实的。",
+        "Japanese": "幸福は分かち合われたときにだけ本物になる。"
+        },
+        "used": 0
+    }
+]
+  
