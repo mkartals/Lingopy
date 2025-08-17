@@ -1,0 +1,4322 @@
+[
+    {
+      "id": "e4f8d2b9-1c7a-4f71-a4e9-1c9f4d7b2a6e",
+      "quote": "Be happy today.",
+      "used": 0,
+      "translations": {
+        "German": "Sei heute glücklich.",
+        "Spanish": "Sé feliz hoy.",
+        "Dutch": "Wees vandaag gelukkig.",
+        "Turkish": "Bugün mutlu ol.",
+        "Italian": "Sii felice oggi.",
+        "French": "Sois heureux aujourd'hui.",
+        "Chinese": "今天快乐。",
+        "Japanese": "今日は幸せになって。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "Smile more.",
+      "used": 0,
+      "translations": {
+        "German": "Lächle mehr.",
+        "Spanish": "Sonríe más.",
+        "Dutch": "Lach meer.",
+        "Turkish": "Daha çok gülümse.",
+        "Italian": "Sorridi di più.",
+        "French": "Souris plus.",
+        "Chinese": "多笑笑。",
+        "Japanese": "もっと笑って。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Learn something new.",
+      "used": 0,
+      "translations": {
+        "German": "Lerne etwas Neues.",
+        "Spanish": "Aprende algo nuevo.",
+        "Dutch": "Leer iets nieuws.",
+        "Turkish": "Yeni bir şey öğren.",
+        "Italian": "Impara qualcosa di nuovo.",
+        "French": "Apprends quelque chose de nouveau.",
+        "Chinese": "学点新东西。",
+        "Japanese": "何か新しいことを学んで。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Try your best.",
+      "used": 0,
+      "translations": {
+        "German": "Gib dein Bestes.",
+        "Spanish": "Haz tu mejor esfuerzo.",
+        "Dutch": "Doe je best.",
+        "Turkish": "Elinden gelenin en iyisini yap.",
+        "Italian": "Fai del tuo meglio.",
+        "French": "Fais de ton mieux.",
+        "Chinese": "尽力而为。",
+        "Japanese": "最善を尽くして。"
+      }
+    },
+    {
+      "id": "e6f7g8h9-i0j1-k2l3-m4n5-o6p7q8r9s",
+      "quote": "Be kind always.",
+      "used": 0,
+      "translations": {
+        "German": "Sei immer freundlich.",
+        "Spanish": "Sé siempre amable.",
+        "Dutch": "Wees altijd aardig.",
+        "Turkish": "Her zaman nazik ol.",
+        "Italian": "Sii sempre gentile.",
+        "French": "Sois toujours gentil.",
+        "Chinese": "永远善良。",
+        "Japanese": "いつも親切に。"
+      }
+    },
+    {
+      "id": "f5e9d2b8-1c4a-3f7e-9h2j-6k0l5m1n8o",
+      "quote": "Take a walk.",
+      "used": 0,
+      "translations": {
+        "German": "Mach einen Spaziergang.",
+        "Spanish": "Da un paseo.",
+        "Dutch": "Maak een wandeling.",
+        "Turkish": "Yürüyüşe çık.",
+        "Italian": "Fai una passeggiata.",
+        "French": "Fais une promenade.",
+        "Chinese": "去散步。",
+        "Japanese": "散歩に行って。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Read a book.",
+      "used": 0,
+      "translations": {
+        "German": "Lies ein Buch.",
+        "Spanish": "Lee un libro.",
+        "Dutch": "Lees een boek.",
+        "Turkish": "Bir kitap oku.",
+        "Italian": "Leggi un libro.",
+        "French": "Lis un livre.",
+        "Chinese": "读一本书。",
+        "Japanese": "本を読んで。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "It is a new day.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist ein neuer Tag.",
+        "Spanish": "Es un nuevo día.",
+        "Dutch": "Het is een nieuwe dag.",
+        "Turkish": "Yeni bir gün.",
+        "Italian": "È un nuovo giorno.",
+        "French": "C'est un nouveau jour.",
+        "Chinese": "这是新的一天。",
+        "Japanese": "新しい日です。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "You can do it.",
+      "used": 0,
+      "translations": {
+        "German": "Du schaffst das.",
+        "Spanish": "Puedes hacerlo.",
+        "Dutch": "Je kunt het.",
+        "Turkish": "Yapabilirsin.",
+        "Italian": "Puoi farlo.",
+        "French": "Tu peux le faire.",
+        "Chinese": "你能做到。",
+        "Japanese": "君ならできる。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Listen to your heart.",
+      "used": 0,
+      "translations": {
+        "German": "Höre auf dein Herz.",
+        "Spanish": "Escucha a tu corazón.",
+        "Dutch": "Luister naar je hart.",
+        "Turkish": "Kalbinin sesini dinle.",
+        "Italian": "Ascolta il tuo cuore.",
+        "French": "Écoute ton cœur.",
+        "Chinese": "倾听你的心。",
+        "Japanese": "自分の心に耳を傾けて。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-4f71-9f7e-6b4l1a0c8b3d",
+      "quote": "If you want to be happy, just be.",
+      "used": 0,
+      "translations": {
+        "German": "Wenn du glücklich sein willst, sei es einfach.",
+        "Spanish": "Si quieres ser feliz, solo sé.",
+        "Dutch": "Als je gelukkig wilt zijn, wees het dan gewoon.",
+        "Turkish": "Mutlu olmak istiyorsan, sadece ol.",
+        "Italian": "Se vuoi essere felice, fallo e basta.",
+        "French": "Si tu veux être heureux, sois-le simplement.",
+        "Chinese": "如果你想快乐，那就去快乐。",
+        "Japanese": "幸せになりたければ、ただそうあるだけでいい。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-4g7h-9i0j-2k4l6m8n0o",
+      "quote": "A long trip starts with one small step.",
+      "used": 0,
+      "translations": {
+        "German": "Eine lange Reise beginnt mit einem kleinen Schritt.",
+        "Spanish": "Un largo viaje comienza con un pequeño paso.",
+        "Dutch": "Een lange reis begint met één kleine stap.",
+        "Turkish": "Uzun bir yolculuk tek bir küçük adımla başlar.",
+        "Italian": "Un lungo viaggio inizia con un piccolo passo.",
+        "French": "Un long voyage commence par un petit pas.",
+        "Chinese": "千里之行，始于足下。",
+        "Japanese": "長い旅も一歩から始まる。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-4i4j-6k8l-0m1n3o5p7q",
+      "quote": "If you believe you can, you are already halfway there.",
+      "used": 0,
+      "translations": {
+        "German": "Wenn du glaubst, dass du es kannst, bist du schon auf halbem Weg.",
+        "Spanish": "Si crees que puedes, ya estás a medio camino.",
+        "Dutch": "Als je gelooft dat je het kunt, ben je al halverwege.",
+        "Turkish": "Yapabileceğine inanıyorsan, zaten yolun yarısındasın.",
+        "Italian": "Se credi di potercela fare, sei già a metà strada.",
+        "French": "Si tu crois que tu peux le faire, tu es déjà à mi-chemin.",
+        "Chinese": "如果你相信你能做到，你就已经成功了一半。",
+        "Japanese": "できると信じれば、もう半分は達成したようなものだ。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-4j7k-8l9m-0n1o2p3q4r",
+      "quote": "Winning is not forever, losing is not the end. The most important thing is to keep trying.",
+      "used": 0,
+      "translations": {
+        "German": "Gewinnen ist nicht für immer, Verlieren ist nicht das Ende. Das Wichtigste ist, es immer wieder zu versuchen.",
+        "Spanish": "Ganar no es para siempre, perder no es el final. Lo más importante es seguir intentándolo.",
+        "Dutch": "Winnen is niet voor altijd, verliezen is niet het einde. Het belangrijkste is om te blijven proberen.",
+        "Turkish": "Kazanmak sonsuza dek değildir, kaybetmek ise son değildir. En önemli şey denemeye devam etmektir.",
+        "Italian": "Vincere non è per sempre, perdere non è la fine. La cosa più importante è continuare a provarci.",
+        "French": "Gagner n'est pas éternel, perdre n'est pas la fin. Le plus important est de continuer d'essayer.",
+        "Chinese": "胜利并非永恒，失败也非终点。最重要的是继续尝试。",
+        "Japanese": "勝つことは永遠ではなく、負けることは終わりではない。最も大切なのは挑戦し続けることだ。"
+      }
+    },
+    {
+      "id": "e6f7g8h9-i0j1-4k2l-3m4n-5o6p7q8r9s",
+      "quote": "A real friend knows everything about you and still likes you.",
+      "used": 0,
+      "translations": {
+        "German": "Ein echter Freund weiß alles über dich und mag dich trotzdem.",
+        "Spanish": "Un verdadero amigo sabe todo sobre ti y aun así te quiere.",
+        "Dutch": "Een echte vriend weet alles over je en vindt je nog steeds leuk.",
+        "Turkish": "Gerçek bir arkadaş senin hakkında her şeyi bilir ve yine de senden hoşlanır.",
+        "Italian": "Un vero amico sa tutto di te e ti vuole bene lo stesso.",
+        "French": "Un vrai ami sait tout de toi et t'aime quand même.",
+        "Chinese": "真正的朋友了解你的一切，却依然喜欢你。",
+        "Japanese": "本当の友達はあなたのすべてを知っていて、それでもあなたを好きでいてくれる。"
+      }
+    },
+    {
+      "id": "f5e9d2b8-1c4a-3f7e-9h2j-6k0l5m1n8o",
+      "quote": "The best way to know the future is to make it yourself.",
+      "used": 0,
+      "translations": {
+        "German": "Der beste Weg, die Zukunft zu kennen, ist, sie selbst zu gestalten.",
+        "Spanish": "La mejor manera de conocer el futuro es creándolo tú mismo.",
+        "Dutch": "De beste manier om de toekomst te kennen is door hem zelf te maken.",
+        "Turkish": "Geleceği bilmenin en iyi yolu onu kendin yapmaktır.",
+        "Italian": "Il modo migliore per conoscere il futuro è crearlo da soli.",
+        "French": "La meilleure façon de connaître l'avenir est de le créer soi-même.",
+        "Chinese": "了解未来的最好方法是自己创造它。",
+        "Japanese": "未来を知る最良の方法は、自分でそれを作ることだ。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Don't wait. The perfect time will never come.",
+      "used": 0,
+      "translations": {
+        "German": "Warte nicht. Der perfekte Zeitpunkt wird nie kommen.",
+        "Spanish": "No esperes. El momento perfecto nunca llegará.",
+        "Dutch": "Wacht niet. Het perfecte moment zal nooit komen.",
+        "Turkish": "Bekleme. Mükemmel zaman asla gelmeyecek.",
+        "Italian": "Non aspettare. Il momento perfetto non arriverà mai.",
+        "French": "N'attends pas. Le moment parfait n'arrivera jamais.",
+        "Chinese": "不要等待。完美的时机永远不会到来。",
+        "Japanese": "待ってはいけない。完璧な瞬間は決して来ない。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Life is like riding a bike. You must keep moving to stay balanced.",
+      "used": 0,
+      "translations": {
+        "German": "Das Leben ist wie Fahrradfahren. Du musst in Bewegung bleiben, um das Gleichgewicht zu halten.",
+        "Spanish": "La vida es como andar en bicicleta. Debes seguir moviéndote para mantener el equilibrio.",
+        "Dutch": "Het leven is als fietsen. Je moet blijven bewegen om in balans te blijven.",
+        "Turkish": "Hayat bisiklet sürmek gibidir. Dengede kalmak için hareket etmeye devam etmelisin.",
+        "Italian": "La vita è come andare in bicicletta. Devi continuare a muoverti per mantenere l'equilibrio.",
+        "French": "La vie est comme faire du vélo. Il faut continuer d'avancer pour garder l'équilibre.",
+        "Chinese": "生活就像骑自行车，你必须不断前进才能保持平衡。",
+        "Japanese": "人生は自転車に乗るようなもの。バランスを保つためには、動き続けなければならない。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "The only way to do good work is to love what you do.",
+      "used": 0,
+      "translations": {
+        "German": "Der einzige Weg, gute Arbeit zu leisten, ist, das zu lieben, was man tut.",
+        "Spanish": "La única manera de hacer un buen trabajo es amar lo que haces.",
+        "Dutch": "De enige manier om goed werk te leveren, is door te houden van wat je doet.",
+        "Turkish": "İyi işler yapmanın tek yolu, yaptığın işi sevmektir.",
+        "Italian": "L'unico modo per fare un buon lavoro è amare ciò che si fa.",
+        "French": "La seule façon de faire du bon travail est d'aimer ce que l'on fait.",
+        "Chinese": "做好工作的唯一方法就是热爱你所做的事情。",
+        "Japanese": "良い仕事をする唯一の方法は、自分がしていることを愛することだ。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "The biggest success is not in never falling, but in getting up every time you fall.",
+      "used": 0,
+      "translations": {
+        "German": "Der größte Erfolg liegt nicht darin, nie zu fallen, sondern jedes Mal wieder aufzustehen, wenn man fällt.",
+        "Spanish": "El mayor éxito no es no caer nunca, sino levantarse cada vez que caes.",
+        "Dutch": "Het grootste succes is niet om nooit te vallen, maar om elke keer dat je valt weer op te staan.",
+        "Turkish": "En büyük başarı hiç düşmemekte değil, her düştüğünde ayağa kalkmaktadır.",
+        "Italian": "Il successo più grande non sta nel non cadere mai, ma nel rialzarsi ogni volta che si cade.",
+        "French": "Le plus grand succès n'est pas de ne jamais tomber, mais de se relever chaque fois que l'on tombe.",
+        "Chinese": "最大的成功不在于永不跌倒，而在于每次跌倒后都能站起来。",
+        "Japanese": "最大の成功は、決して転ばないことではなく、転ぶたびに立ち上がることだ。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Work hard, be kind.",
+      "used": 0,
+      "translations": {
+        "German": "Arbeite hart, sei freundlich.",
+        "Spanish": "Trabaja duro, sé amable.",
+        "Dutch": "Werk hard, wees aardig.",
+        "Turkish": "Sıkı çalış, nazik ol.",
+        "Italian": "Lavora sodo, sii gentile.",
+        "French": "Travaille dur, sois gentil.",
+        "Chinese": "努力工作，保持善良。",
+        "Japanese": "一生懸命働き、親切に。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "Every day is a new chance.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist eine neue Chance.",
+        "Spanish": "Cada día es una nueva oportunidad.",
+        "Dutch": "Elke dag is een nieuwe kans.",
+        "Turkish": "Her gün yeni bir şans.",
+        "Italian": "Ogni giorno è una nuova occasione.",
+        "French": "Chaque jour est une nouvelle chance.",
+        "Chinese": "每一天都是新的机会。",
+        "Japanese": "毎日が新しいチャンスだ。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Start today, not tomorrow.",
+      "used": 0,
+      "translations": {
+        "German": "Starte heute, nicht morgen.",
+        "Spanish": "Empieza hoy, no mañana.",
+        "Dutch": "Begin vandaag, niet morgen.",
+        "Turkish": "Bugün başla, yarın değil.",
+        "Italian": "Inizia oggi, non domani.",
+        "French": "Commence aujourd'hui, pas demain.",
+        "Chinese": "今天开始，而不是明天。",
+        "Japanese": "明日ではなく、今日始めよう。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "You are strong.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist stark.",
+        "Spanish": "Eres fuerte.",
+        "Dutch": "Je bent sterk.",
+        "Turkish": "Sen güçlüsün.",
+        "Italian": "Sei forte.",
+        "French": "Tu es fort.",
+        "Chinese": "你很坚强。",
+        "Japanese": "あなたは強い。"
+      }
+    },
+    {
+      "id": "e6f7g8h9-i0j1-k2l3-m4n5-o6p7q8r9s",
+      "quote": "Try new things.",
+      "used": 0,
+      "translations": {
+        "German": "Probiere neue Dinge aus.",
+        "Spanish": "Prueba cosas nuevas.",
+        "Dutch": "Probeer nieuwe dingen.",
+        "Turkish": "Yeni şeyler dene.",
+        "Italian": "Prova cose nuove.",
+        "French": "Essaie de nouvelles choses.",
+        "Chinese": "尝试新事物。",
+        "Japanese": "新しいことに挑戦して。"
+      }
+    },
+    {
+      "id": "f5e9d2b8-1c4a-3f7e-9h2j-6k0l5m1n8o",
+      "quote": "Always do your best.",
+      "used": 0,
+      "translations": {
+        "German": "Gib immer dein Bestes.",
+        "Spanish": "Siempre da lo mejor de ti.",
+        "Dutch": "Doe altijd je best.",
+        "Turkish": "Her zaman elinden gelenin en iyisini yap.",
+        "Italian": "Dai sempre il meglio di te.",
+        "French": "Fais toujours de ton mieux.",
+        "Chinese": "永远尽力而为。",
+        "Japanese": "常に最善を尽くして。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Be the reason someone smiles.",
+      "used": 0,
+      "translations": {
+        "German": "Sei der Grund, warum jemand lächelt.",
+        "Spanish": "Sé la razón por la que alguien sonríe.",
+        "Dutch": "Wees de reden waarom iemand lacht.",
+        "Turkish": "Birinin gülümsemesinin nedeni ol.",
+        "Italian": "Sii la ragione per cui qualcuno sorride.",
+        "French": "Sois la raison pour laquelle quelqu'un sourit.",
+        "Chinese": "成为某人微笑的原因。",
+        "Japanese": "誰かが笑顔になる理由になって。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Hope is a good thing.",
+      "used": 0,
+      "translations": {
+        "German": "Hoffnung ist eine gute Sache.",
+        "Spanish": "La esperanza es algo bueno.",
+        "Dutch": "Hoop is een goede zaak.",
+        "Turkish": "Umut iyi bir şeydir.",
+        "Italian": "La speranza è una buona cosa.",
+        "French": "L'espoir est une bonne chose.",
+        "Chinese": "希望是件好事。",
+        "Japanese": "希望は良いものだ。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "Little things can make you happy.",
+      "used": 0,
+      "translations": {
+        "German": "Kleine Dinge können dich glücklich machen.",
+        "Spanish": "Las pequeñas cosas pueden hacerte feliz.",
+        "Dutch": "Kleine dingen kunnen je gelukkig maken.",
+        "Turkish": "Küçük şeyler seni mutlu edebilir.",
+        "Italian": "Le piccole cose possono renderti felice.",
+        "French": "Les petites choses peuvent te rendre heureux.",
+        "Chinese": "小事也能让你快乐。",
+        "Japanese": "小さなことがあなたを幸せにできる。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "The sun will rise again.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne wird wieder aufgehen.",
+        "Spanish": "El sol volverá a salir.",
+        "Dutch": "De zon zal weer opkomen.",
+        "Turkish": "Güneş yeniden doğacak.",
+        "Italian": "Il sole sorgerà di nuovo.",
+        "French": "Le soleil se lèvera à nouveau.",
+        "Chinese": "太阳会再次升起。",
+        "Japanese": "太陽はまた昇る。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Change your thoughts, change your world.",
+      "used": 0,
+      "translations": {
+        "German": "Ändere deine Gedanken, ändere deine Welt.",
+        "Spanish": "Cambia tus pensamientos, cambia tu mundo.",
+        "Dutch": "Verander je gedachten, verander je wereld.",
+        "Turkish": "Düşüncelerini değiştir, dünyanı değiştir.",
+        "Italian": "Cambia i tuoi pensieri, cambia il tuo mondo.",
+        "French": "Change tes pensées, change ton monde.",
+        "Chinese": "改变你的思想，改变你的世界。",
+        "Japanese": "考え方を変えれば、世界が変わる。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "Today is a gift.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist ein Geschenk.",
+        "Spanish": "Hoy es un regalo.",
+        "Dutch": "Vandaag is een geschenk.",
+        "Turkish": "Bugün bir hediyedir.",
+        "Italian": "Oggi è un dono.",
+        "French": "Aujourd'hui est un cadeau.",
+        "Chinese": "今天是一份礼物。",
+        "Japanese": "今日は贈り物だ。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "The future is bright.",
+      "used": 0,
+      "translations": {
+        "German": "Die Zukunft ist hell.",
+        "Spanish": "El futuro es brillante.",
+        "Dutch": "De toekomst is rooskleurig.",
+        "Turkish": "Gelecek parlak.",
+        "Italian": "Il futuro è luminoso.",
+        "French": "L'avenir est brillant.",
+        "Chinese": "未来是光明的。",
+        "Japanese": "未来は明るい。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Never give up.",
+      "used": 0,
+      "translations": {
+        "German": "Gib niemals auf.",
+        "Spanish": "Nunca te rindas.",
+        "Dutch": "Geef nooit op.",
+        "Turkish": "Asla pes etme.",
+        "Italian": "Non arrenderti mai.",
+        "French": "N'abandonne jamais.",
+        "Chinese": "永不放弃。",
+        "Japanese": "決して諦めないで。"
+      }
+    },
+    {
+      "id": "e6f7g8h9-i0j1-k2l3-m4n5-o6p7q8r9s",
+      "quote": "Small steps every day.",
+      "used": 0,
+      "translations": {
+        "German": "Kleine Schritte jeden Tag.",
+        "Spanish": "Pequeños pasos cada día.",
+        "Dutch": "Elke dag kleine stapjes.",
+        "Turkish": "Her gün küçük adımlar.",
+        "Italian": "Piccoli passi ogni giorno.",
+        "French": "De petits pas chaque jour.",
+        "Chinese": "每天一小步。",
+        "Japanese": "毎日少しずつ。"
+      }
+    },
+    {
+      "id": "f5e9d2b8-1c4a-3f7e-9h2j-6k0l5m1n8o",
+      "quote": "Choose to be happy.",
+      "used": 0,
+      "translations": {
+        "German": "Entscheide dich, glücklich zu sein.",
+        "Spanish": "Elige ser feliz.",
+        "Dutch": "Kies ervoor om gelukkig te zijn.",
+        "Turkish": "Mutlu olmayı seç.",
+        "Italian": "Scegli di essere felice.",
+        "French": "Choisis d'être heureux.",
+        "Chinese": "选择快乐。",
+        "Japanese": "幸せになることを選んで。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Life is beautiful.",
+      "used": 0,
+      "translations": {
+        "German": "Das Leben ist schön.",
+        "Spanish": "La vida es hermosa.",
+        "Dutch": "Het leven is mooi.",
+        "Turkish": "Hayat güzeldir.",
+        "Italian": "La vita è bella.",
+        "French": "La vie est belle.",
+        "Chinese": "生活是美好的。",
+        "Japanese": "人生は美しい。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Be a good person.",
+      "used": 0,
+      "translations": {
+        "German": "Sei ein guter Mensch.",
+        "Spanish": "Sé una buena persona.",
+        "Dutch": "Wees een goed mens.",
+        "Turkish": "İyi bir insan ol.",
+        "Italian": "Sii una brava persona.",
+        "French": "Sois une bonne personne.",
+        "Chinese": "做一个好人。",
+        "Japanese": "良い人であれ。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "You are enough.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist genug.",
+        "Spanish": "Eres suficiente.",
+        "Dutch": "Je bent genoeg.",
+        "Turkish": "Sen yeterlisin.",
+        "Italian": "Sei abbastanza.",
+        "French": "Tu es assez.",
+        "Chinese": "你已经足够好。",
+        "Japanese": "あなたは十分だ。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Dream big.",
+      "used": 0,
+      "translations": {
+        "German": "Träume groß.",
+        "Spanish": "Sueña en grande.",
+        "Dutch": "Droom groots.",
+        "Turkish": "Büyük hayaller kur.",
+        "Italian": "Sogna in grande.",
+        "French": "Rêve en grand.",
+        "Chinese": "敢于梦想。",
+        "Japanese": "大きな夢を抱いて。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "You are the best you.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist der beste du.",
+        "Spanish": "Eres la mejor versión de ti mismo.",
+        "Dutch": "Je bent de beste jij.",
+        "Turkish": "Sen en iyi sensin.",
+        "Italian": "Sei il miglior te stesso.",
+        "French": "Tu es la meilleure version de toi-même.",
+        "Chinese": "你是最好的你。",
+        "Japanese": "あなたは最高のあなただ。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Today is a good day to have a good day.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist ein guter Tag, um einen guten Tag zu haben.",
+        "Spanish": "Hoy es un buen día para tener un buen día.",
+        "Dutch": "Vandaag is een goede dag om een goede dag te hebben.",
+        "Turkish": "Bugün iyi bir gün geçirmek için iyi bir gün.",
+        "Italian": "Oggi è un buon giorno per avere un buon giorno.",
+        "French": "Aujourd'hui est un bon jour pour passer une bonne journée.",
+        "Chinese": "今天是拥有美好的一天的好日子。",
+        "Japanese": "今日は良い日を過ごすのに良い日だ。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "Just keep going.",
+      "used": 0,
+      "translations": {
+        "German": "Mach einfach weiter.",
+        "Spanish": "Solo sigue adelante.",
+        "Dutch": "Blijf gewoon doorgaan.",
+        "Turkish": "Sadece devam et.",
+        "Italian": "Continua ad andare avanti.",
+        "French": "Continue simplement.",
+        "Chinese": "继续前进。",
+        "Japanese": "ただ進み続けて。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "The small things are important.",
+      "used": 0,
+      "translations": {
+        "German": "Die kleinen Dinge sind wichtig.",
+        "Spanish": "Las pequeñas cosas son importantes.",
+        "Dutch": "De kleine dingen zijn belangrijk.",
+        "Turkish": "Küçük şeyler önemlidir.",
+        "Italian": "Le piccole cose sono importanti.",
+        "French": "Les petites choses sont importantes.",
+        "Chinese": "小事很重要。",
+        "Japanese": "小さなことが大切だ。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Think happy thoughts.",
+      "used": 0,
+      "translations": {
+        "German": "Denke glückliche Gedanken.",
+        "Spanish": "Piensa en cosas felices.",
+        "Dutch": "Denk vrolijke gedachten.",
+        "Turkish": "Mutlu düşünceler düşün.",
+        "Italian": "Pensa a cose felici.",
+        "French": "Pense à des choses joyeuses.",
+        "Chinese": "想些开心的事。",
+        "Japanese": "楽しいことを考えよう。"
+      }
+    },
+    {
+      "id": "f2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "Be a good listener.",
+      "used": 0,
+      "translations": {
+        "German": "Sei ein guter Zuhörer.",
+        "Spanish": "Sé un buen oyente.",
+        "Dutch": "Wees een goede luisteraar.",
+        "Turkish": "İyi bir dinleyici ol.",
+        "Italian": "Sii un buon ascoltatore.",
+        "French": "Sois un bon auditeur.",
+        "Chinese": "做一个好的倾听者。",
+        "Japanese": "良い聞き手になって。"
+      }
+    },
+    {
+      "id": "a1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "Do not be afraid to be yourself.",
+      "used": 0,
+      "translations": {
+        "German": "Hab keine Angst, du selbst zu sein.",
+        "Spanish": "No tengas miedo de ser tú mismo.",
+        "Dutch": "Wees niet bang om jezelf te zijn.",
+        "Turkish": "Kendin olmaktan korkma.",
+        "Italian": "Non aver paura di essere te stesso.",
+        "French": "N'aie pas peur d'être toi-même.",
+        "Chinese": "不要害怕做你自己。",
+        "Japanese": "自分らしくいることを恐れないで。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "The secret to getting ahead is getting started.",
+      "used": 0,
+      "translations": {
+        "German": "Das Geheimnis, voranzukommen, ist anzufangen.",
+        "Spanish": "El secreto para avanzar es empezar.",
+        "Dutch": "Het geheim om vooruit te komen is om te beginnen.",
+        "Turkish": "İlerlemek için sır, başlamaktır.",
+        "Italian": "Il segreto per andare avanti è iniziare.",
+        "French": "Le secret pour avancer est de commencer.",
+        "Chinese": "进步的秘诀是开始。",
+        "Japanese": "前に進む秘訣は、始めることだ。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Your life is your message.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Leben ist deine Botschaft.",
+        "Spanish": "Tu vida es tu mensaje.",
+        "Dutch": "Je leven is je boodschap.",
+        "Turkish": "Hayatın senin mesajındır.",
+        "Italian": "La tua vita è il tuo messaggio.",
+        "French": "Ta vie est ton message.",
+        "Chinese": "你的生活就是你的信息。",
+        "Japanese": "あなたの人生があなたのメッセージだ。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Look for the good in every day.",
+      "used": 0,
+      "translations": {
+        "German": "Suche das Gute in jedem Tag.",
+        "Spanish": "Busca lo bueno en cada día.",
+        "Dutch": "Zoek naar het goede in elke dag.",
+        "Turkish": "Her günün içindeki iyiliği ara.",
+        "Italian": "Cerca il bello in ogni giorno.",
+        "French": "Cherche le bon côté de chaque jour.",
+        "Chinese": "寻找每一天的好处。",
+        "Japanese": "毎日の中に良いことを見つけよう。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Make today a great day.",
+      "used": 0,
+      "translations": {
+        "German": "Mach den heutigen Tag zu einem großartigen Tag.",
+        "Spanish": "Haz de hoy un gran día.",
+        "Dutch": "Maak van vandaag een geweldige dag.",
+        "Turkish": "Bugünü harika bir gün yap.",
+        "Italian": "Rendi oggi un grande giorno.",
+        "French": "Fais d'aujourd'hui une belle journée.",
+        "Chinese": "让今天成为美好的一天。",
+        "Japanese": "今日を素晴らしい日にしよう。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "The first step is the hardest.",
+      "used": 0,
+      "translations": {
+        "German": "Der erste Schritt ist der schwerste.",
+        "Spanish": "El primer paso es el más difícil.",
+        "Dutch": "De eerste stap is het moeilijkst.",
+        "Turkish": "İlk adım en zor olanıdır.",
+        "Italian": "Il primo passo è il più difficile.",
+        "French": "Le premier pas est le plus difficile.",
+        "Chinese": "第一步是最难的。",
+        "Japanese": "最初の一歩が最も難しい。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "Be kind to everyone.",
+      "used": 0,
+      "translations": {
+        "German": "Sei freundlich zu jedem.",
+        "Spanish": "Sé amable con todos.",
+        "Dutch": "Wees aardig voor iedereen.",
+        "Turkish": "Herkese karşı nazik ol.",
+        "Italian": "Sii gentile con tutti.",
+        "French": "Sois gentil avec tout le monde.",
+        "Chinese": "对每个人都好。",
+        "Japanese": "皆に親切に。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Good things take time.",
+      "used": 0,
+      "translations": {
+        "German": "Gute Dinge brauchen Zeit.",
+        "Spanish": "Las cosas buenas llevan tiempo.",
+        "Dutch": "Goede dingen kosten tijd.",
+        "Turkish": "İyi şeyler zaman alır.",
+        "Italian": "Le cose buone richiedono tempo.",
+        "French": "Les bonnes choses prennent du temps.",
+        "Chinese": "好事情需要时间。",
+        "Japanese": "良いことには時間がかかる。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Happy moments, big or small.",
+      "used": 0,
+      "translations": {
+        "German": "Glückliche Momente, groß oder klein.",
+        "Spanish": "Momentos felices, grandes o pequeños.",
+        "Dutch": "Gelukkige momenten, groot of klein.",
+        "Turkish": "Mutlu anlar, büyük ya da küçük.",
+        "Italian": "Momenti felici, grandi o piccoli.",
+        "French": "Les moments heureux, grands ou petits.",
+        "Chinese": "快乐的时刻，或大或小。",
+        "Japanese": "幸せな瞬間、大小問わず。"
+      }
+    },
+    {
+      "id": "f2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "You are doing great.",
+      "used": 0,
+      "translations": {
+        "German": "Du machst das großartig.",
+        "Spanish": "Lo estás haciendo genial.",
+        "Dutch": "Je doet het geweldig.",
+        "Turkish": "Harika gidiyorsun.",
+        "Italian": "Stai andando alla grande.",
+        "French": "Tu te débrouilles très bien.",
+        "Chinese": "你做得很好。",
+        "Japanese": "あなたは素晴らしい。"
+      }
+    },
+    {
+      "id": "a1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "Listen to your teacher.",
+      "used": 0,
+      "translations": {
+        "German": "Höre auf deinen Lehrer.",
+        "Spanish": "Escucha a tu maestro.",
+        "Dutch": "Luister naar je leraar.",
+        "Turkish": "Öğretmenini dinle.",
+        "Italian": "Ascolta il tuo insegnante.",
+        "French": "Écoute ton professeur.",
+        "Chinese": "听老师的话。",
+        "Japanese": "先生の話を聞いて。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "Be brave and try.",
+      "used": 0,
+      "translations": {
+        "German": "Sei mutig und versuche es.",
+        "Spanish": "Sé valiente y inténtalo.",
+        "Dutch": "Wees moedig en probeer het.",
+        "Turkish": "Cesur ol ve dene.",
+        "Italian": "Sii coraggioso e provaci.",
+        "French": "Sois courageux et essaie.",
+        "Chinese": "勇敢去尝试。",
+        "Japanese": "勇敢に挑戦して。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "It is okay to be different.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist okay, anders zu sein.",
+        "Spanish": "Está bien ser diferente.",
+        "Dutch": "Het is oké om anders te zijn.",
+        "Turkish": "Farklı olmakta bir sorun yok.",
+        "Italian": "Va bene essere diversi.",
+        "French": "C'est bien d'être différent.",
+        "Chinese": "与众不同也没关系。",
+        "Japanese": "違っても大丈夫。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Hope is like the sun.",
+      "used": 0,
+      "translations": {
+        "German": "Hoffnung ist wie die Sonne.",
+        "Spanish": "La esperanza es como el sol.",
+        "Dutch": "Hoop is als de zon.",
+        "Turkish": "Umut güneş gibidir.",
+        "Italian": "La speranza è come il sole.",
+        "French": "L'espoir est comme le soleil.",
+        "Chinese": "希望就像太阳。",
+        "Japanese": "希望は太陽のようだ。"
+      }
+    },
+    {
+      "id": "a9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "You are the light.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist das Licht.",
+        "Spanish": "Tú eres la luz.",
+        "Dutch": "Jij bent het licht.",
+        "Turkish": "Sen ışıksın.",
+        "Italian": "Sei la luce.",
+        "French": "Tu es la lumière.",
+        "Chinese": "你是光。",
+        "Japanese": "あなたは光だ。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "The best is yet to come.",
+      "used": 0,
+      "translations": {
+        "German": "Das Beste kommt noch.",
+        "Spanish": "Lo mejor está por venir.",
+        "Dutch": "Het beste moet nog komen.",
+        "Turkish": "En iyisi henüz gelmedi.",
+        "Italian": "Il meglio deve ancora venire.",
+        "French": "Le meilleur est encore à venir.",
+        "Chinese": "最好的还在后头。",
+        "Japanese": "これからが本番だ。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "One day at a time.",
+      "used": 0,
+      "translations": {
+        "German": "Einen Tag nach dem anderen.",
+        "Spanish": "Un día a la vez.",
+        "Dutch": "Één dag tegelijk.",
+        "Turkish": "Birer birer günler.",
+        "Italian": "Un giorno alla volta.",
+        "French": "Un jour à la fois.",
+        "Chinese": "一次只过一天。",
+        "Japanese": "一度に一日ずつ。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Give yourself a chance.",
+      "used": 0,
+      "translations": {
+        "German": "Gib dir selbst eine Chance.",
+        "Spanish": "Date una oportunidad.",
+        "Dutch": "Geef jezelf een kans.",
+        "Turkish": "Kendine bir şans ver.",
+        "Italian": "Datti una possibilità.",
+        "French": "Donne-toi une chance.",
+        "Chinese": "给自己一个机会。",
+        "Japanese": "自分にチャンスを与えて。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Believe in yourself.",
+      "used": 0,
+      "translations": {
+        "German": "Glaube an dich selbst.",
+        "Spanish": "Cree en ti mismo.",
+        "Dutch": "Geloof in jezelf.",
+        "Turkish": "Kendine inan.",
+        "Italian": "Credi in te stesso.",
+        "French": "Crois en toi.",
+        "Chinese": "相信自己。",
+        "Japanese": "自分を信じて。"
+      }
+    },
+    {
+      "id": "f2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "Nothing is impossible.",
+      "used": 0,
+      "translations": {
+        "German": "Nichts ist unmöglich.",
+        "Spanish": "Nada es imposible.",
+        "Dutch": "Niets is onmogelijk.",
+        "Turkish": "Hiçbir şey imkansız değildir.",
+        "Italian": "Niente è impossibile.",
+        "French": "Rien n'est impossible.",
+        "Chinese": "没有什么是不可能的。",
+        "Japanese": "不可能はない。"
+      }
+    },
+    {
+      "id": "a1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "The sun always shines after the rain.",
+      "used": 0,
+      "translations": {
+        "German": "Nach dem Regen scheint immer die Sonne.",
+        "Spanish": "El sol siempre sale después de la lluvia.",
+        "Dutch": "De zon schijnt altijd na de regen.",
+        "Turkish": "Yağmurdan sonra her zaman güneş açar.",
+        "Italian": "Il sole splende sempre dopo la pioggia.",
+        "French": "Le soleil brille toujours après la pluie.",
+        "Chinese": "雨后总会出太阳。",
+        "Japanese": "雨の後にはいつも太陽が輝く。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "You are a star.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein Star.",
+        "Spanish": "Eres una estrella.",
+        "Dutch": "Je bent een ster.",
+        "Turkish": "Sen bir yıldızsın.",
+        "Italian": "Sei una stella.",
+        "French": "Tu es une étoile.",
+        "Chinese": "你是一颗明星。",
+        "Japanese": "あなたはスターだ。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Change starts with you.",
+      "used": 0,
+      "translations": {
+        "German": "Veränderung beginnt bei dir.",
+        "Spanish": "El cambio empieza contigo.",
+        "Dutch": "Verandering begint bij jou.",
+        "Turkish": "Değişim seninle başlar.",
+        "Italian": "Il cambiamento inizia da te.",
+        "French": "Le changement commence avec toi.",
+        "Chinese": "改变从你开始。",
+        "Japanese": "変化はあなたから始まる。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Keep your head up.",
+      "used": 0,
+      "translations": {
+        "German": "Kopf hoch.",
+        "Spanish": "Mantén la cabeza en alto.",
+        "Dutch": "Houd je hoofd omhoog.",
+        "Turkish": "Başını dik tut.",
+        "Italian": "Tieni la testa alta.",
+        "French": "Garde la tête haute.",
+        "Chinese": "抬起头。",
+        "Japanese": "顔を上げて。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-2",
+      "quote": "Try and try again.",
+      "used": 0,
+      "translations": {
+        "German": "Versuche es immer und immer wieder.",
+        "Spanish": "Inténtalo una y otra vez.",
+        "Dutch": "Blijf het proberen.",
+        "Turkish": "Tekrar tekrar dene.",
+        "Italian": "Prova e riprova.",
+        "French": "Essaie et essaie encore.",
+        "Chinese": "一次又一次地尝试。",
+        "Japanese": "何度も挑戦して。"
+      }
+    },
+    {
+      "id": "b1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-2",
+      "quote": "Go for it.",
+      "used": 0,
+      "translations": {
+        "German": "Tu es einfach.",
+        "Spanish": "Ve a por ello.",
+        "Dutch": "Ga ervoor.",
+        "Turkish": "Hadi, yap şunu.",
+        "Italian": "Vai e fallo.",
+        "French": "Vas-y.",
+        "Chinese": "去吧。",
+        "Japanese": "頑張って。"
+      }
+    },
+    {
+      "id": "c7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-2",
+      "quote": "The sky is the limit.",
+      "used": 0,
+      "translations": {
+        "German": "Dem Himmel sind keine Grenzen gesetzt.",
+        "Spanish": "El cielo es el límite.",
+        "Dutch": "De lucht is de limiet.",
+        "Turkish": "Gökyüzü sınırdır.",
+        "Italian": "Il cielo è il limite.",
+        "French": "Le ciel est la seule limite.",
+        "Chinese": "天空是极限。",
+        "Japanese": "空が限界だ。"
+      }
+    },
+    {
+      "id": "d8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-2",
+      "quote": "Your voice is important.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Stimme ist wichtig.",
+        "Spanish": "Tu voz es importante.",
+        "Dutch": "Jouw stem is belangrijk.",
+        "Turkish": "Sesin önemlidir.",
+        "Italian": "La tua voce è importante.",
+        "French": "Ta voix est importante.",
+        "Chinese": "你的声音很重要。",
+        "Japanese": "あなたの声は大切だ。"
+      }
+    },
+    {
+      "id": "e4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-3",
+      "quote": "Find joy in the little things.",
+      "used": 0,
+      "translations": {
+        "German": "Finde Freude an den kleinen Dingen.",
+        "Spanish": "Encuentra la alegría en las pequeñas cosas.",
+        "Dutch": "Vind vreugde in de kleine dingen.",
+        "Turkish": "Küçük şeylerde neşe bul.",
+        "Italian": "Trova gioia nelle piccole cose.",
+        "French": "Trouve la joie dans les petites choses.",
+        "Chinese": "在小事中寻找快乐。",
+        "Japanese": "小さなことに喜びを見つけて。"
+      }
+    },
+    {
+      "id": "f2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-2",
+      "quote": "Enjoy the simple things.",
+      "used": 0,
+      "translations": {
+        "German": "Genieße die einfachen Dinge.",
+        "Spanish": "Disfruta de las cosas simples.",
+        "Dutch": "Geniet van de simpele dingen.",
+        "Turkish": "Basit şeylerin tadını çıkar.",
+        "Italian": "Goditi le cose semplici.",
+        "French": "Profite des choses simples.",
+        "Chinese": "享受简单的事物。",
+        "Japanese": "シンプルなことを楽しんで。"
+      }
+    },
+    {
+      "id": "a1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-2",
+      "quote": "Today is your day.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist dein Tag.",
+        "Spanish": "Hoy es tu día.",
+        "Dutch": "Vandaag is jouw dag.",
+        "Turkish": "Bugün senin günün.",
+        "Italian": "Oggi è il tuo giorno.",
+        "French": "Aujourd'hui est ton jour.",
+        "Chinese": "今天是你的日子。",
+        "Japanese": "今日はあなたの日だ。"
+      }
+    },
+    {
+      "id": "b2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-2",
+      "quote": "Be kind to your mind.",
+      "used": 0,
+      "translations": {
+        "German": "Sei freundlich zu deinem Geist.",
+        "Spanish": "Sé amable con tu mente.",
+        "Dutch": "Wees aardig voor je geest.",
+        "Turkish": "Zihnine karşı nazik ol.",
+        "Italian": "Sii gentile con la tua mente.",
+        "French": "Sois gentil avec ton esprit.",
+        "Chinese": "善待你的思想。",
+        "Japanese": "心に優しくして。"
+      }
+    },
+    {
+      "id": "c3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-2",
+      "quote": "You are a work of art.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein Kunstwerk.",
+        "Spanish": "Eres una obra de arte.",
+        "Dutch": "Je bent een kunstwerk.",
+        "Turkish": "Sen bir sanat eserisin.",
+        "Italian": "Sei un'opera d'arte.",
+        "French": "Tu es une œuvre d'art.",
+        "Chinese": "你是一件艺术品。",
+        "Japanese": "あなたは芸術作品だ。"
+      }
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-2",
+      "quote": "Every moment is a new beginning.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Moment ist ein neuer Anfang.",
+        "Spanish": "Cada momento es un nuevo comienzo.",
+        "Dutch": "Elk moment is een nieuw begin.",
+        "Turkish": "Her an yeni bir başlangıçtır.",
+        "Italian": "Ogni momento è un nuovo inizio.",
+        "French": "Chaque moment est un nouveau début.",
+        "Chinese": "每个时刻都是新的开始。",
+        "Japanese": "すべての瞬間が新しい始まりだ。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Do your best, forget the rest.",
+      "used": 0,
+      "translations": {
+        "German": "Gib dein Bestes, vergiss den Rest.",
+        "Spanish": "Haz tu mejor esfuerzo, olvida el resto.",
+        "Dutch": "Doe je best, vergeet de rest.",
+        "Turkish": "Elinden gelenin en iyisini yap, gerisini unut.",
+        "Italian": "Fai del tuo meglio, dimentica il resto.",
+        "French": "Fais de ton mieux, oublie le reste.",
+        "Chinese": "尽力而为，其余的忘掉。",
+        "Japanese": "最善を尽くし、残りは忘れて。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Be happy with what you have.",
+      "used": 0,
+      "translations": {
+        "German": "Sei glücklich mit dem, was du hast.",
+        "Spanish": "Sé feliz con lo que tienes.",
+        "Dutch": "Wees blij met wat je hebt.",
+        "Turkish": "Sahip olduğunla mutlu ol.",
+        "Italian": "Sii felice con ciò che hai.",
+        "French": "Sois heureux avec ce que tu as.",
+        "Chinese": "满足于你所拥有的。",
+        "Japanese": "持っているものに幸せを感じて。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "Believe in the good.",
+      "used": 0,
+      "translations": {
+        "German": "Glaube an das Gute.",
+        "Spanish": "Cree en lo bueno.",
+        "Dutch": "Geloof in het goede.",
+        "Turkish": "İyiliğe inan.",
+        "Italian": "Credi nel bene.",
+        "French": "Crois en le bien.",
+        "Chinese": "相信美好。",
+        "Japanese": "良いことを信じて。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Your mind is a garden.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Geist ist ein Garten.",
+        "Spanish": "Tu mente es un jardín.",
+        "Dutch": "Je geest is een tuin.",
+        "Turkish": "Zihnin bir bahçedir.",
+        "Italian": "La tua mente è un giardino.",
+        "French": "Ton esprit est un jardin.",
+        "Chinese": "你的思想是一个花园。",
+        "Japanese": "あなたの心は庭だ。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "It is a good day to be happy.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist ein guter Tag, um glücklich zu sein.",
+        "Spanish": "Es un buen día para ser feliz.",
+        "Dutch": "Het is een goede dag om gelukkig te zijn.",
+        "Turkish": "Mutlu olmak için iyi bir gün.",
+        "Italian": "È un buon giorno per essere felici.",
+        "French": "C'est un bon jour pour être heureux.",
+        "Chinese": "今天是快乐的好日子。",
+        "Japanese": "幸せになるのに良い日だ。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "Start small, think big.",
+      "used": 0,
+      "translations": {
+        "German": "Starte klein, denke groß.",
+        "Spanish": "Empieza pequeño, piensa en grande.",
+        "Dutch": "Begin klein, denk groot.",
+        "Turkish": "Küçük başla, büyük düşün.",
+        "Italian": "Inizia in piccolo, pensa in grande.",
+        "French": "Commence petit, pense grand.",
+        "Chinese": "从小处着手，大处着眼。",
+        "Japanese": "小さく始めて、大きく考えよう。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "The greatest wealth is health.",
+      "used": 0,
+      "translations": {
+        "German": "Der größte Reichtum ist Gesundheit.",
+        "Spanish": "La mayor riqueza es la salud.",
+        "Dutch": "De grootste rijkdom is gezondheid.",
+        "Turkish": "En büyük zenginlik sağlıktır.",
+        "Italian": "La più grande ricchezza è la salute.",
+        "French": "La plus grande richesse est la santé.",
+        "Chinese": "最大的财富是健康。",
+        "Japanese": "最大の富は健康だ。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "The sun is new every day.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne ist jeden Tag neu.",
+        "Spanish": "El sol es nuevo cada día.",
+        "Dutch": "De zon is elke dag nieuw.",
+        "Turkish": "Güneş her gün yenidir.",
+        "Italian": "Il sole è nuovo ogni giorno.",
+        "French": "Le soleil est nouveau chaque jour.",
+        "Chinese": "太阳每天都是新的。",
+        "Japanese": "太陽は毎日新しい。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Choose kindness and laugh often.",
+      "used": 0,
+      "translations": {
+        "German": "Wähle Freundlichkeit und lache oft.",
+        "Spanish": "Elige la amabilidad y ríe a menudo.",
+        "Dutch": "Kies voor vriendelijkheid en lach vaak.",
+        "Turkish": "Nezaketi seç ve sık sık gül.",
+        "Italian": "Scegli la gentilezza e ridi spesso.",
+        "French": "Choisis la gentillesse et ris souvent.",
+        "Chinese": "选择善良，常笑。",
+        "Japanese": "親切を選び、よく笑おう。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Your feelings are real.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Gefühle sind echt.",
+        "Spanish": "Tus sentimientos son reales.",
+        "Dutch": "Je gevoelens zijn echt.",
+        "Turkish": "Hislerin gerçektir.",
+        "Italian": "I tuoi sentimenti sono reali.",
+        "French": "Tes sentiments sont réels.",
+        "Chinese": "你的感受是真实的。",
+        "Japanese": "あなたの感情は本物だ。"
+      }
+    },
+    {
+      "id": "o4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-2",
+      "quote": "Find a reason to smile.",
+      "used": 0,
+      "translations": {
+        "German": "Finde einen Grund zum Lächeln.",
+        "Spanish": "Encuentra una razón para sonreír.",
+        "Dutch": "Vind een reden om te glimlachen.",
+        "Turkish": "Gülümsemek için bir neden bul.",
+        "Italian": "Trova una ragione per sorridere.",
+        "French": "Trouve une raison de sourire.",
+        "Chinese": "找一个微笑的理由。",
+        "Japanese": "笑顔になる理由を見つけて。"
+      }
+    },
+    {
+      "id": "p1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-2",
+      "quote": "Change is the law of life.",
+      "used": 0,
+      "translations": {
+        "German": "Veränderung ist das Gesetz des Lebens.",
+        "Spanish": "El cambio es la ley de la vida.",
+        "Dutch": "Verandering is de wet van het leven.",
+        "Turkish": "Değişim hayatın kanunudur.",
+        "Italian": "Il cambiamento è la legge della vita.",
+        "French": "Le changement est la loi de la vie.",
+        "Chinese": "变化是生活的法则。",
+        "Japanese": "変化は人生の法則だ。"
+      }
+    },
+    {
+      "id": "q7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-2",
+      "quote": "The simple things are the best.",
+      "used": 0,
+      "translations": {
+        "German": "Die einfachen Dinge sind die besten.",
+        "Spanish": "Las cosas simples son las mejores.",
+        "Dutch": "De simpele dingen zijn het beste.",
+        "Turkish": "Basit şeyler en iyisidir.",
+        "Italian": "Le cose semplici sono le migliori.",
+        "French": "Les choses simples sont les meilleures.",
+        "Chinese": "简单的事物是最好的。",
+        "Japanese": "シンプルなことが最高だ。"
+      }
+    },
+    {
+      "id": "r8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-2",
+      "quote": "Your future is in your hands.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Zukunft liegt in deinen Händen.",
+        "Spanish": "Tu futuro está en tus manos.",
+        "Dutch": "Je toekomst ligt in jouw handen.",
+        "Turkish": "Geleceğin senin ellerinde.",
+        "Italian": "Il tuo futuro è nelle tue mani.",
+        "French": "Ton avenir est entre tes mains.",
+        "Chinese": "你的未来掌握在自己手中。",
+        "Japanese": "あなたの未来はあなたの手の中にある。"
+      }
+    },
+    {
+      "id": "s4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-3",
+      "quote": "It is never too late to learn.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist nie zu spät, um zu lernen.",
+        "Spanish": "Nunca es tarde para aprender.",
+        "Dutch": "Het is nooit te laat om te leren.",
+        "Turkish": "Öğrenmek için asla geç değil.",
+        "Italian": "Non è mai troppo tardi per imparare.",
+        "French": "Il n'est jamais trop tard pour apprendre.",
+        "Chinese": "活到老，学到老。",
+        "Japanese": "学ぶのに遅すぎることはない。"
+      }
+    },
+    {
+      "id": "t2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-2",
+      "quote": "You are not alone.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist nicht allein.",
+        "Spanish": "No estás solo.",
+        "Dutch": "Je bent niet alleen.",
+        "Turkish": "Yalnız değilsin.",
+        "Italian": "Non sei solo.",
+        "French": "Tu n'es pas seul.",
+        "Chinese": "你并不孤单。",
+        "Japanese": "あなたは一人じゃない。"
+      }
+    },
+    {
+      "id": "u1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-2",
+      "quote": "Every day is a chance to start again.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist eine Chance, neu zu beginnen.",
+        "Spanish": "Cada día es una oportunidad para empezar de nuevo.",
+        "Dutch": "Elke dag is een kans om opnieuw te beginnen.",
+        "Turkish": "Her gün yeniden başlamak için bir şanstır.",
+        "Italian": "Ogni giorno è un'occasione per ricominciare.",
+        "French": "Chaque jour est une chance de recommencer.",
+        "Chinese": "每一天都是重新开始的机会。",
+        "Japanese": "毎日がやり直すチャンスだ。"
+      }
+    },
+    {
+      "id": "v2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-2",
+      "quote": "Stay positive, work hard, and make it happen.",
+      "used": 0,
+      "translations": {
+        "German": "Bleib positiv, arbeite hart und lass es geschehen.",
+        "Spanish": "Mantente positivo, trabaja duro y haz que suceda.",
+        "Dutch": "Blijf positief, werk hard en zorg dat het gebeurt.",
+        "Turkish": "Pozitif kal, sıkı çalış ve başar.",
+        "Italian": "Rimani positivo, lavora sodo e fallo succedere.",
+        "French": "Reste positif, travaille dur et fais en sorte que ça arrive.",
+        "Chinese": "保持积极，努力工作，并让它发生。",
+        "Japanese": "ポジティブでいて、一生懸命働き、それを実現させよう。"
+      }
+    },
+    {
+      "id": "w3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-2",
+      "quote": "A little progress each day adds up to big results.",
+      "used": 0,
+      "translations": {
+        "German": "Kleine Fortschritte jeden Tag führen zu großen Ergebnissen.",
+        "Spanish": "Un poco de progreso cada día se suma a grandes resultados.",
+        "Dutch": "Een beetje vooruitgang elke dag leidt tot grote resultaten.",
+        "Turkish": "Her gün küçük bir ilerleme, büyük sonuçlar doğurur.",
+        "Italian": "Un piccolo progresso ogni giorno porta a grandi risultati.",
+        "French": "Un petit progrès chaque jour s'ajoute à de grands résultats.",
+        "Chinese": "每天的一点点进步会累积成巨大的成果。",
+        "Japanese": "毎日の小さな進歩が、大きな結果につながる。"
+      }
+    },
+    {
+      "id": "x1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-2",
+      "quote": "The world is yours.",
+      "used": 0,
+      "translations": {
+        "German": "Die Welt gehört dir.",
+        "Spanish": "El mundo es tuyo.",
+        "Dutch": "De wereld is van jou.",
+        "Turkish": "Dünya senin.",
+        "Italian": "Il mondo è tuo.",
+        "French": "Le monde est à toi.",
+        "Chinese": "世界是你的。",
+        "Japanese": "世界はあなたのものだ。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Do what is right, not what is easy.",
+      "used": 0,
+      "translations": {
+        "German": "Tue, was richtig ist, nicht, was einfach ist.",
+        "Spanish": "Haz lo que es correcto, no lo que es fácil.",
+        "Dutch": "Doe wat juist is, niet wat makkelijk is.",
+        "Turkish": "Doğru olanı yap, kolay olanı değil.",
+        "Italian": "Fai ciò che è giusto, non ciò che è facile.",
+        "French": "Fais ce qui est juste, pas ce qui est facile.",
+        "Chinese": "做正确的事，而不是容易的事。",
+        "Japanese": "簡単なことではなく、正しいことをしよう。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Be the best version of you.",
+      "used": 0,
+      "translations": {
+        "German": "Sei die beste Version von dir selbst.",
+        "Spanish": "Sé la mejor versión de ti mismo.",
+        "Dutch": "Wees de beste versie van jezelf.",
+        "Turkish": "Kendinin en iyi versiyonu ol.",
+        "Italian": "Sii la migliore versione di te stesso.",
+        "French": "Sois la meilleure version de toi-même.",
+        "Chinese": "成为最好的自己。",
+        "Japanese": "最高の自分になろう。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "We learn from our mistakes.",
+      "used": 0,
+      "translations": {
+        "German": "Wir lernen aus unseren Fehlern.",
+        "Spanish": "Aprendemos de nuestros errores.",
+        "Dutch": "We leren van onze fouten.",
+        "Turkish": "Hatalarımızdan öğreniriz.",
+        "Italian": "Impariamo dai nostri errori.",
+        "French": "Nous apprenons de nos erreurs.",
+        "Chinese": "我们从错误中学习。",
+        "Japanese": "私たちは間違いから学ぶ。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "You are stronger than you think.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist stärker, als du denkst.",
+        "Spanish": "Eres más fuerte de lo que crees.",
+        "Dutch": "Je bent sterker dan je denkt.",
+        "Turkish": "Sandığından daha güçlüsün.",
+        "Italian": "Sei più forte di quanto pensi.",
+        "French": "Tu es plus fort que tu ne le penses.",
+        "Chinese": "你比你想象的更强大。",
+        "Japanese": "あなたはあなたが思うより強い。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "It is a good time to start.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist ein guter Zeitpunkt, um zu beginnen.",
+        "Spanish": "Es un buen momento para empezar.",
+        "Dutch": "Het is een goed moment om te beginnen.",
+        "Turkish": "Başlamak için iyi bir zaman.",
+        "Italian": "È un buon momento per iniziare.",
+        "French": "C'est un bon moment pour commencer.",
+        "Chinese": "现在是开始的好时机。",
+        "Japanese": "始めるのに良い時期だ。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "A little hard work goes a long way.",
+      "used": 0,
+      "translations": {
+        "German": "Ein bisschen harte Arbeit zahlt sich aus.",
+        "Spanish": "Un poco de trabajo duro llega lejos.",
+        "Dutch": "Een beetje hard werk brengt je ver.",
+        "Turkish": "Biraz sıkı çalışmak uzun bir yol kat etmeye değer.",
+        "Italian": "Un po' di duro lavoro vale molto.",
+        "French": "Un peu de travail acharné mène loin.",
+        "Chinese": "一点努力可以带来很大的成就。",
+        "Japanese": "少しの努力が大きな成果につながる。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "Always see the good in people.",
+      "used": 0,
+      "translations": {
+        "German": "Sieh immer das Gute in Menschen.",
+        "Spanish": "Siempre ve lo bueno en las personas.",
+        "Dutch": "Zie altijd het goede in mensen.",
+        "Turkish": "Her zaman insanlarda iyiliği gör.",
+        "Italian": "Vedi sempre il buono nelle persone.",
+        "French": "Vois toujours le bon côté des gens.",
+        "Chinese": "永远看到人们身上的优点。",
+        "Japanese": "常に人々の良いところを見よう。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+      "used": 0,
+      "translations": {
+        "German": "Das Geheimnis der Veränderung ist, all deine Energie nicht darauf zu verwenden, das Alte zu bekämpfen, sondern darauf, das Neue aufzubauen.",
+        "Spanish": "El secreto del cambio es enfocar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.",
+        "Dutch": "Het geheim van verandering is om al je energie te richten op het bouwen van het nieuwe, niet op het vechten tegen het oude.",
+        "Turkish": "Değişimin sırrı, tüm enerjini eskiyle savaşmaya değil, yeniyi inşa etmeye odaklamaktır.",
+        "Italian": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
+        "French": "Le secret du changement est de concentrer toute son énergie non pas à lutter contre l'ancien, mais à construire le nouveau.",
+        "Chinese": "改变的秘诀不是把所有精力都用在对抗旧事物上，而是用来创造新事物。",
+        "Japanese": "変化の秘訣は、古いものと戦うことにすべてのエネルギーを費やすのではなく、新しいものを築くことに集中することだ。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Look for the lesson in every day.",
+      "used": 0,
+      "translations": {
+        "German": "Suche die Lektion in jedem Tag.",
+        "Spanish": "Busca la lección en cada día.",
+        "Dutch": "Zoek de les in elke dag.",
+        "Turkish": "Her günün içindeki dersi ara.",
+        "Italian": "Cerca la lezione in ogni giorno.",
+        "French": "Cherche la leçon dans chaque jour.",
+        "Chinese": "在每一天中寻找教训。",
+        "Japanese": "毎日の中に教訓を探そう。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "You are the author of your own story.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist der Autor deiner eigenen Geschichte.",
+        "Spanish": "Eres el autor de tu propia historia.",
+        "Dutch": "Jij bent de auteur van je eigen verhaal.",
+        "Turkish": "Kendi hikayenin yazarı sensin.",
+        "Italian": "Sei l'autore della tua storia.",
+        "French": "Tu es l'auteur de ta propre histoire.",
+        "Chinese": "你是自己故事的作者。",
+        "Japanese": "あなたはあなた自身の物語の著者だ。"
+      }
+    },
+    {
+      "id": "o4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-2",
+      "quote": "You have a voice. Use it.",
+      "used": 0,
+      "translations": {
+        "German": "Du hast eine Stimme. Benutze sie.",
+        "Spanish": "Tienes una voz. Úsala.",
+        "Dutch": "Je hebt een stem. Gebruik hem.",
+        "Turkish": "Bir sesin var. Onu kullan.",
+        "Italian": "Hai una voce. Usala.",
+        "French": "Tu as une voix. Utilise-la.",
+        "Chinese": "你有发言权。使用它。",
+        "Japanese": "あなたには声がある。それを使おう。"
+      }
+    },
+    {
+      "id": "p1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-2",
+      "quote": "A positive attitude can change your day.",
+      "used": 0,
+      "translations": {
+        "German": "Eine positive Einstellung kann deinen Tag verändern.",
+        "Spanish": "Una actitud positiva puede cambiar tu día.",
+        "Dutch": "Een positieve houding kan je dag veranderen.",
+        "Turkish": "Pozitif bir tutum gününü değiştirebilir.",
+        "Italian": "Un atteggiamento positivo può cambiare la tua giornata.",
+        "French": "Une attitude positive peut changer ta journée.",
+        "Chinese": "积极的心态可以改变你的一天。",
+        "Japanese": "ポジティブな態度はあなたの一日を変えることができる。"
+      }
+    },
+    {
+      "id": "q7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-2",
+      "quote": "The biggest risk is not taking one.",
+      "used": 0,
+      "translations": {
+        "German": "Das größte Risiko ist, keins einzugehen.",
+        "Spanish": "El mayor riesgo es no tomar uno.",
+        "Dutch": "Het grootste risico is er geen nemen.",
+        "Turkish": "En büyük risk, hiçbir risk almamaktır.",
+        "Italian": "Il rischio più grande è non prenderne uno.",
+        "French": "Le plus grand risque est de ne pas en prendre.",
+        "Chinese": "最大的风险就是不冒险。",
+        "Japanese": "最大のリスクは、何もしないことだ。"
+      }
+    },
+    {
+      "id": "r8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-2",
+      "quote": "It is okay to not know everything.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist okay, nicht alles zu wissen.",
+        "Spanish": "Está bien no saberlo todo.",
+        "Dutch": "Het is oké om niet alles te weten.",
+        "Turkish": "Her şeyi bilmemek sorun değil.",
+        "Italian": "Va bene non sapere tutto.",
+        "French": "C'est normal de ne pas tout savoir.",
+        "Chinese": "不知道所有事情也没关系。",
+        "Japanese": "すべてを知らなくても大丈夫だ。"
+      }
+    },
+    {
+      "id": "s4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-3",
+      "quote": "Small steps lead to big places.",
+      "used": 0,
+      "translations": {
+        "German": "Kleine Schritte führen zu großen Zielen.",
+        "Spanish": "Pequeños pasos llevan a grandes lugares.",
+        "Dutch": "Kleine stappen leiden naar grote plekken.",
+        "Turkish": "Küçük adımlar büyük yerlere götürür.",
+        "Italian": "Piccoli passi portano a grandi luoghi.",
+        "French": "De petits pas mènent à de grands endroits.",
+        "Chinese": "小步子通向大地方。",
+        "Japanese": "小さな一歩が大きな場所へ導く。"
+      }
+    },
+    {
+      "id": "t2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-2",
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "used": 0,
+      "translations": {
+        "German": "Der Weg, um anzufangen, ist, mit dem Reden aufzuhören und anzufangen zu tun.",
+        "Spanish": "La forma de empezar es dejar de hablar y empezar a hacer.",
+        "Dutch": "De manier om te beginnen is om te stoppen met praten en te beginnen met doen.",
+        "Turkish": "Başlamanın yolu konuşmayı bırakıp yapmaya başlamaktır.",
+        "Italian": "Il modo per iniziare è smettere di parlare e iniziare a fare.",
+        "French": "La façon de commencer est d'arrêter de parler et de commencer à faire.",
+        "Chinese": "开始的方法是停止说话，开始行动。",
+        "Japanese": "始めるには、話すのをやめて行動することだ。"
+      }
+    },
+    {
+      "id": "u1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-2",
+      "quote": "Your mind is a powerful thing.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Geist ist eine mächtige Sache.",
+        "Spanish": "Tu mente es algo poderoso.",
+        "Dutch": "Je geest is een krachtig iets.",
+        "Turkish": "Zihnin güçlü bir şeydir.",
+        "Italian": "La tua mente è una cosa potente.",
+        "French": "Ton esprit est une chose puissante.",
+        "Chinese": "你的思想是强大的。",
+        "Japanese": "あなたの心は強力なものだ。"
+      }
+    },
+    {
+      "id": "v2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-2",
+      "quote": "You are the only you.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist der einzige du.",
+        "Spanish": "Eres el único tú.",
+        "Dutch": "Jij bent de enige jij.",
+        "Turkish": "Sen sadece sensin.",
+        "Italian": "Sei l'unico te stesso.",
+        "French": "Tu es le seul toi.",
+        "Chinese": "你是独一无二的你。",
+        "Japanese": "あなたは唯一のあなただ。"
+      }
+    },
+    {
+      "id": "w3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-2",
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "used": 0,
+      "translations": {
+        "German": "Die Zukunft gehört denen, die an die Schönheit ihrer Träume glauben.",
+        "Spanish": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "Dutch": "De toekomst behoort toe aan hen die geloven in de schoonheid van hun dromen.",
+        "Turkish": "Gelecek, hayallerinin güzelliğine inananlara aittir.",
+        "Italian": "Il futuro appartiene a coloro che credono nella bellezza dei propri sogni.",
+        "French": "L'avenir appartient à ceux qui croient en la beauté de leurs rêves.",
+        "Chinese": "未来属于那些相信自己梦想之美的人。",
+        "Japanese": "未来は、夢の美しさを信じる人たちのものだ。"
+      }
+    },
+    {
+      "id": "x1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-2",
+      "quote": "Every moment matters.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Moment zählt.",
+        "Spanish": "Cada momento importa.",
+        "Dutch": "Elk moment telt.",
+        "Turkish": "Her an önemlidir.",
+        "Italian": "Ogni momento conta.",
+        "French": "Chaque instant compte.",
+        "Chinese": "每一刻都很重要。",
+        "Japanese": "すべての瞬間が大切だ。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "Do not be afraid to fail.",
+      "used": 0,
+      "translations": {
+        "German": "Hab keine Angst zu scheitern.",
+        "Spanish": "No tengas miedo de fallar.",
+        "Dutch": "Wees niet bang om te falen.",
+        "Turkish": "Başarısız olmaktan korkma.",
+        "Italian": "Non avere paura di fallire.",
+        "French": "N'aie pas peur d'échouer.",
+        "Chinese": "不要害怕失败。",
+        "Japanese": "失敗を恐れるな。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Your mind is a strong tool.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Geist ist ein starkes Werkzeug.",
+        "Spanish": "Tu mente es una herramienta poderosa.",
+        "Dutch": "Je geest is een krachtig hulpmiddel.",
+        "Turkish": "Zihnin güçlü bir araçtır.",
+        "Italian": "La tua mente è uno strumento potente.",
+        "French": "Ton esprit est un outil puissant.",
+        "Chinese": "你的思想是一个强大的工具。",
+        "Japanese": "あなたの心は強力なツールだ。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "It is a wonderful day to be alive.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist ein wunderbarer Tag, um am Leben zu sein.",
+        "Spanish": "Es un día maravilloso para estar vivo.",
+        "Dutch": "Het is een prachtige dag om te leven.",
+        "Turkish": "Yaşamak için harika bir gün.",
+        "Italian": "È un giorno meraviglioso per essere vivi.",
+        "French": "C'est une journée merveilleuse pour être en vie.",
+        "Chinese": "活着真好，今天是美好的一天。",
+        "Japanese": "生きているって素晴らしい日だ。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "The sun will rise and we will try again.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne wird aufgehen und wir werden es wieder versuchen.",
+        "Spanish": "El sol saldrá y lo intentaremos de nuevo.",
+        "Dutch": "De zon zal opkomen en we zullen het opnieuw proberen.",
+        "Turkish": "Güneş doğacak ve yeniden deneyeceğiz.",
+        "Italian": "Il sole sorgerà e ci riproveremo.",
+        "French": "Le soleil se lèvera et nous essaierons à nouveau.",
+        "Chinese": "太阳会升起，我们也会再次尝试。",
+        "Japanese": "太陽は昇り、私たちはまた挑戦する。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Always find a reason to laugh.",
+      "used": 0,
+      "translations": {
+        "German": "Finde immer einen Grund zu lachen.",
+        "Spanish": "Siempre encuentra una razón para reír.",
+        "Dutch": "Vind altijd een reden om te lachen.",
+        "Turkish": "Her zaman gülmek için bir neden bul.",
+        "Italian": "Trova sempre un motivo per ridere.",
+        "French": "Trouve toujours une raison de rire.",
+        "Chinese": "总是找一个理由笑。",
+        "Japanese": "いつも笑う理由を見つけよう。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "Your life is a story. Make it a good one.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Leben ist eine Geschichte. Mach eine gute daraus.",
+        "Spanish": "Tu vida es una historia. Haz que sea una buena.",
+        "Dutch": "Je leven is een verhaal. Maak er een goed verhaal van.",
+        "Turkish": "Hayatın bir hikayedir. Onu güzel bir hikaye yap.",
+        "Italian": "La tua vita è una storia. Rendi la tua storia una bella storia.",
+        "French": "Ta vie est une histoire. Fais-en une bonne.",
+        "Chinese": "你的生活是一个故事。让它成为一个好故事。",
+        "Japanese": "あなたの人生は物語だ。良い物語にしよう。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "It is a good time to be happy.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist eine gute Zeit, um glücklich zu sein.",
+        "Spanish": "Es un buen momento para ser feliz.",
+        "Dutch": "Het is een goed moment om gelukkig te zijn.",
+        "Turkish": "Mutlu olmak için iyi bir zaman.",
+        "Italian": "È un buon momento per essere felici.",
+        "French": "C'est un bon moment pour être heureux.",
+        "Chinese": "现在是快乐的好时机。",
+        "Japanese": "幸せになるのに良い時だ。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "The hardest part is starting.",
+      "used": 0,
+      "translations": {
+        "German": "Der schwierigste Teil ist der Anfang.",
+        "Spanish": "La parte más difícil es empezar.",
+        "Dutch": "Het moeilijkste deel is beginnen.",
+        "Turkish": "En zor kısım başlamaktır.",
+        "Italian": "La parte più difficile è iniziare.",
+        "French": "La partie la plus difficile est de commencer.",
+        "Chinese": "最难的部分是开始。",
+        "Japanese": "最も難しいのは始めることだ。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "You are not just a person, you are a whole world.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist nicht nur ein Mensch, du bist eine ganze Welt.",
+        "Spanish": "No eres solo una persona, eres un mundo entero.",
+        "Dutch": "Je bent niet zomaar een persoon, je bent een hele wereld.",
+        "Turkish": "Sadece bir insan değil, bütün bir dünyasın.",
+        "Italian": "Non sei solo una persona, sei un mondo intero.",
+        "French": "Tu n'es pas seulement une personne, tu es un monde entier.",
+        "Chinese": "你不仅仅是一个人，你是一个完整的世界。",
+        "Japanese": "あなたはただの人ではなく、一つの世界だ。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Life is a journey, not a race.",
+      "used": 0,
+      "translations": {
+        "German": "Das Leben ist eine Reise, kein Rennen.",
+        "Spanish": "La vida es un viaje, no una carrera.",
+        "Dutch": "Het leven is een reis, geen race.",
+        "Turkish": "Hayat bir yolculuktur, bir yarış değil.",
+        "Italian": "La vita è un viaggio, non una gara.",
+        "French": "La vie est un voyage, pas une course.",
+        "Chinese": "生活是一段旅程，而不是一场比赛。",
+        "Japanese": "人生は旅であり、競争ではない。"
+      }
+    },
+    {
+      "id": "o4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-2",
+      "quote": "Every moment has a lesson.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Moment hat eine Lektion.",
+        "Spanish": "Cada momento tiene una lección.",
+        "Dutch": "Elk moment heeft een les.",
+        "Turkish": "Her anın bir dersi vardır.",
+        "Italian": "Ogni momento ha una lezione.",
+        "French": "Chaque moment a une leçon.",
+        "Chinese": "每个时刻都有一个教训。",
+        "Japanese": "すべての瞬間に教訓がある。"
+      }
+    },
+    {
+      "id": "p1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-2",
+      "quote": "What you think, you become.",
+      "used": 0,
+      "translations": {
+        "German": "Was du denkst, wirst du.",
+        "Spanish": "En lo que piensas, te conviertes.",
+        "Dutch": "Wat je denkt, word je.",
+        "Turkish": "Ne düşünüyorsan, o olursun.",
+        "Italian": "Ciò che pensi, diventi.",
+        "French": "Ce que tu penses, tu le deviens.",
+        "Chinese": "你想什么，你就会成为什么。",
+        "Japanese": "思考が現実になる。"
+      }
+    },
+    {
+      "id": "q7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-2",
+      "quote": "A little kindness can change everything.",
+      "used": 0,
+      "translations": {
+        "German": "Ein bisschen Freundlichkeit kann alles verändern.",
+        "Spanish": "Un poco de amabilidad puede cambiarlo todo.",
+        "Dutch": "Een beetje vriendelijkheid kan alles veranderen.",
+        "Turkish": "Biraz nezaket her şeyi değiştirebilir.",
+        "Italian": "Un po' di gentilezza può cambiare tutto.",
+        "French": "Un peu de gentillesse peut tout changer.",
+        "Chinese": "一点善意可以改变一切。",
+        "Japanese": "少しの親切がすべてを変えることができる。"
+      }
+    },
+    {
+      "id": "r8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-2",
+      "quote": "A smile is a welcome sign.",
+      "used": 0,
+      "translations": {
+        "German": "Ein Lächeln ist ein willkommenes Zeichen.",
+        "Spanish": "Una sonrisa es una señal de bienvenida.",
+        "Dutch": "Een glimlach is een welkom teken.",
+        "Turkish": "Bir gülümseme hoş bir işarettir.",
+        "Italian": "Un sorriso è un segno di benvenuto.",
+        "French": "Un sourire est un signe de bienvenue.",
+        "Chinese": "微笑是受欢迎的标志。",
+        "Japanese": "笑顔は歓迎のサインだ。"
+      }
+    },
+    {
+      "id": "s4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-3",
+      "quote": "Your best is good enough.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Bestes ist gut genug.",
+        "Spanish": "Tu mejor esfuerzo es suficiente.",
+        "Dutch": "Je best is goed genoeg.",
+        "Turkish": "En iyin yeterince iyi.",
+        "Italian": "Il tuo meglio è abbastanza.",
+        "French": "Ton mieux est suffisant.",
+        "Chinese": "你已经做得足够好。",
+        "Japanese": "あなたの最善は十分だ。"
+      }
+    },
+    {
+      "id": "t2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-2",
+      "quote": "Believe in the good in the world.",
+      "used": 0,
+      "translations": {
+        "German": "Glaube an das Gute in der Welt.",
+        "Spanish": "Cree en lo bueno que hay en el mundo.",
+        "Dutch": "Geloof in het goede in de wereld.",
+        "Turkish": "Dünyadaki iyiliğe inan.",
+        "Italian": "Credi nel bene nel mondo.",
+        "French": "Crois en le bien dans le monde.",
+        "Chinese": "相信世界上的美好。",
+        "Japanese": "世界の良いことを信じて。"
+      }
+    },
+    {
+      "id": "u1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-2",
+      "quote": "The best view comes after the hardest climb.",
+      "used": 0,
+      "translations": {
+        "German": "Die beste Aussicht kommt nach dem härtesten Aufstieg.",
+        "Spanish": "La mejor vista viene después de la subida más difícil.",
+        "Dutch": "Het beste uitzicht krijg je na de zwaarste klim.",
+        "Turkish": "En iyi manzara, en zor tırmanıştan sonra gelir.",
+        "Italian": "La vista migliore arriva dopo la salita più difficile.",
+        "French": "La meilleure vue vient après la montée la plus difficile.",
+        "Chinese": "最好的风景在最艰难的攀登之后。",
+        "Japanese": "最高の景色は最も困難な登山の後に来る。"
+      }
+    },
+    {
+      "id": "v2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-2",
+      "quote": "A positive mind finds a way.",
+      "used": 0,
+      "translations": {
+        "German": "Ein positiver Geist findet einen Weg.",
+        "Spanish": "Una mente positiva encuentra un camino.",
+        "Dutch": "Een positieve geest vindt een weg.",
+        "Turkish": "Pozitif bir zihin bir yol bulur.",
+        "Italian": "Una mente positiva trova un modo.",
+        "French": "Un esprit positif trouve toujours un chemin.",
+        "Chinese": "积极的心态会找到出路。",
+        "Japanese": "ポジティブな心は道を見つける。"
+      }
+    },
+    {
+      "id": "w3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-2",
+      "quote": "You are an amazing person.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein wundervoller Mensch.",
+        "Spanish": "Eres una persona increíble.",
+        "Dutch": "Je bent een geweldig persoon.",
+        "Turkish": "Sen harika bir insansın.",
+        "Italian": "Sei una persona fantastica.",
+        "French": "Tu es une personne incroyable.",
+        "Chinese": "你是一个很棒的人。",
+        "Japanese": "あなたは素晴らしい人だ。"
+      }
+    },
+    {
+      "id": "x1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-2",
+      "quote": "Every day is a fresh start.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist ein neuer Anfang.",
+        "Spanish": "Cada día es un nuevo comienzo.",
+        "Dutch": "Elke dag is een frisse start.",
+        "Turkish": "Her gün yeni bir başlangıçtır.",
+        "Italian": "Ogni giorno è un nuovo inizio.",
+        "French": "Chaque jour est un nouveau départ.",
+        "Chinese": "每一天都是一个新的开始。",
+        "Japanese": "毎日が新たな始まりだ。"
+      }
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7890-a1b2-c3d4e5f6g7h8",
+      "quote": "Every day is a gift.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist ein Geschenk.",
+        "Spanish": "Cada día es un regalo.",
+        "Dutch": "Elke dag is een geschenk.",
+        "Turkish": "Her gün bir hediyedir.",
+        "Italian": "Ogni giorno è un dono.",
+        "French": "Chaque jour est un cadeau.",
+        "Chinese": "每一天都是一份礼物。",
+        "Japanese": "毎日が贈り物だ。"
+      }
+    },
+    {
+      "id": "2b3c4d5e-6f78-90a1-b2c3-d4e5f6g7h8i9",
+      "quote": "Make a new friend.",
+      "used": 0,
+      "translations": {
+        "German": "Finde einen neuen Freund.",
+        "Spanish": "Haz un nuevo amigo.",
+        "Dutch": "Maak een nieuwe vriend.",
+        "Turkish": "Yeni bir arkadaş edin.",
+        "Italian": "Fai un nuovo amico.",
+        "French": "Fais-toi un nouvel ami.",
+        "Chinese": "交个新朋友。",
+        "Japanese": "新しい友達を作って。"
+      }
+    },
+    {
+      "id": "3c4d5e6f-7890-a1b2-c3d4-e5f6g7h8i9j0",
+      "quote": "Your life is a book.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Leben ist ein Buch.",
+        "Spanish": "Tu vida es un libro.",
+        "Dutch": "Je leven is een boek.",
+        "Turkish": "Hayatın bir kitaptır.",
+        "Italian": "La tua vita è un libro.",
+        "French": "Ta vie est un livre.",
+        "Chinese": "你的人生是一本书。",
+        "Japanese": "あなたの人生は一冊の本だ。"
+      }
+    },
+    {
+      "id": "4d5e6f78-90a1-b2c3-d4e5-f6g7h8i9j0k1",
+      "quote": "Happiness is a choice.",
+      "used": 0,
+      "translations": {
+        "German": "Glück ist eine Wahl.",
+        "Spanish": "La felicidad es una elección.",
+        "Dutch": "Geluk is een keuze.",
+        "Turkish": "Mutluluk bir seçimdir.",
+        "Italian": "La felicità è una scelta.",
+        "French": "Le bonheur est un choix.",
+        "Chinese": "幸福是一种选择。",
+        "Japanese": "幸せは選択だ。"
+      }
+    },
+    {
+      "id": "5e6f7890-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+      "quote": "Be kind to yourself.",
+      "used": 0,
+      "translations": {
+        "German": "Sei freundlich zu dir selbst.",
+        "Spanish": "Sé amable contigo mismo.",
+        "Dutch": "Wees aardig voor jezelf.",
+        "Turkish": "Kendine karşı nazik ol.",
+        "Italian": "Sii gentile con te stesso.",
+        "French": "Sois gentil avec toi-même.",
+        "Chinese": "善待自己。",
+        "Japanese": "自分に優しくして。"
+      }
+    },
+    {
+      "id": "6f7890a1-b2c3-d4e5-f6g7-h8i9j0k1l2m3",
+      "quote": "Listen to your heart.",
+      "used": 0,
+      "translations": {
+        "German": "Höre auf dein Herz.",
+        "Spanish": "Escucha a tu corazón.",
+        "Dutch": "Luister naar je hart.",
+        "Turkish": "Kalbinin sesini dinle.",
+        "Italian": "Ascolta il tuo cuore.",
+        "French": "Écoute ton cœur.",
+        "Chinese": "倾听你的心声。",
+        "Japanese": "自分の心に耳を傾けて。"
+      }
+    },
+    {
+      "id": "7890a1b2-c3d4-e5f6-g7h8-i9j0k1l2m3n4",
+      "quote": "Today is your day.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist dein Tag.",
+        "Spanish": "Hoy es tu día.",
+        "Dutch": "Vandaag is jouw dag.",
+        "Turkish": "Bugün senin günün.",
+        "Italian": "Oggi è il tuo giorno.",
+        "French": "Aujourd'hui est ton jour.",
+        "Chinese": "今天是你的日子。",
+        "Japanese": "今日はあなたの日だ。"
+      }
+    },
+    {
+      "id": "890a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+      "quote": "The world is waiting for you.",
+      "used": 0,
+      "translations": {
+        "German": "Die Welt wartet auf dich.",
+        "Spanish": "El mundo te está esperando.",
+        "Dutch": "De wereld wacht op je.",
+        "Turkish": "Dünya seni bekliyor.",
+        "Italian": "Il mondo ti sta aspettando.",
+        "French": "Le monde t'attend.",
+        "Chinese": "世界在等着你。",
+        "Japanese": "世界があなたを待っている。"
+      }
+    },
+    {
+      "id": "90a1b2c3-d4e5-f6g7-h8i9-j0k1l2m3n4o5",
+      "quote": "Be the change you want to see.",
+      "used": 0,
+      "translations": {
+        "German": "Sei die Veränderung, die du sehen möchtest.",
+        "Spanish": "Sé el cambio que quieres ver.",
+        "Dutch": "Wees de verandering die je wilt zien.",
+        "Turkish": "Görmek istediğin değişim ol.",
+        "Italian": "Sii il cambiamento che vuoi vedere.",
+        "French": "Sois le changement que tu veux voir.",
+        "Chinese": "成为你想看到的变化。",
+        "Japanese": "あなたが見たい変化になりなさい。"
+      }
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p",
+      "quote": "Think big, act small.",
+      "used": 0,
+      "translations": {
+        "German": "Denke groß, handle klein.",
+        "Spanish": "Piensa en grande, actúa pequeño.",
+        "Dutch": "Denk groot, handel klein.",
+        "Turkish": "Büyük düşün, küçük adımlar at.",
+        "Italian": "Pensa in grande, agisci in piccolo.",
+        "French": "Pense grand, agis petit.",
+        "Chinese": "大处着眼，小处着手。",
+        "Japanese": "大きく考え、小さく行動しよう。"
+      }
+    },
+    {
+      "id": "b2c3d4e5-f678-90a1-b2c3-d4e5f6g7h8i",
+      "quote": "You are capable of great things.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist zu Großem fähig.",
+        "Spanish": "Eres capaz de grandes cosas.",
+        "Dutch": "Je bent in staat tot grote dingen.",
+        "Turkish": "Büyük şeyler yapmaya yeteneklisin.",
+        "Italian": "Sei capace di grandi cose.",
+        "French": "Tu es capable de grandes choses.",
+        "Chinese": "你能够成就伟大的事情。",
+        "Japanese": "あなたには素晴らしいことができる。"
+      }
+    },
+    {
+      "id": "c3d4e5f6-7890-a1b2-c3d4-e5f6g7h8i9j",
+      "quote": "Change is a good thing.",
+      "used": 0,
+      "translations": {
+        "German": "Veränderung ist eine gute Sache.",
+        "Spanish": "El cambio es algo bueno.",
+        "Dutch": "Verandering is een goede zaak.",
+        "Turkish": "Değişim iyi bir şeydir.",
+        "Italian": "Il cambiamento è una buona cosa.",
+        "French": "Le changement est une bonne chose.",
+        "Chinese": "改变是件好事。",
+        "Japanese": "変化は良いことだ。"
+      }
+    },
+    {
+      "id": "d4e5f6g7-890a-1b2c-3d4e-5f6g7h8i9j0",
+      "quote": "Hope for the best.",
+      "used": 0,
+      "translations": {
+        "German": "Hoffe auf das Beste.",
+        "Spanish": "Espera lo mejor.",
+        "Dutch": "Hoop op het beste.",
+        "Turkish": "En iyisini umut et.",
+        "Italian": "Spera per il meglio.",
+        "French": "Espère le meilleur.",
+        "Chinese": "希望一切顺利。",
+        "Japanese": "最善を願って。"
+      }
+    },
+    {
+      "id": "e5f6g7h8-90a1-b2c3-d4e5-f6g7h8i9j0k",
+      "quote": "Live and learn.",
+      "used": 0,
+      "translations": {
+        "German": "Leben und lernen.",
+        "Spanish": "Vive y aprende.",
+        "Dutch": "Leven en leren.",
+        "Turkish": "Yaşa ve öğren.",
+        "Italian": "Vivi e impara.",
+        "French": "Vis et apprends.",
+        "Chinese": "边生活边学习。",
+        "Japanese": "生きて、学んで。"
+      }
+    },
+    {
+      "id": "f6g7h8i9-0a1b-2c3d-4e5f-6g7h8i9j0k1",
+      "quote": "Find your own way.",
+      "used": 0,
+      "translations": {
+        "German": "Finde deinen eigenen Weg.",
+        "Spanish": "Encuentra tu propio camino.",
+        "Dutch": "Vind je eigen weg.",
+        "Turkish": "Kendi yolunu bul.",
+        "Italian": "Trova la tua strada.",
+        "French": "Trouve ton propre chemin.",
+        "Chinese": "找到你自己的路。",
+        "Japanese": "自分の道を見つけよう。"
+      }
+    },
+    {
+      "id": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v",
+      "quote": "The future is now.",
+      "used": 0,
+      "translations": {
+        "German": "Die Zukunft ist jetzt.",
+        "Spanish": "El futuro es ahora.",
+        "Dutch": "De toekomst is nu.",
+        "Turkish": "Gelecek şimdi.",
+        "Italian": "Il futuro è ora.",
+        "French": "L'avenir, c'est maintenant.",
+        "Chinese": "未来就是现在。",
+        "Japanese": "未来は今だ。"
+      }
+    },
+    {
+      "id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w",
+      "quote": "Learn something new every day.",
+      "used": 0,
+      "translations": {
+        "German": "Lerne jeden Tag etwas Neues.",
+        "Spanish": "Aprende algo nuevo cada día.",
+        "Dutch": "Leer elke dag iets nieuws.",
+        "Turkish": "Her gün yeni bir şey öğren.",
+        "Italian": "Impara qualcosa di nuovo ogni giorno.",
+        "French": "Apprends quelque chose de nouveau chaque jour.",
+        "Chinese": "每天学习新事物。",
+        "Japanese": "毎日何か新しいことを学ぼう。"
+      }
+    },
+    {
+      "id": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x",
+      "quote": "The greatest adventure is what lies ahead.",
+      "used": 0,
+      "translations": {
+        "German": "Das größte Abenteuer liegt vor dir.",
+        "Spanish": "La mayor aventura es lo que te espera.",
+        "Dutch": "Het grootste avontuur ligt in het verschiet.",
+        "Turkish": "En büyük macera, önündeki şeydir.",
+        "Italian": "La più grande avventura è ciò che ti aspetta.",
+        "French": "La plus grande aventure est ce qui t'attend.",
+        "Chinese": "最伟大的冒险就在前方。",
+        "Japanese": "最大の冒険はこれからだ。"
+      }
+    },
+    {
+      "id": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y",
+      "quote": "Be happy with what you have.",
+      "used": 0,
+      "translations": {
+        "German": "Sei glücklich mit dem, was du hast.",
+        "Spanish": "Sé feliz con lo que tienes.",
+        "Dutch": "Wees blij met wat je hebt.",
+        "Turkish": "Sahip olduğunla mutlu ol.",
+        "Italian": "Sii felice con ciò che hai.",
+        "French": "Sois heureux avec ce que tu as.",
+        "Chinese": "对你所拥有的感到快乐。",
+        "Japanese": "持っているものに幸せを感じて。"
+      }
+    },
+    {
+      "id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z",
+      "quote": "The sun is always shining.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne scheint immer.",
+        "Spanish": "El sol siempre está brillando.",
+        "Dutch": "De zon schijnt altijd.",
+        "Turkish": "Güneş her zaman parlar.",
+        "Italian": "Il sole splende sempre.",
+        "French": "Le soleil brille toujours.",
+        "Chinese": "太阳总是闪耀着。",
+        "Japanese": "太陽はいつも輝いている。"
+      }
+    },
+    {
+      "id": "m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b",
+      "quote": "Always be a little kinder than necessary.",
+      "used": 0,
+      "translations": {
+        "German": "Sei immer ein bisschen freundlicher als nötig.",
+        "Spanish": "Sé siempre un poco más amable de lo necesario.",
+        "Dutch": "Wees altijd een beetje vriendelijker dan nodig is.",
+        "Turkish": "Her zaman gerekenden biraz daha nazik ol.",
+        "Italian": "Sii sempre un po' più gentile del necessario.",
+        "French": "Sois toujours un peu plus gentil que nécessaire.",
+        "Chinese": "永远比必要时更善良一点。",
+        "Japanese": "必要以上に少しだけ親切に。"
+      }
+    },
+    {
+      "id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c",
+      "quote": "The only impossible journey is the one you never begin.",
+      "used": 0,
+      "translations": {
+        "German": "Die einzige unmögliche Reise ist die, die du nie beginnst.",
+        "Spanish": "El único viaje imposible es el que nunca empiezas.",
+        "Dutch": "De enige onmogelijke reis is die je nooit begint.",
+        "Turkish": "Tek imkansız yolculuk, hiç başlamadığın yolculuktur.",
+        "Italian": "L'unico viaggio impossibile è quello che non inizi mai.",
+        "French": "Le seul voyage impossible est celui que tu ne commences jamais.",
+        "Chinese": "唯一不可能的旅程是那些你从未开始的。",
+        "Japanese": "唯一不可能な旅は、決して始めない旅だ。"
+      }
+    },
+    {
+      "id": "o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d",
+      "quote": "Life is a journey. Enjoy the ride.",
+      "used": 0,
+      "translations": {
+        "German": "Das Leben ist eine Reise. Genieße die Fahrt.",
+        "Spanish": "La vida es un viaje. Disfruta del paseo.",
+        "Dutch": "Het leven is een reis. Geniet van de rit.",
+        "Turkish": "Hayat bir yolculuktur. Yolculuğun tadını çıkar.",
+        "Italian": "La vita è un viaggio. Goditi il viaggio.",
+        "French": "La vie est un voyage. Profite du trajet.",
+        "Chinese": "生活是一场旅程。享受旅程吧。",
+        "Japanese": "人生は旅だ。その旅を楽しもう。"
+      }
+    },
+    {
+      "id": "p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e",
+      "quote": "Believe in the magic of new beginnings.",
+      "used": 0,
+      "translations": {
+        "German": "Glaube an die Magie neuer Anfänge.",
+        "Spanish": "Cree en la magia de los nuevos comienzos.",
+        "Dutch": "Geloof in de magie van nieuwe beginselen.",
+        "Turkish": "Yeni başlangıçların sihrine inan.",
+        "Italian": "Credi nella magia dei nuovi inizi.",
+        "French": "Crois en la magie des nouveaux départs.",
+        "Chinese": "相信新开始的魔力。",
+        "Japanese": "新しい始まりの魔法を信じて。"
+      }
+    },
+    {
+      "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f",
+      "quote": "Be yourself; everyone else is already taken.",
+      "used": 0,
+      "translations": {
+        "German": "Sei du selbst; alle anderen sind schon vergeben.",
+        "Spanish": "Sé tú mismo; los demás ya están ocupados.",
+        "Dutch": "Wees jezelf; alle anderen zijn al bezet.",
+        "Turkish": "Kendin ol; diğer herkes zaten alınmıştır.",
+        "Italian": "Sii te stesso; tutti gli altri sono già occupati.",
+        "French": "Sois toi-même; tous les autres sont déjà pris.",
+        "Chinese": "做你自己；因为其他人都有人做了。",
+        "Japanese": "自分らしくいよう。他の人はもうすでにいるから。"
+      }
+    },
+    {
+      "id": "r8s9t0u1-v2w3-x4y5-z6a7-b8c9d0e1f2g",
+      "quote": "The journey is the reward.",
+      "used": 0,
+      "translations": {
+        "German": "Die Reise ist die Belohnung.",
+        "Spanish": "El viaje es la recompensa.",
+        "Dutch": "De reis is de beloning.",
+        "Turkish": "Yolculuk, ödülün kendisidir.",
+        "Italian": "Il viaggio è la ricompensa.",
+        "French": "Le voyage est la récompense.",
+        "Chinese": "旅程就是奖励。",
+        "Japanese": "旅こそが報酬だ。"
+      }
+    },
+    {
+      "id": "s9t0u1v2-w3x4-y5z6-a7b8-c9d0e1f2g3h",
+      "quote": "Stay positive, work hard, make it happen.",
+      "used": 0,
+      "translations": {
+        "German": "Bleib positiv, arbeite hart, lass es geschehen.",
+        "Spanish": "Mantente positivo, trabaja duro, haz que suceda.",
+        "Dutch": "Blijf positief, werk hard, zorg dat het gebeurt.",
+        "Turkish": "Pozitif kal, sıkı çalış, başar.",
+        "Italian": "Rimani positivo, lavora sodo, fallo succedere.",
+        "French": "Reste positif, travaille dur, fais en sorte que ça arrive.",
+        "Chinese": "保持积极，努力工作，并让它发生。",
+        "Japanese": "ポジティブでいて、一生懸命働き、それを実現させよう。"
+      }
+    },
+    {
+      "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i",
+      "quote": "Give every day the chance to become the most beautiful of your life.",
+      "used": 0,
+      "translations": {
+        "German": "Gib jedem Tag die Chance, der schönste deines Lebens zu werden.",
+        "Spanish": "Dale a cada día la oportunidad de convertirse en el más hermoso de tu vida.",
+        "Dutch": "Geef elke dag de kans om de mooiste van je leven te worden.",
+        "Turkish": "Her güne, hayatının en güzel günü olma şansını ver.",
+        "Italian": "Dai a ogni giorno la possibilità di diventare il più bello della tua vita.",
+        "French": "Donne à chaque jour la chance de devenir le plus beau de ta vie.",
+        "Chinese": "给每一天一个机会，让它成为你生命中最美好的一天。",
+        "Japanese": "毎日があなたの人生で最も美しい日になるチャンスを与えよう。"
+      }
+    },
+    {
+      "id": "u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j",
+      "quote": "Never stop learning, because life never stops teaching.",
+      "used": 0,
+      "translations": {
+        "German": "Hör nie auf zu lernen, denn das Leben hört nie auf zu lehren.",
+        "Spanish": "Nunca dejes de aprender, porque la vida nunca deja de enseñar.",
+        "Dutch": "Stop nooit met leren, want het leven stopt nooit met lesgeven.",
+        "Turkish": "Asla öğrenmeyi bırakma, çünkü hayat öğretmeyi asla bırakmaz.",
+        "Italian": "Non smettere mai di imparare, perché la vita non smette mai di insegnare.",
+        "French": "N'arrête jamais d'apprendre, car la vie n'arrête jamais d'enseigner.",
+        "Chinese": "永不停止学习，因为生活永不停止教导。",
+        "Japanese": "学ぶことをやめるな、人生は教えることを決してやめないからだ。"
+      }
+    },
+    {
+      "id": "v2w3x4y5-z6a7-b8c9-d0e1-f2g3h4i5j6k",
+      "quote": "Happiness is not by chance, but by choice.",
+      "used": 0,
+      "translations": {
+        "German": "Glück ist nicht Zufall, sondern eine Wahl.",
+        "Spanish": "La felicidad no es una casualidad, sino una elección.",
+        "Dutch": "Geluk is geen toeval, maar een keuze.",
+        "Turkish": "Mutluluk şans eseri değil, bir seçimdir.",
+        "Italian": "La felicità non è una casualità, ma una scelta.",
+        "French": "Le bonheur n'est pas le fruit du hasard, mais un choix.",
+        "Chinese": "幸福不是偶然，而是选择。",
+        "Japanese": "幸せは偶然ではなく、選択だ。"
+      }
+    },
+    {
+      "id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l",
+      "quote": "You can't be perfect, but you can be unique.",
+      "used": 0,
+      "translations": {
+        "German": "Du kannst nicht perfekt sein, aber du kannst einzigartig sein.",
+        "Spanish": "No puedes ser perfecto, pero puedes ser único.",
+        "Dutch": "Je kunt niet perfect zijn, maar je kunt wel uniek zijn.",
+        "Turkish": "Mükemmel olamazsın, ama eşsiz olabilirsin.",
+        "Italian": "Non puoi essere perfetto, ma puoi essere unico.",
+        "French": "Tu ne peux pas être parfait, mais tu peux être unique.",
+        "Chinese": "你不能做到完美，但你可以做到独一无二。",
+        "Japanese": "完璧にはなれないが、ユニークにはなれる。"
+      }
+    },
+    {
+      "id": "x4y5z6a7-b8c9-d0e1-f2g3-h4i5j6k7l8m",
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "used": 0,
+      "translations": {
+        "German": "Die beste Zeit, einen Baum zu pflanzen, war vor 20 Jahren. Die zweitbeste Zeit ist jetzt.",
+        "Spanish": "El mejor momento para plantar un árbol era hace 20 años. El segundo mejor momento es ahora.",
+        "Dutch": "De beste tijd om een boom te planten was 20 jaar geleden. De op één na beste tijd is nu.",
+        "Turkish": "Ağaç dikmek için en iyi zaman 20 yıl önceydi. İkinci en iyi zaman ise şimdi.",
+        "Italian": "Il momento migliore per piantare un albero era 20 anni fa. Il secondo miglior momento è ora.",
+        "French": "Le meilleur moment pour planter un arbre était il y a 20 ans. Le deuxième meilleur moment est maintenant.",
+        "Chinese": "种一棵树最好的时机是二十年前，其次是现在。",
+        "Japanese": "木を植えるのに最適な時期は20年前だった。次に最適なのは今だ。"
+      }
+    },
+    {
+      "id": "y5z6a7b8-c9d0-e1f2-g3h4-i5j6k7l8m9n",
+      "quote": "Your only limit is your soul.",
+      "used": 0,
+      "translations": {
+        "German": "Deine einzige Grenze ist deine Seele.",
+        "Spanish": "Tu único límite es tu alma.",
+        "Dutch": "Je enige grens is je ziel.",
+        "Turkish": "Tek sınırın ruhundur.",
+        "Italian": "Il tuo unico limite è la tua anima.",
+        "French": "Ta seule limite est ton âme.",
+        "Chinese": "你唯一的限制是你的灵魂。",
+        "Japanese": "あなたの唯一の限界はあなたの魂だ。"
+      }
+    },
+    {
+      "id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o",
+      "quote": "Don't be afraid to dream.",
+      "used": 0,
+      "translations": {
+        "German": "Hab keine Angst zu träumen.",
+        "Spanish": "No tengas miedo de soñar.",
+        "Dutch": "Wees niet bang om te dromen.",
+        "Turkish": "Hayal kurmaktan korkma.",
+        "Italian": "Non aver paura di sognare.",
+        "French": "N'aie pas peur de rêver.",
+        "Chinese": "不要害怕梦想。",
+        "Japanese": "夢を見ることを恐れないで。"
+      }
+    },
+    {
+      "id": "a7b8c9d0-e1f2-g3h4-i5j6-k7l8m9n0o1p",
+      "quote": "Be a voice, not an echo.",
+      "used": 0,
+      "translations": {
+        "German": "Sei eine Stimme, kein Echo.",
+        "Spanish": "Sé una voz, no un eco.",
+        "Dutch": "Wees een stem, geen echo.",
+        "Turkish": "Bir yankı değil, bir ses ol.",
+        "Italian": "Sii una voce, non un'eco.",
+        "French": "Sois une voix, pas un écho.",
+        "Chinese": "成为一个声音，而不是一个回声。",
+        "Japanese": "反響ではなく、声になろう。"
+      }
+    },
+    {
+      "id": "b8c9d0e1-f2g3-h4i5-j6k7-l8m9n0o1p2q",
+      "quote": "The best way to get started is to begin.",
+      "used": 0,
+      "translations": {
+        "German": "Der beste Weg, um anzufangen, ist anzufangen.",
+        "Spanish": "La mejor manera de empezar es empezar.",
+        "Dutch": "De beste manier om te beginnen is om te beginnen.",
+        "Turkish": "Başlamanın en iyi yolu başlamaktır.",
+        "Italian": "Il modo migliore per iniziare è iniziare.",
+        "French": "La meilleure façon de commencer est de commencer.",
+        "Chinese": "开始的最好方法就是开始。",
+        "Japanese": "始めるのに最適な方法は、始めることだ。"
+      }
+    },
+    {
+      "id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r",
+      "quote": "Do what you can, with what you have, where you are.",
+      "used": 0,
+      "translations": {
+        "German": "Tu, was du kannst, mit dem, was du hast, da wo du bist.",
+        "Spanish": "Haz lo que puedas, con lo que tienes, donde estés.",
+        "Dutch": "Doe wat je kunt, met wat je hebt, waar je bent.",
+        "Turkish": "Yapabildiğini, elindekilerle, olduğun yerde yap.",
+        "Italian": "Fai ciò che puoi, con ciò che hai, dove sei.",
+        "French": "Fais ce que tu peux, avec ce que tu as, là où tu es.",
+        "Chinese": "尽你所能，用你所有，在你所在之处。",
+        "Japanese": "できることを、持っているもので、いる場所でやろう。"
+      }
+    },
+    {
+      "id": "d0e1f2g3-h4i5-j6k7-l8m9-n0o1p2q3r4s",
+      "quote": "The best is yet to come.",
+      "used": 0,
+      "translations": {
+        "German": "Das Beste kommt noch.",
+        "Spanish": "Lo mejor está por venir.",
+        "Dutch": "Het beste moet nog komen.",
+        "Turkish": "En iyisi henüz gelmedi.",
+        "Italian": "Il meglio deve ancora venire.",
+        "French": "Le meilleur est encore à venir.",
+        "Chinese": "最好的还在后头。",
+        "Japanese": "最高のものはまだ来ていない。"
+      }
+    },
+    {
+      "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t",
+      "quote": "The simple things are the best.",
+      "used": 0,
+      "translations": {
+        "German": "Die einfachen Dinge sind die besten.",
+        "Spanish": "Las cosas simples son las mejores.",
+        "Dutch": "De simpele dingen zijn het beste.",
+        "Turkish": "Basit şeyler en iyisidir.",
+        "Italian": "Le cose semplici sono le migliori.",
+        "French": "Les choses simples sont les meilleures.",
+        "Chinese": "简单的事物是最好的。",
+        "Japanese": "シンプルなことが最高だ。"
+      }
+    },
+    {
+      "id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u",
+      "quote": "Every day is a new beginning.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist ein neuer Anfang.",
+        "Spanish": "Cada día es un nuevo comienzo.",
+        "Dutch": "Elke dag is een nieuw begin.",
+        "Turkish": "Her gün yeni bir başlangıçtır.",
+        "Italian": "Ogni giorno è un nuovo inizio.",
+        "French": "Chaque jour est un nouveau départ.",
+        "Chinese": "每一天都是一个新的开始。",
+        "Japanese": "毎日が新たな始まりだ。"
+      }
+    },
+    {
+      "id": "g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v",
+      "quote": "You are a work of art.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein Kunstwerk.",
+        "Spanish": "Eres una obra de arte.",
+        "Dutch": "Je bent een kunstwerk.",
+        "Turkish": "Sen bir sanat eserisin.",
+        "Italian": "Sei un'opera d'arte.",
+        "French": "Tu es une œuvre d'art.",
+        "Chinese": "你是一件艺术品。",
+        "Japanese": "あなたは芸術作品だ。"
+      }
+    },
+    {
+      "id": "h4i5j6k7-l8m9-n0o1-p2q3-r4s5t6u7v8w",
+      "quote": "Don't just exist, live.",
+      "used": 0,
+      "translations": {
+        "German": "Existier nicht nur, lebe.",
+        "Spanish": "No solo existas, vive.",
+        "Dutch": "Besta niet alleen, leef.",
+        "Turkish": "Sadece var olma, yaşa.",
+        "Italian": "Non solo esistere, vivi.",
+        "French": "N'existe pas seulement, vis.",
+        "Chinese": "不要只是存在，要去生活。",
+        "Japanese": "ただ存在するのではなく、生きよう。"
+      }
+    },
+    {
+      "id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x",
+      "quote": "What you think, you become.",
+      "used": 0,
+      "translations": {
+        "German": "Was du denkst, wirst du.",
+        "Spanish": "En lo que piensas, te conviertes.",
+        "Dutch": "Wat je denkt, word je.",
+        "Turkish": "Ne düşünüyorsan, o olursun.",
+        "Italian": "Ciò che pensi, diventi.",
+        "French": "Ce que tu penses, tu le deviens.",
+        "Chinese": "你想什么，你就会成为什么。",
+        "Japanese": "思考が現実になる。"
+      }
+    },
+    {
+      "id": "j6k7l8m9-n0o1-p2q3-r4s5-t6u7v8w9x0y",
+      "quote": "The best way to predict the future is to create it.",
+      "used": 0,
+      "translations": {
+        "German": "Der beste Weg, die Zukunft vorherzusagen, ist, sie zu erschaffen.",
+        "Spanish": "La mejor manera de predecir el futuro es creándolo.",
+        "Dutch": "De beste manier om de toekomst te voorspellen is door deze te creëren.",
+        "Turkish": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır.",
+        "Italian": "Il modo migliore per prevedere il futuro è crearlo.",
+        "French": "La meilleure façon de prédire l'avenir est de le créer.",
+        "Chinese": "预测未来的最好方法是创造它。",
+        "Japanese": "未来を予測する最良の方法は、それを創り出すことだ。"
+      }
+    },
+    {
+      "id": "k7l8m9n0-o1p2-q3r4-s5t6-u7v8w9x0y1z",
+      "quote": "Do more of what makes you happy.",
+      "used": 0,
+      "translations": {
+        "German": "Mach mehr von dem, was dich glücklich macht.",
+        "Spanish": "Haz más de lo que te hace feliz.",
+        "Dutch": "Doe meer van wat je gelukkig maakt.",
+        "Turkish": "Seni mutlu eden şeyleri daha çok yap.",
+        "Italian": "Fai di più ciò che ti rende felice.",
+        "French": "Fais plus de ce qui te rend heureux.",
+        "Chinese": "多做让你开心的事。",
+        "Japanese": "幸せにさせてくれることをもっとやろう。"
+      }
+    },
+    {
+      "id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a",
+      "quote": "Your feelings are valid.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Gefühle sind gültig.",
+        "Spanish": "Tus sentimientos son válidos.",
+        "Dutch": "Je gevoelens zijn geldig.",
+        "Turkish": "Hislerin geçerli.",
+        "Italian": "I tuoi sentimenti sono validi.",
+        "French": "Tes sentiments sont valables.",
+        "Chinese": "你的感受是有效的。",
+        "Japanese": "あなたの感情は有効だ。"
+      }
+    },
+    {
+      "id": "m9n0o1p2-q3r4-s5t6-u7v8-w9x0y1z2a3b",
+      "quote": "Be a good person and a good listener.",
+      "used": 0,
+      "translations": {
+        "German": "Sei ein guter Mensch und ein guter Zuhörer.",
+        "Spanish": "Sé una buena persona y un buen oyente.",
+        "Dutch": "Wees een goed mens en een goede luisteraar.",
+        "Turkish": "İyi bir insan ve iyi bir dinleyici ol.",
+        "Italian": "Sii una brava persona e un buon ascoltatore.",
+        "French": "Sois une bonne personne et un bon auditeur.",
+        "Chinese": "做一个好人，也是一个好的倾听者。",
+        "Japanese": "良い人であり、良い聞き手になろう。"
+      }
+    },
+    {
+      "id": "n0o1p2q3-r4s5-t6u7-v8w9-x0y1z2a3b4c",
+      "quote": "It's okay to not be okay.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist in Ordnung, nicht in Ordnung zu sein.",
+        "Spanish": "Está bien no estar bien.",
+        "Dutch": "Het is oké om je niet goed te voelen.",
+        "Turkish": "İyi olmamak sorun değil.",
+        "Italian": "Va bene non stare bene.",
+        "French": "C'est normal de ne pas aller bien.",
+        "Chinese": "感觉不好也没关系。",
+        "Japanese": "大丈夫じゃなくても大丈夫だ。"
+      }
+    },
+    {
+      "id": "o1p2q3r4-s5t6-u7v8-w9x0-y1z2a3b4c5d",
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "used": 0,
+      "translations": {
+        "German": "Die Zukunft gehört denen, die an die Schönheit ihrer Träume glauben.",
+        "Spanish": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "Dutch": "De toekomst behoort toe aan hen die geloven in de schoonheid van hun dromen.",
+        "Turkish": "Gelecek, hayallerinin güzelliğine inananlara aittir.",
+        "Italian": "Il futuro appartiene a coloro che credono nella bellezza dei propri sogni.",
+        "French": "L'avenir appartient à ceux qui croient en la beauté de leurs rêves.",
+        "Chinese": "未来属于那些相信自己梦想之美的人。",
+        "Japanese": "未来は、夢の美しさを信じる人たちのものだ。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o",
+      "quote": "You can do anything you set your mind to.",
+      "used": 0,
+      "translations": {
+        "German": "Du kannst alles tun, was du dir vornimmst.",
+        "Spanish": "Puedes hacer cualquier cosa que te propongas.",
+        "Dutch": "Je kunt alles doen wat je in je hoofd haalt.",
+        "Turkish": "Aklına koyduğun her şeyi yapabilirsin.",
+        "Italian": "Puoi fare qualsiasi cosa tu decida di fare.",
+        "French": "Tu peux faire tout ce que tu te mets en tête.",
+        "Chinese": "只要你下定决心，没有什么事是你做不到的。",
+        "Japanese": "やろうと決めたことなら、何でもできる。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o",
+      "quote": "Every day is a new beginning.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist ein neuer Anfang.",
+        "Spanish": "Cada día es un nuevo comienzo.",
+        "Dutch": "Elke dag is een nieuw begin.",
+        "Turkish": "Her gün yeni bir başlangıçtır.",
+        "Italian": "Ogni giorno è un nuovo inizio.",
+        "French": "Chaque jour est un nouveau départ.",
+        "Chinese": "每一天都是新的开始。",
+        "Japanese": "毎日が新たな始まりだ。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q",
+      "quote": "The world is full of good people.",
+      "used": 0,
+      "translations": {
+        "German": "Die Welt ist voller guter Menschen.",
+        "Spanish": "El mundo está lleno de gente buena.",
+        "Dutch": "De wereld is vol met goede mensen.",
+        "Turkish": "Dünya iyi insanlarla dolu.",
+        "Italian": "Il mondo è pieno di brave persone.",
+        "French": "Le monde est plein de bonnes personnes.",
+        "Chinese": "世界上充满了善良的人。",
+        "Japanese": "世界は良い人々でいっぱいだ。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r",
+      "quote": "Small steps are still progress.",
+      "used": 0,
+      "translations": {
+        "German": "Kleine Schritte sind immer noch Fortschritt.",
+        "Spanish": "Los pequeños pasos siguen siendo progreso.",
+        "Dutch": "Kleine stappen zijn nog steeds vooruitgang.",
+        "Turkish": "Küçük adımlar bile ilerlemedir.",
+        "Italian": "I piccoli passi sono ancora progressi.",
+        "French": "De petits pas sont toujours des progrès.",
+        "Chinese": "小步子仍然是进步。",
+        "Japanese": "小さな一歩でも進歩だ。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e",
+      "quote": "Be the best you can be.",
+      "used": 0,
+      "translations": {
+        "German": "Sei das Beste, was du sein kannst.",
+        "Spanish": "Sé lo mejor que puedas ser.",
+        "Dutch": "Wees de beste die je kunt zijn.",
+        "Turkish": "Olabileceğin en iyisi ol.",
+        "Italian": "Sii il meglio che puoi essere.",
+        "French": "Sois le meilleur que tu puisses être.",
+        "Chinese": "成为你能做到的最好的自己。",
+        "Japanese": "最高の自分になろう。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o",
+      "quote": "Your voice matters.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Stimme zählt.",
+        "Spanish": "Tu voz importa.",
+        "Dutch": "Jouw stem telt.",
+        "Turkish": "Sesin önemlidir.",
+        "Italian": "La tua voce conta.",
+        "French": "Ta voix est importante.",
+        "Chinese": "你的声音很重要。",
+        "Japanese": "あなたの声は重要だ。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o",
+      "quote": "Happiness is a journey, not a destination.",
+      "used": 0,
+      "translations": {
+        "German": "Glück ist eine Reise, kein Ziel.",
+        "Spanish": "La felicidad es un viaje, no un destino.",
+        "Dutch": "Geluk is een reis, geen bestemming.",
+        "Turkish": "Mutluluk bir yolculuktur, bir varış noktası değil.",
+        "Italian": "La felicità è un viaggio, non una destinazione.",
+        "French": "Le bonheur est un voyage, pas une destination.",
+        "Chinese": "幸福是一段旅程，而不是一个目的地。",
+        "Japanese": "幸せは目的地ではなく、旅だ。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o",
+      "quote": "The sun will shine again.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne wird wieder scheinen.",
+        "Spanish": "El sol volverá a brillar.",
+        "Dutch": "De zon zal weer schijnen.",
+        "Turkish": "Güneş tekrar parlayacak.",
+        "Italian": "Il sole splenderà di nuovo.",
+        "French": "Le soleil brillera à nouveau.",
+        "Chinese": "太阳会再次闪耀。",
+        "Japanese": "太陽は再び輝く。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q",
+      "quote": "Give every day a chance to be great.",
+      "used": 0,
+      "translations": {
+        "German": "Gib jedem Tag die Chance, großartig zu sein.",
+        "Spanish": "Dale a cada día la oportunidad de ser grandioso.",
+        "Dutch": "Geef elke dag een kans om geweldig te zijn.",
+        "Turkish": "Her güne harika olma şansı ver.",
+        "Italian": "Dai a ogni giorno la possibilità di essere grande.",
+        "French": "Donne à chaque jour la chance d'être génial.",
+        "Chinese": "给每一天一个机会，让它变得伟大。",
+        "Japanese": "毎日が素晴らしい日になるチャンスを与えよう。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r",
+      "quote": "Be the reason someone smiles today.",
+      "used": 0,
+      "translations": {
+        "German": "Sei heute der Grund, warum jemand lächelt.",
+        "Spanish": "Sé la razón por la que alguien sonríe hoy.",
+        "Dutch": "Wees de reden waarom iemand vandaag lacht.",
+        "Turkish": "Bugün birinin gülümsemesinin nedeni ol.",
+        "Italian": "Sii la ragione per cui qualcuno sorride oggi.",
+        "French": "Sois la raison pour laquelle quelqu'un sourit aujourd'hui.",
+        "Chinese": "成为某人今天微笑的原因。",
+        "Japanese": "今日、誰かが笑顔になる理由になって。"
+      }
+    },
+    {
+      "id": "o4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-2",
+      "quote": "You are a star in the sky.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein Stern am Himmel.",
+        "Spanish": "Eres una estrella en el cielo.",
+        "Dutch": "Je bent een ster aan de hemel.",
+        "Turkish": "Sen gökyüzündeki bir yıldızsın.",
+        "Italian": "Sei una stella nel cielo.",
+        "French": "Tu es une étoile dans le ciel.",
+        "Chinese": "你是天空中的一颗星。",
+        "Japanese": "あなたは空の星だ。"
+      }
+    },
+    {
+      "id": "p1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-2",
+      "quote": "Today is a good day to learn.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist ein guter Tag zum Lernen.",
+        "Spanish": "Hoy es un buen día para aprender.",
+        "Dutch": "Vandaag is een goede dag om te leren.",
+        "Turkish": "Bugün öğrenmek için iyi bir gün.",
+        "Italian": "Oggi è un buon giorno per imparare.",
+        "French": "Aujourd'hui est un bon jour pour apprendre.",
+        "Chinese": "今天是学习的好日子。",
+        "Japanese": "今日は学ぶのに良い日だ。"
+      }
+    },
+    {
+      "id": "q7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-2",
+      "quote": "The only way to fail is to stop trying.",
+      "used": 0,
+      "translations": {
+        "German": "Der einzige Weg zu scheitern, ist aufzuhören, es zu versuchen.",
+        "Spanish": "La única forma de fracasar es dejar de intentarlo.",
+        "Dutch": "De enige manier om te falen is om te stoppen met proberen.",
+        "Turkish": "Başarısız olmanın tek yolu denemeyi bırakmaktır.",
+        "Italian": "L'unico modo per fallire è smettere di provarci.",
+        "French": "La seule façon d'échouer est d'arrêter d'essayer.",
+        "Chinese": "失败的唯一方法是停止尝试。",
+        "Japanese": "失敗する唯一の方法は、挑戦をやめることだ。"
+      }
+    },
+    {
+      "id": "r8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-2",
+      "quote": "You are stronger than you think.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist stärker, als du denkst.",
+        "Spanish": "Eres más fuerte de lo que crees.",
+        "Dutch": "Je bent sterker dan je denkt.",
+        "Turkish": "Sandığından daha güçlüsün.",
+        "Italian": "Sei più forte di quanto pensi.",
+        "French": "Tu es plus fort que tu ne le penses.",
+        "Chinese": "你比你想象的更强大。",
+        "Japanese": "あなたはあなたが思うより強い。"
+      }
+    },
+    {
+      "id": "s4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-3",
+      "quote": "A little kindness goes a long way.",
+      "used": 0,
+      "translations": {
+        "German": "Ein bisschen Freundlichkeit kommt weit.",
+        "Spanish": "Un poco de amabilidad ayuda mucho.",
+        "Dutch": "Een beetje vriendelijkheid komt ver.",
+        "Turkish": "Küçük bir iyilik çok şey ifade eder.",
+        "Italian": "Un po' di gentilezza fa molta strada.",
+        "French": "Un peu de gentillesse va loin.",
+        "Chinese": "一点善意能走很远。",
+        "Japanese": "少しの親切が大きな力になる。"
+      }
+    },
+    {
+      "id": "t2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-2",
+      "quote": "Life is a great adventure.",
+      "used": 0,
+      "translations": {
+        "German": "Das Leben ist ein großes Abenteuer.",
+        "Spanish": "La vida es una gran aventura.",
+        "Dutch": "Het leven is een groot avontuur.",
+        "Turkish": "Hayat harika bir maceradır.",
+        "Italian": "La vita è una grande avventura.",
+        "French": "La vie est une grande aventure.",
+        "Chinese": "生活是一场伟大的冒险。",
+        "Japanese": "人生は壮大な冒険だ。"
+      }
+    },
+    {
+      "id": "u1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-2",
+      "quote": "Look for the good in every day.",
+      "used": 0,
+      "translations": {
+        "German": "Suche das Gute in jedem Tag.",
+        "Spanish": "Busca lo bueno en cada día.",
+        "Dutch": "Zoek het goede in elke dag.",
+        "Turkish": "Her günün içindeki iyiliği ara.",
+        "Italian": "Cerca il bello in ogni giorno.",
+        "French": "Cherche le bon côté de chaque jour.",
+        "Chinese": "寻找每一天的好处。",
+        "Japanese": "毎日の中に良いことを見つけよう。"
+      }
+    },
+    {
+      "id": "v2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-2",
+      "quote": "Don't be afraid to be different.",
+      "used": 0,
+      "translations": {
+        "German": "Hab keine Angst, anders zu sein.",
+        "Spanish": "No tengas miedo de ser diferente.",
+        "Dutch": "Wees niet bang om anders te zijn.",
+        "Turkish": "Farklı olmaktan korkma.",
+        "Italian": "Non aver paura di essere diverso.",
+        "French": "N'aie pas peur d'être différent.",
+        "Chinese": "不要害怕与众不同。",
+        "Japanese": "違うことを恐れないで。"
+      }
+    },
+    {
+      "id": "w3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-2",
+      "quote": "The future is bright and full of hope.",
+      "used": 0,
+      "translations": {
+        "German": "Die Zukunft ist hell und voller Hoffnung.",
+        "Spanish": "El futuro es brillante y lleno de esperanza.",
+        "Dutch": "De toekomst is helder en vol hoop.",
+        "Turkish": "Gelecek parlak ve umut dolu.",
+        "Italian": "Il futuro è luminoso e pieno di speranza.",
+        "French": "L'avenir est brillant et plein d'espoir.",
+        "Chinese": "未来是光明的，充满希望。",
+        "Japanese": "未来は明るく希望に満ちている。"
+      }
+    },
+    {
+      "id": "x1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-2",
+      "quote": "Believe in yourself and your dreams.",
+      "used": 0,
+      "translations": {
+        "German": "Glaube an dich selbst und deine Träume.",
+        "Spanish": "Cree en ti mismo y en tus sueños.",
+        "Dutch": "Geloof in jezelf en je dromen.",
+        "Turkish": "Kendine ve hayallerine inan.",
+        "Italian": "Credi in te stesso e nei tuoi sogni.",
+        "French": "Crois en toi et en tes rêves.",
+        "Chinese": "相信自己和你的梦想。",
+        "Japanese": "自分と自分の夢を信じて。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o-2",
+      "quote": "You are capable of great things.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist zu Großem fähig.",
+        "Spanish": "Eres capaz de grandes cosas.",
+        "Dutch": "Je bent in staat tot grote dingen.",
+        "Turkish": "Büyük şeyler yapmaya yeteneklisin.",
+        "Italian": "Sei capace di grandi cose.",
+        "French": "Tu es capable de grandes choses.",
+        "Chinese": "你能够成就伟大的事情。",
+        "Japanese": "あなたは素晴らしいことができる。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-3",
+      "quote": "The journey is the reward.",
+      "used": 0,
+      "translations": {
+        "German": "Die Reise ist die Belohnung.",
+        "Spanish": "El viaje es la recompensa.",
+        "Dutch": "De reis is de beloning.",
+        "Turkish": "Yolculuk, ödülün kendisidir.",
+        "Italian": "Il viaggio è la ricompensa.",
+        "French": "Le voyage est la récompense.",
+        "Chinese": "旅程就是奖励。",
+        "Japanese": "旅こそが報酬だ。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-3",
+      "quote": "It's okay to not know everything.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist in Ordnung, nicht alles zu wissen.",
+        "Spanish": "Está bien no saberlo todo.",
+        "Dutch": "Het is oké om niet alles te weten.",
+        "Turkish": "Her şeyi bilmemek sorun değil.",
+        "Italian": "Va bene non sapere tutto.",
+        "French": "C'est normal de ne pas tout savoir.",
+        "Chinese": "不知道所有事情也没关系。",
+        "Japanese": "すべてを知らなくても大丈夫だ。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-3",
+      "quote": "Stay positive and keep smiling.",
+      "used": 0,
+      "translations": {
+        "German": "Bleib positiv und lächle weiter.",
+        "Spanish": "Mantente positivo y sigue sonriendo.",
+        "Dutch": "Blijf positief en blijf glimlachen.",
+        "Turkish": "Pozitif kal ve gülümsemeye devam et.",
+        "Italian": "Rimani positivo e continua a sorridere.",
+        "French": "Reste positif et continue de sourire.",
+        "Chinese": "保持积极，继续微笑。",
+        "Japanese": "ポジティブでいて、笑顔を保とう。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-4",
+      "quote": "You are doing great.",
+      "used": 0,
+      "translations": {
+        "German": "Du machst das großartig.",
+        "Spanish": "Lo estás haciendo genial.",
+        "Dutch": "Je doet het geweldig.",
+        "Turkish": "Harika gidiyorsun.",
+        "Italian": "Stai andando alla grande.",
+        "French": "Tu te débrouilles très bien.",
+        "Chinese": "你做得很好。",
+        "Japanese": "あなたは素晴らしい。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-3",
+      "quote": "The secret of getting ahead is getting started.",
+      "used": 0,
+      "translations": {
+        "German": "Das Geheimnis, voranzukommen, ist anzufangen.",
+        "Spanish": "El secreto para avanzar es empezar.",
+        "Dutch": "Het geheim om vooruit te komen is om te beginnen.",
+        "Turkish": "İlerlemek için sır, başlamaktır.",
+        "Italian": "Il segreto per andare avanti è iniziare.",
+        "French": "Le secret pour avancer est de commencer.",
+        "Chinese": "进步的秘诀是开始。",
+        "Japanese": "前に進む秘訣は、始めることだ。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-3",
+      "quote": "The best way to get things done is to begin.",
+      "used": 0,
+      "translations": {
+        "German": "Der beste Weg, Dinge zu erledigen, ist anzufangen.",
+        "Spanish": "La mejor manera de hacer las cosas es empezar.",
+        "Dutch": "De beste manier om dingen gedaan te krijgen, is om te beginnen.",
+        "Turkish": "İşleri halletmenin en iyi yolu başlamaktır.",
+        "Italian": "Il modo migliore per fare le cose è iniziare.",
+        "French": "La meilleure façon de faire les choses est de commencer.",
+        "Chinese": "完成事情的最好方法就是开始。",
+        "Japanese": "物事を成し遂げる最良の方法は、始めることだ。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-3",
+      "quote": "Change is the only constant.",
+      "used": 0,
+      "translations": {
+        "German": "Veränderung ist die einzige Konstante.",
+        "Spanish": "El cambio es la única constante.",
+        "Dutch": "Verandering is de enige constante.",
+        "Turkish": "Değişim tek sabittir.",
+        "Italian": "Il cambiamento è l'unica costante.",
+        "French": "Le changement est la seule constante.",
+        "Chinese": "变化是唯一的永恒。",
+        "Japanese": "変化だけが唯一の不変だ。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-3",
+      "quote": "It is a beautiful day to be alive.",
+      "used": 0,
+      "translations": {
+        "German": "Es ist ein wunderschöner Tag, um am Leben zu sein.",
+        "Spanish": "Es un día hermoso para estar vivo.",
+        "Dutch": "Het is een mooie dag om te leven.",
+        "Turkish": "Yaşamak için güzel bir gün.",
+        "Italian": "È una bella giornata per essere vivi.",
+        "French": "C'est une belle journée pour être en vie.",
+        "Chinese": "活着真好，今天是美好的一天。",
+        "Japanese": "生きているって素晴らしい日だ。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-3",
+      "quote": "The simple things are the most extraordinary.",
+      "used": 0,
+      "translations": {
+        "German": "Die einfachen Dinge sind die außergewöhnlichsten.",
+        "Spanish": "Las cosas simples son las más extraordinarias.",
+        "Dutch": "De simpele dingen zijn het meest buitengewoon.",
+        "Turkish": "Basit şeyler en olağanüstü olanlardır.",
+        "Italian": "Le cose semplici sono le più straordinarie.",
+        "French": "Les choses simples sont les plus extraordinaires.",
+        "Chinese": "简单的事物是最非凡的。",
+        "Japanese": "シンプルなことが最も非凡だ。"
+      }
+    },
+    {
+      "id": "o4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-4",
+      "quote": "Your imagination is your power.",
+      "used": 0,
+      "translations": {
+        "German": "Deine Vorstellungskraft ist deine Kraft.",
+        "Spanish": "Tu imaginación es tu poder.",
+        "Dutch": "Je verbeelding is je kracht.",
+        "Turkish": "Hayal gücün senin gücündür.",
+        "Italian": "La tua immaginazione è il tuo potere.",
+        "French": "Ton imagination est ton pouvoir.",
+        "Chinese": "你的想象力就是你的力量。",
+        "Japanese": "あなたの想像力があなたの力だ。"
+      }
+    },
+    {
+      "id": "p1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-4",
+      "quote": "A positive mind can find a way.",
+      "used": 0,
+      "translations": {
+        "German": "Ein positiver Geist kann einen Weg finden.",
+        "Spanish": "Una mente positiva puede encontrar un camino.",
+        "Dutch": "Een positieve geest kan een weg vinden.",
+        "Turkish": "Pozitif bir zihin bir yol bulabilir.",
+        "Italian": "Una mente positiva può trovare un modo.",
+        "French": "Un esprit positif peut trouver un chemin.",
+        "Chinese": "积极的心态可以找到出路。",
+        "Japanese": "ポジティブな心は道を見つけることができる。"
+      }
+    },
+    {
+      "id": "q7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-4",
+      "quote": "You are the author of your own story.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist der Autor deiner eigenen Geschichte.",
+        "Spanish": "Eres el autor de tu propia historia.",
+        "Dutch": "Jij bent de auteur van je eigen verhaal.",
+        "Turkish": "Kendi hikayenin yazarı sensin.",
+        "Italian": "Sei l'autore della tua storia.",
+        "French": "Tu es l'auteur de ta propre histoire.",
+        "Chinese": "你是自己故事的作者。",
+        "Japanese": "あなたはあなた自身の物語の著者だ。"
+      }
+    },
+    {
+      "id": "r8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-4",
+      "quote": "Small progress is still progress.",
+      "used": 0,
+      "translations": {
+        "German": "Kleiner Fortschritt ist immer noch Fortschritt.",
+        "Spanish": "El pequeño progreso sigue siendo progreso.",
+        "Dutch": "Kleine vooruitgang is nog steeds vooruitgang.",
+        "Turkish": "Küçük ilerleme hala ilerlemedir.",
+        "Italian": "Un piccolo progresso è ancora progresso.",
+        "French": "Un petit progrès est toujours un progrès.",
+        "Chinese": "小小的进步仍然是进步。",
+        "Japanese": "小さな進歩もやはり進歩だ。"
+      }
+    },
+    {
+      "id": "s4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-5",
+      "quote": "Look for the good in others.",
+      "used": 0,
+      "translations": {
+        "German": "Suche das Gute in anderen.",
+        "Spanish": "Busca lo bueno en los demás.",
+        "Dutch": "Zoek het goede in anderen.",
+        "Turkish": "Başkalarında iyiliği ara.",
+        "Italian": "Cerca il buono negli altri.",
+        "French": "Cherche le bien chez les autres.",
+        "Chinese": "寻找他人的优点。",
+        "Japanese": "他の人の中にある良い点を探そう。"
+      }
+    },
+    {
+      "id": "t2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-4",
+      "quote": "Be happy with what you have.",
+      "used": 0,
+      "translations": {
+        "German": "Sei glücklich mit dem, was du hast.",
+        "Spanish": "Sé feliz con lo que tienes.",
+        "Dutch": "Wees blij met wat je hebt.",
+        "Turkish": "Sahip olduğunla mutlu ol.",
+        "Italian": "Sii felice con ciò che hai.",
+        "French": "Sois heureux avec ce que tu as.",
+        "Chinese": "满足于你所拥有的。",
+        "Japanese": "持っているものに幸せを感じて。"
+      }
+    },
+    {
+      "id": "u1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-4",
+      "quote": "The sky is not the limit.",
+      "used": 0,
+      "translations": {
+        "German": "Der Himmel ist nicht die Grenze.",
+        "Spanish": "El cielo no es el límite.",
+        "Dutch": "De lucht is niet de limiet.",
+        "Turkish": "Gökyüzü sınır değildir.",
+        "Italian": "Il cielo non è il limite.",
+        "French": "Le ciel n'est pas la limite.",
+        "Chinese": "天空不是极限。",
+        "Japanese": "空が限界ではない。"
+      }
+    },
+    {
+      "id": "v2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-4",
+      "quote": "Your effort is enough.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Einsatz ist genug.",
+        "Spanish": "Tu esfuerzo es suficiente.",
+        "Dutch": "Je inspanning is genoeg.",
+        "Turkish": "Çaban yeterli.",
+        "Italian": "Il tuo sforzo è abbastanza.",
+        "French": "Ton effort est suffisant.",
+        "Chinese": "你的努力就足够了。",
+        "Japanese": "あなたの努力は十分だ。"
+      }
+    },
+    {
+      "id": "w3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-4",
+      "quote": "The secret of life is to be happy.",
+      "used": 0,
+      "translations": {
+        "German": "Das Geheimnis des Lebens ist, glücklich zu sein.",
+        "Spanish": "El secreto de la vida es ser feliz.",
+        "Dutch": "Het geheim van het leven is om gelukkig te zijn.",
+        "Turkish": "Hayatın sırrı mutlu olmaktır.",
+        "Italian": "Il segreto della vita è essere felici.",
+        "French": "Le secret de la vie est d'être heureux.",
+        "Chinese": "生活的秘诀是快乐。",
+        "Japanese": "人生の秘訣は幸せであることだ。"
+      }
+    },
+    {
+      "id": "x1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-4",
+      "quote": "Be the person you want to be.",
+      "used": 0,
+      "translations": {
+        "German": "Sei die Person, die du sein möchtest.",
+        "Spanish": "Sé la persona que quieres ser.",
+        "Dutch": "Wees de persoon die je wilt zijn.",
+        "Turkish": "Olmak istediğin kişi ol.",
+        "Italian": "Sii la persona che vuoi essere.",
+        "French": "Sois la personne que tu veux être.",
+        "Chinese": "成为你想成为的那个人。",
+        "Japanese": "なりたい自分になろう。"
+      }
+    },
+    {
+      "id": "e9b2c8d5-e6f7-g1h3-i4j0-k5l6m7n8o-3",
+      "quote": "Every mistake is a lesson.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Fehler ist eine Lektion.",
+        "Spanish": "Cada error es una lección.",
+        "Dutch": "Elke fout is een les.",
+        "Turkish": "Her hata bir derstir.",
+        "Italian": "Ogni errore è una lezione.",
+        "French": "Chaque erreur est une leçon.",
+        "Chinese": "每一个错误都是一堂课。",
+        "Japanese": "すべての間違いは教訓だ。"
+      }
+    },
+    {
+      "id": "f1c0a3d4-e5f6-5g8h-6i9j-7k1l2m3n4o-5",
+      "quote": "You are a wonderful person.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein wunderbarer Mensch.",
+        "Spanish": "Eres una persona maravillosa.",
+        "Dutch": "Je bent een prachtig persoon.",
+        "Turkish": "Sen harika bir insansın.",
+        "Italian": "Sei una persona meravigliosa.",
+        "French": "Tu es une personne merveilleuse.",
+        "Chinese": "你是一个很棒的人。",
+        "Japanese": "あなたは素晴らしい人だ。"
+      }
+    },
+    {
+      "id": "g7d9e1f3-2g4h-6i8j-0k2l-4m6n8o0p2q-5",
+      "quote": "Never give up on your dreams.",
+      "used": 0,
+      "translations": {
+        "German": "Gib deine Träume niemals auf.",
+        "Spanish": "Nunca te rindas en tus sueños.",
+        "Dutch": "Geef je dromen nooit op.",
+        "Turkish": "Hayallerinden asla vazgeçme.",
+        "Italian": "Non rinunciare mai ai tuoi sogni.",
+        "French": "N'abandonne jamais tes rêves.",
+        "Chinese": "永远不要放弃你的梦想。",
+        "Japanese": "夢を諦めないで。"
+      }
+    },
+    {
+      "id": "h8e0f2g4-6h7i-9j1k-3l5m-7n9o1p3q5r-5",
+      "quote": "The world needs your smile.",
+      "used": 0,
+      "translations": {
+        "German": "Die Welt braucht dein Lächeln.",
+        "Spanish": "El mundo necesita tu sonrisa.",
+        "Dutch": "De wereld heeft jouw glimlach nodig.",
+        "Turkish": "Dünyanın senin gülümsemene ihtiyacı var.",
+        "Italian": "Il mondo ha bisogno del tuo sorriso.",
+        "French": "Le monde a besoin de ton sourire.",
+        "Chinese": "世界需要你的微笑。",
+        "Japanese": "世界はあなたの笑顔を必要としている。"
+      }
+    },
+    {
+      "id": "i4f8d2b9-1c7a-3f5e-a4e9-1c9f4d7b2a6e-6",
+      "quote": "A new day brings new strength.",
+      "used": 0,
+      "translations": {
+        "German": "Ein neuer Tag bringt neue Kraft.",
+        "Spanish": "Un nuevo día trae nueva fuerza.",
+        "Dutch": "Een nieuwe dag brengt nieuwe kracht.",
+        "Turkish": "Yeni bir gün yeni bir güç getirir.",
+        "Italian": "Un nuovo giorno porta nuova forza.",
+        "French": "Un nouveau jour apporte une nouvelle force.",
+        "Chinese": "新的一天带来新的力量。",
+        "Japanese": "新しい日は新たな強さをもたらす。"
+      }
+    },
+    {
+      "id": "j2e1d4c3-b5a6-8g7h-9i0j-1k2l3m4n5o-5",
+      "quote": "You are the light of your world.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist das Licht deiner Welt.",
+        "Spanish": "Eres la luz de tu mundo.",
+        "Dutch": "Jij bent het licht van je wereld.",
+        "Turkish": "Sen kendi dünyasının ışığısın.",
+        "Italian": "Sei la luce del tuo mondo.",
+        "French": "Tu es la lumière de ton monde.",
+        "Chinese": "你是你世界的光。",
+        "Japanese": "あなたはあなたの世界の光だ。"
+      }
+    },
+    {
+      "id": "k1b4c3d7-e8f1-4g9h-5i2j-7k6l3m5n0o-5",
+      "quote": "Listen more, talk less.",
+      "used": 0,
+      "translations": {
+        "German": "Höre mehr zu, sprich weniger.",
+        "Spanish": "Escucha más, habla menos.",
+        "Dutch": "Luister meer, praat minder.",
+        "Turkish": "Daha çok dinle, daha az konuş.",
+        "Italian": "Ascolta di più, parla di meno.",
+        "French": "Écoute plus, parle moins.",
+        "Chinese": "多听，少说。",
+        "Japanese": "多くを聞き、少なく話そう。"
+      }
+    },
+    {
+      "id": "l2a4c6d8-e1f3-5g7h-9i0j-2k4l6m8n0o-5",
+      "quote": "A good plan today is better than a perfect plan tomorrow.",
+      "used": 0,
+      "translations": {
+        "German": "Ein guter Plan heute ist besser als ein perfekter Plan morgen.",
+        "Spanish": "Un buen plan hoy es mejor que un plan perfecto mañana.",
+        "Dutch": "Een goed plan vandaag is beter dan een perfect plan morgen.",
+        "Turkish": "Bugünün iyi bir planı, yarının mükemmel bir planından daha iyidir.",
+        "Italian": "Un buon piano oggi è meglio di un piano perfetto domani.",
+        "French": "Un bon plan aujourd'hui est meilleur qu'un plan parfait demain.",
+        "Chinese": "今天的好计划胜过明天的完美计划。",
+        "Japanese": "今日の良い計画は、明日の完璧な計画より優れている。"
+      }
+    },
+    {
+      "id": "m3d5e7f9-g1h2-i4j6-k8l0-m1n3o5p7q-5",
+      "quote": "The greatest gift you can give is your time.",
+      "used": 0,
+      "translations": {
+        "German": "Das größte Geschenk, das du geben kannst, ist deine Zeit.",
+        "Spanish": "El mejor regalo que puedes dar es tu tiempo.",
+        "Dutch": "Het grootste geschenk dat je kunt geven is je tijd.",
+        "Turkish": "Verebileceğin en büyük hediye zamanındır.",
+        "Italian": "Il regalo più grande che puoi fare è il tuo tempo.",
+        "French": "Le plus grand cadeau que tu puisses faire est ton temps.",
+        "Chinese": "你能给予的最大礼物是你的时间。",
+        "Japanese": "あなたが与えられる最大の贈り物はあなたの時間だ。"
+      }
+    },
+    {
+      "id": "n1e2f3g4-h5i6-j7k8-l9m0-n1o2p3q4r-5",
+      "quote": "Choose kindness and spread it around.",
+      "used": 0,
+      "translations": {
+        "German": "Wähle Freundlichkeit und verbreite sie.",
+        "Spanish": "Elige la amabilidad y difúndela.",
+        "Dutch": "Kies voor vriendelijkheid en verspreid het.",
+        "Turkish": "Nezaketi seç ve etrafına yay.",
+        "Italian": "Scegli la gentilezza e diffondila.",
+        "French": "Choisis la gentillesse et diffuse-la autour de toi.",
+        "Chinese": "选择善良并传播它。",
+        "Japanese": "親切を選び、それを広めよう。"
+      }
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7890-a1b2-c3d4e5f6g7h8",
+      "quote": "You are a gift.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist ein Geschenk.",
+        "Spanish": "Eres un regalo.",
+        "Dutch": "Je bent een geschenk.",
+        "Turkish": "Sen bir hediyesin.",
+        "Italian": "Sei un dono.",
+        "French": "Tu es un cadeau.",
+        "Chinese": "你是一份礼物。",
+        "Japanese": "あなたは贈り物だ。"
+      }
+    },
+    {
+      "id": "2b3c4d5e-6f78-90a1-b2c3-d4e5f6g7h8i9",
+      "quote": "The world is a book.",
+      "used": 0,
+      "translations": {
+        "German": "Die Welt ist ein Buch.",
+        "Spanish": "El mundo es un libro.",
+        "Dutch": "De wereld is een boek.",
+        "Turkish": "Dünya bir kitaptır.",
+        "Italian": "Il mondo è un libro.",
+        "French": "Le monde est un livre.",
+        "Chinese": "世界是一本书。",
+        "Japanese": "世界は一冊の本だ。"
+      }
+    },
+    {
+      "id": "3c4d5e6f-7890-a1b2-c3d4-e5f6g7h8i9j0",
+      "quote": "Find joy in your work.",
+      "used": 0,
+      "translations": {
+        "German": "Finde Freude an deiner Arbeit.",
+        "Spanish": "Encuentra alegría en tu trabajo.",
+        "Dutch": "Vind vreugde in je werk.",
+        "Turkish": "İşinde neşe bul.",
+        "Italian": "Trova gioia nel tuo lavoro.",
+        "French": "Trouve la joie dans ton travail.",
+        "Chinese": "在工作中寻找快乐。",
+        "Japanese": "仕事に喜びを見つけて。"
+      }
+    },
+    {
+      "id": "4d5e6f78-90a1-b2c3-d4e5-f6g7h8i9j0k1",
+      "quote": "You are the best you.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist der beste du.",
+        "Spanish": "Eres la mejor versión de ti mismo.",
+        "Dutch": "Je bent de beste jij.",
+        "Turkish": "Sen en iyi sensin.",
+        "Italian": "Sei il miglior te stesso.",
+        "French": "Tu es la meilleure version de toi-même.",
+        "Chinese": "你是最好的你。",
+        "Japanese": "あなたは最高のあなただ。"
+      }
+    },
+    {
+      "id": "5e6f7890-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+      "quote": "Listen to your feelings.",
+      "used": 0,
+      "translations": {
+        "German": "Höre auf deine Gefühle.",
+        "Spanish": "Escucha tus sentimientos.",
+        "Dutch": "Luister naar je gevoelens.",
+        "Turkish": "Hislerini dinle.",
+        "Italian": "Ascolta i tuoi sentimenti.",
+        "French": "Écoute tes sentiments.",
+        "Chinese": "倾听你的感受。",
+        "Japanese": "自分の感情に耳を傾けて。"
+      }
+    },
+    {
+      "id": "6f7890a1-b2c3-d4e5-f6g7-h8i9j0k1l2m3",
+      "quote": "Today is for you.",
+      "used": 0,
+      "translations": {
+        "German": "Heute ist für dich.",
+        "Spanish": "Hoy es para ti.",
+        "Dutch": "Vandaag is voor jou.",
+        "Turkish": "Bugün senin için.",
+        "Italian": "Oggi è per te.",
+        "French": "Aujourd'hui est pour toi.",
+        "Chinese": "今天是属于你的。",
+        "Japanese": "今日はあなたのためにある。"
+      }
+    },
+    {
+      "id": "7890a1b2-c3d4-e5f6-g7h8-i9j0k1l2m3n4",
+      "quote": "Be kind to animals.",
+      "used": 0,
+      "translations": {
+        "German": "Sei freundlich zu Tieren.",
+        "Spanish": "Sé amable con los animales.",
+        "Dutch": "Wees lief voor dieren.",
+        "Turkish": "Hayvanlara karşı nazik ol.",
+        "Italian": "Sii gentile con gli animali.",
+        "French": "Sois gentil avec les animaux.",
+        "Chinese": "善待动物。",
+        "Japanese": "動物に親切に。"
+      }
+    },
+    {
+      "id": "890a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+      "quote": "A smile can change a day.",
+      "used": 0,
+      "translations": {
+        "German": "Ein Lächeln kann einen Tag verändern.",
+        "Spanish": "Una sonrisa puede cambiar un día.",
+        "Dutch": "Een glimlach kan een dag veranderen.",
+        "Turkish": "Bir gülümseme bir günü değiştirebilir.",
+        "Italian": "Un sorriso può cambiare una giornata.",
+        "French": "Un sourire peut changer une journée.",
+        "Chinese": "一个微笑可以改变一天。",
+        "Japanese": "一つの笑顔が一日を変えることができる。"
+      }
+    },
+    {
+      "id": "90a1b2c3-d4e5-f6g7-h8i9-j0k1l2m3n4o5",
+      "quote": "The best is yet to come.",
+      "used": 0,
+      "translations": {
+        "German": "Das Beste kommt noch.",
+        "Spanish": "Lo mejor está por venir.",
+        "Dutch": "Het beste moet nog komen.",
+        "Turkish": "En iyisi henüz gelmedi.",
+        "Italian": "Il meglio deve ancora venire.",
+        "French": "Le meilleur est encore à venir.",
+        "Chinese": "最好的还在后头。",
+        "Japanese": "最高のものはまだ来ていない。"
+      }
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p",
+      "quote": "Your life is a story.",
+      "used": 0,
+      "translations": {
+        "German": "Dein Leben ist eine Geschichte.",
+        "Spanish": "Tu vida es una historia.",
+        "Dutch": "Je leven is een verhaal.",
+        "Turkish": "Hayatın bir hikayedir.",
+        "Italian": "La tua vita è una storia.",
+        "French": "Ta vie est une histoire.",
+        "Chinese": "你的人生是一个故事。",
+        "Japanese": "あなたの人生は物語だ。"
+      }
+    },
+    {
+      "id": "b2c3d4e5-f678-90a1-b2c3-d4e5f6g7h8i",
+      "quote": "Do not stop trying.",
+      "used": 0,
+      "translations": {
+        "German": "Hör nicht auf, es zu versuchen.",
+        "Spanish": "No dejes de intentarlo.",
+        "Dutch": "Stop niet met proberen.",
+        "Turkish": "Denemeyi bırakma.",
+        "Italian": "Non smettere di provare.",
+        "French": "N'arrête pas d'essayer.",
+        "Chinese": "不要停止尝试。",
+        "Japanese": "挑戦をやめないで。"
+      }
+    },
+    {
+      "id": "c3d4e5f6-7890-a1b2-c3d4-e5f6g7h8i9j",
+      "quote": "The sun is always there.",
+      "used": 0,
+      "translations": {
+        "German": "Die Sonne ist immer da.",
+        "Spanish": "El sol siempre está ahí.",
+        "Dutch": "De zon is er altijd.",
+        "Turkish": "Güneş her zaman oradadır.",
+        "Italian": "Il sole è sempre lì.",
+        "French": "Le soleil est toujours là.",
+        "Chinese": "太阳总是在那里。",
+        "Japanese": "太陽はいつもそこにある。"
+      }
+    },
+    {
+      "id": "d4e5f6g7-890a-1b2c-3d4e-5f6g7h8i9j0",
+      "quote": "Be good to others.",
+      "used": 0,
+      "translations": {
+        "German": "Sei gut zu anderen.",
+        "Spanish": "Sé bueno con los demás.",
+        "Dutch": "Wees goed voor anderen.",
+        "Turkish": "Başkalarına iyi davran.",
+        "Italian": "Sii buono con gli altri.",
+        "French": "Sois bon avec les autres.",
+        "Chinese": "善待他人。",
+        "Japanese": "他人に親切に。"
+      }
+    },
+    {
+      "id": "e5f6g7h8-90a1-b2c3-d4e5-f6g7h8i9j0k",
+      "quote": "Little by little, you can do it.",
+      "used": 0,
+      "translations": {
+        "German": "Stück für Stück, du schaffst das.",
+        "Spanish": "Poco a poco, puedes hacerlo.",
+        "Dutch": "Beetje bij beetje, je kunt het.",
+        "Turkish": "Yavaş yavaş, yapabilirsin.",
+        "Italian": "A poco a poco, puoi farcela.",
+        "French": "Petit à petit, tu peux y arriver.",
+        "Chinese": "一点一点来，你能做到。",
+        "Japanese": "少しずつ、君ならできる。"
+      }
+    },
+    {
+      "id": "f6g7h8i9-0a1b-2c3d-4e5f-6g7h8i9j0k1",
+      "quote": "Think of happy moments.",
+      "used": 0,
+      "translations": {
+        "German": "Denke an glückliche Momente.",
+        "Spanish": "Piensa en momentos felices.",
+        "Dutch": "Denk aan gelukkige momenten.",
+        "Turkish": "Mutlu anları düşün.",
+        "Italian": "Pensa a momenti felici.",
+        "French": "Pense à des moments heureux.",
+        "Chinese": "想想快乐的时光。",
+        "Japanese": "幸せな瞬間を思い出して。"
+      }
+    },
+    {
+      "id": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v",
+      "quote": "A good laugh is good medicine.",
+      "used": 0,
+      "translations": {
+        "German": "Ein gutes Lachen ist eine gute Medizin.",
+        "Spanish": "Una buena risa es una buena medicina.",
+        "Dutch": "Een goede lach is goede medicijn.",
+        "Turkish": "İyi bir kahkaha iyi bir ilaçtır.",
+        "Italian": "Una bella risata è un'ottima medicina.",
+        "French": "Un bon rire est un bon remède.",
+        "Chinese": "开怀大笑是良药。",
+        "Japanese": "良く笑うことは良い薬だ。"
+      }
+    },
+    {
+      "id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w",
+      "quote": "Choose to be a good person.",
+      "used": 0,
+      "translations": {
+        "German": "Entscheide dich, ein guter Mensch zu sein.",
+        "Spanish": "Elige ser una buena persona.",
+        "Dutch": "Kies ervoor om een goed mens te zijn.",
+        "Turkish": "İyi bir insan olmayı seç.",
+        "Italian": "Scegli di essere una brava persona.",
+        "French": "Choisis d'être une bonne personne.",
+        "Chinese": "选择成为一个好人。",
+        "Japanese": "良い人になることを選んで。"
+      }
+    },
+    {
+      "id": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x",
+      "quote": "The secret to life is simple.",
+      "used": 0,
+      "translations": {
+        "German": "Das Geheimnis des Lebens ist einfach.",
+        "Spanish": "El secreto de la vida es simple.",
+        "Dutch": "Het geheim van het leven is simpel.",
+        "Turkish": "Hayatın sırrı basittir.",
+        "Italian": "Il segreto della vita è semplice.",
+        "French": "Le secret de la vie est simple.",
+        "Chinese": "生活的秘诀很简单。",
+        "Japanese": "人生の秘訣はシンプルだ。"
+      }
+    },
+    {
+      "id": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y",
+      "quote": "Be brave with your heart.",
+      "used": 0,
+      "translations": {
+        "German": "Sei mutig mit deinem Herzen.",
+        "Spanish": "Sé valiente con tu corazón.",
+        "Dutch": "Wees moedig met je hart.",
+        "Turkish": "Kalbinle cesur ol.",
+        "Italian": "Sii coraggioso con il tuo cuore.",
+        "French": "Sois courageux avec ton cœur.",
+        "Chinese": "用你的心去勇敢。",
+        "Japanese": "心に勇気を持とう。"
+      }
+    },
+    {
+      "id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z",
+      "quote": "Every day is a new chance.",
+      "used": 0,
+      "translations": {
+        "German": "Jeder Tag ist eine neue Chance.",
+        "Spanish": "Cada día es una nueva oportunidad.",
+        "Dutch": "Elke dag is een nieuwe kans.",
+        "Turkish": "Her gün yeni bir şans.",
+        "Italian": "Ogni giorno è una nuova occasione.",
+        "French": "Chaque jour est une nouvelle chance.",
+        "Chinese": "每一天都是新的机会。",
+        "Japanese": "毎日が新たなチャンスだ。"
+      }
+    },
+    {
+      "id": "l2m3n4o5-p6q7-r8s9-t0u1-v2w3x4y5z6a",
+      "quote": "You are not alone.",
+      "used": 0,
+      "translations": {
+        "German": "Du bist nicht allein.",
+        "Spanish": "No estás solo.",
+        "Dutch": "Je bent niet alleen.",
+        "Turkish": "Yalnız değilsin.",
+        "Italian": "Non sei solo.",
+        "French": "Tu n'es pas seul.",
+        "Chinese": "你并不孤单。",
+        "Japanese": "あなたは一人じゃない。"
+      }
+    },
+    {
+      "id": "m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b",
+      "quote": "Hope is a great thing.",
+      "used": 0,
+      "translations": {
+        "German": "Hoffnung ist eine großartige Sache.",
+        "Spanish": "La esperanza es algo grandioso.",
+        "Dutch": "Hoop is een geweldig iets.",
+        "Turkish": "Umut harika bir şeydir.",
+        "Italian": "La speranza è una cosa grandiosa.",
+        "French": "L'espoir est une grande chose.",
+        "Chinese": "希望是件好事。",
+        "Japanese": "希望は素晴らしいものだ。"
+      }
+    },
+    {
+      "id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c",
+      "quote": "Look for the light.",
+      "used": 0,
+      "translations": {
+        "German": "Suche das Licht.",
+        "Spanish": "Busca la luz.",
+        "Dutch": "Zoek naar het licht.",
+        "Turkish": "Işığı ara.",
+        "Italian": "Cerca la luce.",
+        "French": "Cherche la lumière.",
+        "Chinese": "寻找光明。",
+        "Japanese": "光を探そう。"
+      }
+    },
+    {
+      "id": "o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d",
+      "quote": "The greatest thing is love.",
+      "used": 0,
+      "translations": {
+        "German": "Das Größte ist die Liebe.",
+        "Spanish": "Lo más grande es el amor.",
+        "Dutch": "Het grootste is liefde.",
+        "Turkish": "En büyük şey aşktır.",
+        "Italian": "La cosa più grande è l'amore.",
+        "French": "La plus grande chose est l'amour.",
+        "Chinese": "最伟大的事情是爱。",
+        "Japanese": "最も偉大なものは愛だ。"
+      }
+    },
+    {
+      "id": "p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e",
+      "quote": "Be a good friend.",
+      "used": 0,
+      "translations": {
+        "German": "Sei ein guter Freund.",
+        "Spanish": "Sé un buen amigo.",
+        "Dutch": "Wees een goede vriend.",
+        "Turkish": "İyi bir arkadaş ol.",
+        "Italian": "Sii un buon amico.",
+        "French": "Sois un bon ami.",
+        "Chinese": "做一个好朋友。",
+        "Japanese": "良い友達になって。"
+      }
+    },
+    {
+      "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f",
+      "quote": "The best things in life are free.",
+      "used": 0,
+      "translations": {
+        "German": "Die besten Dinge im Leben sind kostenlos.",
+        "Spanish": "Las mejores cosas de la vida son gratis.",
+        "Dutch": "De beste dingen in het leven zijn gratis.",
+        "Turkish": "Hayattaki en iyi şeyler bedavadır.",
+        "Italian": "Le cose migliori della vita sono gratuite.",
+        "French": "Les meilleures choses de la vie sont gratuites.",
+        "Chinese": "生活中最好的东西是免费的。",
+        "Japanese": "人生の最高のものは無料だ。"
+      }
+    },
+    {
+        "id": "r8s9t0u1-v2w3-x4y5-z6a7-b8c9d0e1f2g",
+        "quote": "Your voice is a strong tool.",
+        "translations": {
+        "german": "Deine Stimme ist ein starkes Werkzeug.",
+        "spanish": "Tu voz es una herramienta poderosa.",
+        "dutch": "Je stem is een krachtig hulpmiddel.",
+        "turkish": "Sesin güçlü bir araçtır.",
+        "italian": "La tua voce è uno strumento potente.",
+        "french": "Votre voix est un outil puissant.",
+        "chinese": "你的声音是一个强大的工具。",
+        "japanese": "あなたの声は強力なツールです。"
+        },
+        "used": 0
+    },
+    {
+        "id": "s9t0u1v2-w3x4-y5z6-a7b8-c9d0e1f2g3h",
+        "quote": "Listen to the world around you.",
+        "translations": {
+        "german": "Höre auf die Welt um dich herum.",
+        "spanish": "Escucha el mundo que te rodea.",
+        "dutch": "Luister naar de wereld om je heen.",
+        "turkish": "Etrafınızdaki dünyayı dinleyin.",
+        "italian": "Ascolta il mondo che ti circonda.",
+        "french": "Écoutez le monde qui vous entoure.",
+        "chinese": "倾听你周围的世界。",
+        "japanese": "あなたの周りの世界に耳を傾けてください。"
+        },
+        "used": 0
+    },
+    {
+        "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i",
+        "quote": "Happy is a choice.",
+        "translations": {
+        "german": "Glücklichsein ist eine Wahl.",
+        "spanish": "Ser feliz es una elección.",
+        "dutch": "Gelukkig zijn is een keuze.",
+        "turkish": "Mutluluk bir seçimdir.",
+        "italian": "La felicità è una scelta.",
+        "french": "Le bonheur est un choix.",
+        "chinese": "快乐是一种选择。",
+        "japanese": "幸せは選択です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j",
+        "quote": "Do not fear change.",
+        "translations": {
+        "german": "Fürchte dich nicht vor Veränderung.",
+        "spanish": "No temas al cambio.",
+        "dutch": "Vrees verandering niet.",
+        "turkish": "Değişimden korkma.",
+        "italian": "Non temere il cambiamento.",
+        "french": "Ne craignez pas le changement.",
+        "chinese": "不要害怕改变。",
+        "japanese": "変化を恐れるな。"
+        },
+        "used": 0
+    },
+    {
+        "id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l",
+        "quote": "Small acts of kindness matter.",
+        "translations": {
+        "german": "Kleine Taten der Freundlichkeit zählen.",
+        "spanish": "Los pequeños actos de bondad importan.",
+        "dutch": "Kleine daden van vriendelijkheid doen ertoe.",
+        "turkish": "Küçük iyilikler önemlidir.",
+        "italian": "Piccoli atti di gentilezza contano.",
+        "french": "Les petites attentions comptent.",
+        "chinese": "小小的善举很重要。",
+        "japanese": "小さな親切な行為が重要です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "x4y5z6a7-b8c9-d0e1-f2g3-h4i5j6k7l8m",
+        "quote": "The future is a new door.",
+        "translations": {
+        "german": "Die Zukunft ist eine neue Tür.",
+        "spanish": "El futuro es una nueva puerta.",
+        "dutch": "De toekomst is een nieuwe deur.",
+        "turkish": "Gelecek yeni bir kapıdır.",
+        "italian": "Il futuro è una nuova porta.",
+        "french": "L'avenir est une nouvelle porte.",
+        "chinese": "未来是一扇新的大门。",
+        "japanese": "未来は新しい扉です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "y5z6a7b8-c9d0-e1f2-g3h4-i5j6k7l8m9n",
+        "quote": "Be happy with your life.",
+        "translations": {
+        "german": "Sei glücklich mit deinem Leben.",
+        "spanish": "Sé feliz con tu vida.",
+        "dutch": "Wees blij met je leven.",
+        "turkish": "Hayatından mutlu ol.",
+        "italian": "Sii felice della tua vita.",
+        "french": "Soyez heureux de votre vie.",
+        "chinese": "对你的生活感到快乐。",
+        "japanese": "あなたの人生に満足してください。"
+        },
+        "used": 0
+    },
+    {
+        "id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o",
+        "quote": "Your thoughts are powerful.",
+        "translations": {
+        "german": "Deine Gedanken sind mächtig.",
+        "spanish": "Tus pensamientos son poderosos.",
+        "dutch": "Je gedachten zijn krachtig.",
+        "turkish": "Düşüncelerin güçlüdür.",
+        "italian": "I tuoi pensieri sono potenti.",
+        "french": "Vos pensées sont puissantes.",
+        "chinese": "你的思想是强大的。",
+        "japanese": "あなたの思考は強力です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "a7b8c9d0-e1f2-g3h4-i5j6-k7l8m9n0o1p",
+        "quote": "The sun will rise again.",
+        "translations": {
+        "german": "Die Sonne wird wieder aufgehen.",
+        "spanish": "El sol volverá a salir.",
+        "dutch": "De zon zal weer opkomen.",
+        "turkish": "Güneş yeniden doğacak.",
+        "italian": "Il sole sorgerà di nuovo.",
+        "french": "Le soleil se lèvera à nouveau.",
+        "chinese": "太阳会再次升起。",
+        "japanese": "太陽はまた昇るでしょう。"
+        },
+        "used": 0
+    },
+    {
+        "id": "b8c9d0e1-f2g3-h4i5-j6k7-l8m9n0o1p2q",
+        "quote": "Give thanks for today.",
+        "translations": {
+        "german": "Sei dankbar für heute.",
+        "spanish": "Da gracias por hoy.",
+        "dutch": "Wees dankbaar voor vandaag.",
+        "turkish": "Bugüne şükret.",
+        "italian": "Ringrazia per oggi.",
+        "french": "Remerciez pour aujourd'hui.",
+        "chinese": "为今天感恩。",
+        "japanese": "今日に感謝しなさい。"
+        },
+        "used": 0
+    },
+    {
+        "id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r",
+        "quote": "Believe in your own magic.",
+        "translations": {
+        "german": "Glaube an deine eigene Magie.",
+        "spanish": "Cree en tu propia magia.",
+        "dutch": "Geloof in je eigen magie.",
+        "turkish": "Kendi büyünüze inanın.",
+        "italian": "Credi nella tua magia.",
+        "french": "Croyez en votre propre magie.",
+        "chinese": "相信自己的魔力。",
+        "japanese": "あなた自身の魔法を信じてください。"
+        },
+        "used": 0
+    },
+    {
+        "id": "d0e1f2g3-h4i5-j6k7-l8m9-n0o1p2q3r4s",
+        "quote": "Life is short, smile more.",
+        "translations": {
+        "german": "Das Leben ist kurz, lächle mehr.",
+        "spanish": "La vida es corta, sonríe más.",
+        "dutch": "Het leven is kort, lach meer.",
+        "turkish": "Hayat kısa, daha çok gülümse.",
+        "italian": "La vita è breve, sorridi di più.",
+        "french": "La vie est courte, souriez plus.",
+        "chinese": "生命短暂，多微笑。",
+        "japanese": "人生は短い、もっと笑って。"
+        },
+        "used": 0
+    },
+    {
+        "id": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t",
+        "quote": "Find a reason to celebrate.",
+        "translations": {
+        "german": "Finde einen Grund zum Feiern.",
+        "spanish": "Encuentra una razón para celebrar.",
+        "dutch": "Vind een reden om te vieren.",
+        "turkish": "Kutlamak için bir neden bulun.",
+        "italian": "Trova un motivo per festeggiare.",
+        "french": "Trouvez une raison de célébrer.",
+        "chinese": "找一个庆祝的理由。",
+        "japanese": "祝う理由を見つけてください。"
+        },
+        "used": 0
+    },
+    {
+        "id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u",
+        "quote": "Your heart is a guide.",
+        "translations": {
+        "german": "Dein Herz ist ein Führer.",
+        "spanish": "Tu corazón es una guía.",
+        "dutch": "Je hart is een gids.",
+        "turkish": "Kalbiniz bir rehberdir.",
+        "italian": "Il tuo cuore è una guida.",
+        "french": "Votre cœur est un guide.",
+        "chinese": "你的心是向导。",
+        "japanese": "あなたの心は道しるべです。"
+        },
+        "used": 0
+    },
+    {
+        "id": "g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v",
+        "quote": "The world needs your kindness.",
+        "translations": {
+        "german": "Die Welt braucht deine Freundlichkeit.",
+        "spanish": "El mundo necesita tu amabilidad.",
+        "dutch": "De wereld heeft jouw vriendelijkheid nodig.",
+        "turkish": "Dünya nezaketinize ihtiyacı var.",
+        "italian": "Il mondo ha bisogno della tua gentilezza.",
+        "french": "Le monde a besoin de votre gentillesse.",
+        "chinese": "世界需要你的善良。",
+        "japanese": "世界はあなたの優しさを必要としています。"
+        },
+        "used": 0
+    },
+    {
+        "id": "h4i5j6k7-l8m9-n0o1-p2q3-r4s5t6u7v8w",
+        "quote": "Be a hero in your own story.",
+        "translations": {
+        "german": "Sei ein Held in deiner eigenen Geschichte.",
+        "spanish": "Sé un héroe en tu propia historia.",
+        "dutch": "Wees een held in je eigen verhaal.",
+        "turkish": "Kendi hikayenizin kahramanı olun.",
+        "italian": "Sii un eroe nella tua storia.",
+        "french": "Soyez le héros de votre propre histoire.",
+        "chinese": "做自己故事里的英雄。",
+        "japanese": "あなた自身の物語のヒーローになりなさい。"
+        },
+        "used": 0
+    },
+    {
+        "id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x",
+        "quote": "Every problem has a solution.",
+        "translations": {
+        "german": "Jedes Problem hat eine Lösung.",
+        "spanish": "Cada problema tiene una solución.",
+        "dutch": "Elk probleem heeft een oplossing.",
+        "turkish": "Her problemin bir çözümü vardır.",
+        "italian": "Ogni problema ha una soluzione.",
+        "french": "Chaque problème a une solution.",
+        "chinese": "每个问题都有一个解决方案。",
+        "japanese": "すべての問題には解決策があります。"
+        },
+        "used": 0
+    },
+    {
+        "id": "j6k7l8m9-n0o1-p2q3-r4s5-t6u7v8w9x0y",
+        "quote": "A good book is a good friend.",
+        "translations": {
+        "german": "Ein gutes Buch ist ein guter Freund.",
+        "spanish": "Un buen libro es un buen amigo.",
+        "dutch": "Een goed boek is een goede vriend.",
+        "turkish": "İyi bir kitap iyi bir arkadaştır.",
+        "italian": "Un buon libro è un buon amico.",
+        "french": "Un bon livre est un bon ami.",
+        "chinese": "一本好书是一个好朋友。",
+        "japanese": "良い本は良い友達です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "k7l8m9n0-o1p2-q3r4-s5t6-u7v8w9x0y1z",
+        "quote": "Be patient with yourself.",
+        "translations": {
+        "german": "Sei geduldig mit dir selbst.",
+        "spanish": "Sé paciente contigo mismo.",
+        "dutch": "Wees geduldig met jezelf.",
+        "turkish": "Kendinize karşı sabırlı olun.",
+        "italian": "Sii paziente con te stesso.",
+        "french": "Soyez patient avec vous-même.",
+        "chinese": "对自己要有耐心。",
+        "japanese": "自分自身に忍耐強くありなさい。"
+        },
+        "used": 0
+    },
+    {
+        "id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a",
+        "quote": "You are a powerful person.",
+        "translations": {
+        "german": "Du bist eine mächtige Person.",
+        "spanish": "Eres una persona poderosa.",
+        "dutch": "Je bent een krachtig persoon.",
+        "turkish": "Sen güçlü bir insansın.",
+        "italian": "Sei una persona potente.",
+        "french": "Vous êtes une personne puissante.",
+        "chinese": "你是一个强大的人。",
+        "japanese": "あなたはパワフルな人です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "m9n0o1p2-q3r4-s5t6-u7v8-w9x0y1z2a3b",
+        "quote": "The best time for new starts is now.",
+        "translations": {
+        "german": "Die beste Zeit für Neuanfänge ist jetzt.",
+        "spanish": "El mejor momento para empezar de nuevo es ahora.",
+        "dutch": "De beste tijd voor nieuwe starts is nu.",
+        "turkish": "Yeni başlangıçlar için en iyi zaman şimdi.",
+        "italian": "Il momento migliore per ricominciare è ora.",
+        "french": "Le meilleur moment pour de nouveaux départs est maintenant.",
+        "chinese": "重新开始的最佳时机就是现在。",
+        "japanese": "新しいスタートを切るのに最適な時期は今です。"
+        },
+        "used": 0
+    },
+    {
+        "id": "n0o1p2q3-r4s5-t6u7-v8w9-x0y1z2a3b4c",
+        "quote": "Do what you love.",
+        "translations": {
+        "german": "Tue, was du liebst.",
+        "spanish": "Haz lo que amas.",
+        "dutch": "Doe wat je liefhebt.",
+        "turkish": "Sevdiğiniz şeyi yapın.",
+        "italian": "Fai ciò che ami.",
+        "french": "Faites ce que vous aimez.",
+        "chinese": "做你热爱的事情。",
+        "japanese": "好きなことをしなさい。"
+        },
+        "used": 0
+    },
+    {
+        "id": "o1p2q3r4-s5t6-u7v8-w9x0-y1z2a3b4c5d",
+        "quote": "The best is yet to be.",
+        "translations": {
+        "german": "Das Beste kommt noch.",
+        "spanish": "Lo mejor está por venir.",
+        "dutch": "Het beste moet nog komen.",
+        "turkish": "En iyisi henüz gelmedi.",
+        "italian": "Il meglio deve ancora venire.",
+        "french": "Le meilleur est encore à venir.",
+        "chinese": "最好的还在后头。",
+        "japanese": "最高はまだ来ていません。"
+        },
+        "used": 0
+    }
+  ]
